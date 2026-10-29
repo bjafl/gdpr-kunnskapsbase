@@ -26,12 +26,12 @@ Utfyllbar mal: [M03](../maler/M03-risikovurdering-mal.md). Arbeidsflyt: [A03](..
 
 ## Rettslig grunnlag
 
-- **Art. 24 nr. 1** – tiltak ut fra «risikoene av varierende sannsynlighet og alvorlighet for fysiske personers rettigheter og friheter» **[Merknad – ikke fra kildene: ordlyd]**.
-- **Art. 25 nr. 1** – innebygd personvern ut fra samme risikobegrep [K13](../kilder/K13-dt-innebygd-personvern.md).
-- **Art. 32 nr. 1–2** – egnet sikkerhetsnivå ut fra risiko, særlig risiko for tilintetgjøring, tap, endring, ikke-autorisert utlevering eller tilgang. Se [T08](T08-informasjonssikkerhet-art32.md).
-- **Art. 35 nr. 1, 3, 7 bokstav c–d, nr. 11** – DPIA ved sannsynlig høy risiko; vurdering av risiko og tiltak; gjennomgang ved endret risiko [K24](../kilder/K24-wp248-dpia.md), [K40 § 3](../kilder/K40-dpia-prosess-uld.md).
-- **Art. 36 nr. 1** – forhåndsdrøfting når DPIA viser høy risiko dersom ikke tiltak treffes [K12 s. 6](../kilder/K12-dt-dpia-veiledning.md), [K23](../kilder/K23-cnil-risikoark.md).
-- **Fortalepunkt 75–77, 83, 84, 89–94** [K17 Kryssreferanser](../kilder/K17-digdir-gjennomfore-risikovurdering.md), [K18 Kryssreferanser](../kilder/K18-digdir-retningslinje-risiko.md). **[Merknad – ikke fra kildene]** Fortalepunkt 75 beskriver risiko for fysisk, materiell eller immateriell skade (bl.a. diskriminering, identitetstyveri eller -bedrageri, økonomisk tap, omdømmeskade, tap av konfidensialitet for opplysninger underlagt taushetsplikt, uautorisert reversering av pseudonymisering, tap av kontroll); fortalepunkt 76 sier at sannsynlighet og alvorlighet skal fastsettes ut fra behandlingens art, omfang, sammenheng og formål, og vurderes objektivt.
+- **[Art. 24](../kilder/K43-gdpr-kap04-behandlingsansvarlig-og-databehandler.md#art-24) nr. 1** – tiltak ut fra «risikoene av varierende sannsynlighets- og alvorlighetsgrad for fysiske personers rettigheter og friheter».
+- **[Art. 25](../kilder/K43-gdpr-kap04-behandlingsansvarlig-og-databehandler.md#art-25) nr. 1** – innebygd personvern ut fra samme risikobegrep [K13](../kilder/K13-dt-innebygd-personvern.md).
+- **[Art. 32](../kilder/K43-gdpr-kap04-behandlingsansvarlig-og-databehandler.md#art-32) nr. 1–2** – egnet sikkerhetsnivå ut fra risiko, særlig risiko for tilintetgjøring, tap, endring, ikke-autorisert utlevering eller tilgang. Se [T08](T08-informasjonssikkerhet-art32.md).
+- **[Art. 35](../kilder/K43-gdpr-kap04-behandlingsansvarlig-og-databehandler.md#art-35) nr. 1, 3, 7 bokstav c–d, nr. 11** – DPIA ved sannsynlig høy risiko; vurdering av risiko og tiltak; gjennomgang ved endret risiko [K24](../kilder/K24-wp248-dpia.md), [K40 § 3](../kilder/K40-dpia-prosess-uld.md).
+- **[Art. 36](../kilder/K43-gdpr-kap04-behandlingsansvarlig-og-databehandler.md#art-36) nr. 1** – forhåndsdrøfting når DPIA viser høy risiko dersom ikke tiltak treffes [K12 s. 6](../kilder/K12-dt-dpia-veiledning.md), [K23](../kilder/K23-cnil-risikoark.md).
+- **Fortalepunkt [75](../kilder/K43-gdpr-fortale.md#fp-75)–77, [83](../kilder/K43-gdpr-fortale.md#fp-83), 84, [89](../kilder/K43-gdpr-fortale.md#fp-89)–94** [K17 Kryssreferanser](../kilder/K17-digdir-gjennomfore-risikovurdering.md), [K18 Kryssreferanser](../kilder/K18-digdir-retningslinje-risiko.md). **[Merknad – ikke fra kildene]** Fortalepunkt 75 beskriver risiko for fysisk, materiell eller immateriell skade (bl.a. diskriminering, identitetstyveri eller -bedrageri, økonomisk tap, omdømmeskade, tap av konfidensialitet for opplysninger underlagt taushetsplikt, uautorisert reversering av pseudonymisering, tap av kontroll); fortalepunkt 76 sier at sannsynlighet og alvorlighet skal fastsettes ut fra behandlingens art, omfang, sammenheng og formål, og vurderes objektivt.
 - **Offentlig sektor:** eForvaltningsforskriften § 15 – internkontroll på informasjonssikkerhetsområdet basert på anerkjente standarder, tilpasset risiko [K16 s. 11](../kilder/K16-dfo-veileder-informasjonssikkerhet.md). Digdirs eksempel-retningslinje anbefaler at risikostyring for informasjonssikkerhet og personvern integreres i én felles retningslinje [K18 innledende råd](../kilder/K18-digdir-retningslinje-risiko.md).
 
 ## Utdyping
@@ -240,7 +240,7 @@ Prinsipper: aksept bare når risikoen er lav eller etter risikohåndtering; lede
 2. **Bruk virksomhetens akseptkriterier (Digdir B) for virksomhetsrisiko og for intern beslutningsmyndighet.**
 3. **Legg på et GDPR-gulv for personvernrisiko:** (a) restrisiko *Høy/Svært høy* i kategorien Personvern (eller CNIL alvorlighet 3–4 med sannsynlighet over «ubetydelig») kan ikke aksepteres internt alene når DPIA er påkrevd – det krever forhåndsdrøfting med Datatilsynet (art. 36) [K23](../kilder/K23-cnil-risikoark.md), [K21](../kilder/K21-dt-sjekkliste-dpia-faser.md), [K30 kap. 16](../kilder/K30-cnil-pia-kunnskapsbaser.md); (b) høy alvorlighet aksepteres bare når sannsynligheten er ubetydelig [K31 vedlegg 6](../kilder/K31-cnil-pia-tilkoblede-objekter.md).
 4. **Beslutningen om forhåndsdrøfting tas av ledelsen** etter dokumentasjon av at risikoen ikke kan reduseres [K21](../kilder/K21-dt-sjekkliste-dpia-faser.md).
-5. **Personvernombudet skal gi råd** om DPIA og restrisiko (art. 35 nr. 2) [K24](../kilder/K24-wp248-dpia.md), [K12](../kilder/K12-dt-dpia-veiledning.md).
+5. **Den behandlingsansvarlige skal rådføre seg med personvernombudet** om DPIA og restrisiko (art. 35 nr. 2, jf. art. 39 nr. 1 bokstav c) [K24](../kilder/K24-wp248-dpia.md), [K12](../kilder/K12-dt-dpia-veiledning.md).
 
 ### 6. Hvilken metode passer når?
 

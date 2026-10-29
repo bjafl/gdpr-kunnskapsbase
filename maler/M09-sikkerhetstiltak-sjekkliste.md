@@ -7,7 +7,7 @@ kilder: [K32, K33, K30, K37, K10, K05, K34, K35, K36]
 
 # Sjekkliste – sikkerhetstiltak etter art. 32
 
-*Bruk: Sjekklisten er en grunnsikringsliste for «egnede tekniske og organisatoriske tiltak» (art. 32). Den kan brukes (1) **internt** som gap-analyse før eller under en risikovurdering ([M03](M03-risikovurdering-mal.md)), og (2) **mot leverandør/databehandler** som spørreskjema og som utkast til sikkerhetsvedlegg i databehandleravtalen ([M01](M01-databehandleravtale-sjekkliste.md), [A01](../arbeidsflyter/A01-gjennomga-databehandleravtale.md)). Tiltakene og kryssreferansene er forklart i [T08](../temaer/T08-informasjonssikkerhet-art32.md).*
+*Bruk: Sjekklisten er en grunnsikringsliste for «egnede tekniske og organisatoriske tiltak» ([art. 32](../kilder/K43-gdpr-kap04-behandlingsansvarlig-og-databehandler.md#art-32)). Den kan brukes (1) **internt** som gap-analyse før eller under en risikovurdering ([M03](M03-risikovurdering-mal.md)), og (2) **mot leverandør/databehandler** som spørreskjema og som utkast til sikkerhetsvedlegg i databehandleravtalen ([M01](M01-databehandleravtale-sjekkliste.md), [A01](../arbeidsflyter/A01-gjennomga-databehandleravtale.md)). Tiltakene og kryssreferansene er forklart i [T08](../temaer/T08-informasjonssikkerhet-art32.md).*
 
 *Referansene peker til: **NSM** = tiltaks-ID i NSMs grunnprinsipper v2.1 [K32](../kilder/K32-nsm-grunnprinsipper.md); **ark** = faktaark i CNILs sikkerhetsguide 2024 [K33](../kilder/K33-cnil-sikkerhetsguide.md); **PIA** = kapittel i CNILs PIA-tiltakskatalog [K30](../kilder/K30-cnil-pia-kunnskapsbaser.md); **SDM** = beskyttelsesmål i [K37](../kilder/K37-sdm-standard-datavernmodell.md) (DM dataminimering, T tilgjengelighet, I integritet, K konfidensialitet, IK ikke-kobling, Å åpenhet, IV intervenerbarhet).*
 
@@ -215,7 +215,7 @@ kilder: [K32, K33, K30, K37, K10, K05, K34, K35, K36]
 | N2 | Taushets-/konfidensialitetserklæring for ansatte, innleide og leverandørpersonell | G | ark 2 · PIA 32.2 · SDM K | | | |
 | N3 | Opplæring i sikkerhet og personvern tilpasset roller, inkl. nyansatte og IT-personell | G | ark 3 · PIA 18 | | | |
 | N4 | Bevisstgjøring om phishing og sosial manipulering; jevnlige påminnelser | G | ark 3 · PIA 18 | | | |
-| N5 | Instruks om at personopplysninger kun behandles etter instruks (art. 32 nr. 4) | G | **[Merknad – ikke fra kildene]** · ark 2 | | | |
+| N5 | Instruks om at personopplysninger kun behandles etter instruks (art. 32 nr. 4) | G | [art. 32 nr. 4](../kilder/K43-gdpr-kap04-behandlingsansvarlig-og-databehandler.md#art-32) · ark 2 | | | |
 | N6 | Øvelser/simuleringer av hendelser | H | ark 3 · NSM 4.1.6 | | | |
 
 ## O. Hendelseshåndtering og brudd
@@ -224,8 +224,8 @@ kilder: [K32, K33, K30, K37, K10, K05, K34, K35, K36]
 |---|---|---|---|---|---|---|
 | O1 | Planverk for hendelseshåndtering med roller, kontaktinformasjon og klassifisering | G | NSM 4.1.1, 4.1.3, 4.1.5 · ark 19 · PIA 17 | | | |
 | O2 | Kriterier for når en hendelse er brudd på personopplysningssikkerheten – også tap av tilgjengelighet/integritet | G | ark 19 · K34 s. 1 | | | |
-| O3 | Rutine for melding til Datatilsynet innen 72 timer (ev. i to trinn) og varsling av registrerte ved høy risiko | G | ark 19 · PIA 17 · se T12 | | | |
-| O4 | Intern oversikt (avviksregister) over alle brudd | G | ark 19 · PIA 17 · K34 s. 2 | | | |
+| O3 | Rutine for melding til Datatilsynet uten ugrunnet opphold og om mulig innen 72 timer ([art. 33](../kilder/K43-gdpr-kap04-behandlingsansvarlig-og-databehandler.md#art-33), ev. trinnvis) og underretning av registrerte ved høy risiko ([art. 34](../kilder/K43-gdpr-kap04-behandlingsansvarlig-og-databehandler.md#art-34)) | G | ark 19 · PIA 17 · se T12 | | | |
+| O4 | Intern oversikt (avviksregister) over alle brudd (art. 33 nr. 5) | G | ark 19 · PIA 17 · K34 s. 2 | | | |
 | O5 | Loggføring av tidslinje og sikring av bevis | G | NSM 4.3.3 · PIA 17 | | | |
 | O6 | Læring etter hendelser og oppdatering av tiltak/risikovurdering | G | NSM 4.4.1–4.4.4 · PIA 17 | | | |
 | O7 | Test av planer og beredskap minst annethvert år | H | NSM 3.4.5, 4.1.6 · PIA 17 | | | |

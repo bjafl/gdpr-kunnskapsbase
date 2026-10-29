@@ -7,7 +7,7 @@ kilder: [K15, K34, K33, K30, K32, K05, K10, K06, K12, K28, K39, K27]
 
 # Mal: Avviksskjema – intern logg, vurdering av meldeplikt/varslingsplikt og melding til Datatilsynet
 
-> **Bruk av malen.** Del A fylles ut for **alle** sikkerhetshendelser som kan berøre personopplysninger, og utgjør posten i avviksregisteret (art. 33 nr. 5) [K30 kap. 17; K34 s. 1]. Del B er vurderingen av meldeplikt (art. 33) og varslingsplikt (art. 34). Del C samler opplysningene som trengs i meldingen til Datatilsynet. Del D er varselet til de registrerte. Del E er oppfølging. **Fristen er 72 timer fra man ble kjent med bruddet – ikke vent på full oversikt; meld trinnvis** [K15 s. 1; K33 ark 19]. Kursiv er veiledning. Fagstoff: [T12](../temaer/T12-avvik-og-brudd-art33-34.md). Prosess: [A05](../arbeidsflyter/A05-avvikshandtering.md).
+> **Bruk av malen.** Del A fylles ut for **alle** sikkerhetshendelser som kan berøre personopplysninger, og utgjør posten i avviksregisteret (art. 33 nr. 5) [K30 kap. 17; K34 s. 1]. Del B er vurderingen av meldeplikt (melding til tilsynsmyndigheten, [art. 33](../kilder/K43-gdpr-kap04-behandlingsansvarlig-og-databehandler.md#art-33)) og varslingsplikt (underretning av de registrerte, [art. 34](../kilder/K43-gdpr-kap04-behandlingsansvarlig-og-databehandler.md#art-34)) ved brudd på personopplysningssikkerheten ([art. 4 nr. 12](../kilder/K43-gdpr-kap01-alminnelige-bestemmelser.md#art-4)). Del C samler opplysningene som trengs i meldingen til Datatilsynet. Del D er varselet til de registrerte. Del E er oppfølging. **Meldingen skal sendes uten ugrunnet opphold og om mulig senest 72 timer etter at man ble kjent med bruddet – ikke vent på full oversikt; meld trinnvis (art. 33 nr. 1 og 4)** [K15 s. 1; K33 ark 19]. Kursiv er veiledning. Fagstoff: [T12](../temaer/T12-avvik-og-brudd-art33-34.md). Prosess: [A05](../arbeidsflyter/A05-avvikshandtering.md).
 
 ---
 
@@ -26,7 +26,7 @@ kilder: [K15, K34, K33, K30, K32, K05, K10, K06, K12, K28, K39, K27]
 | 72-timersfrist utløper | |
 | Tidspunkt hendelsen ble stoppet/inneholdt | |
 | Er hendelsen pågående? | ☐ Ja ☐ Nei |
-| Varsel fra databehandler mottatt (tidspunkt, fra hvem) | *Databehandler skal varsle straks [K05].* |
+| Varsel fra databehandler mottatt (tidspunkt, fra hvem) | *Databehandler skal varsle straks [K05]; art. 33 nr. 2: «uten ugrunnet opphold».* |
 | PVO varslet (tidspunkt) | *Involver PVO tidlig [K15 s. 7].* |
 
 ### A2. Beskrivelse av hendelsen
@@ -97,7 +97,7 @@ kilder: [K15, K34, K33, K30, K32, K05, K10, K06, K12, K28, K39, K27]
 | Konklusjon | Kryss | Begrunnelse |
 |---|---|---|
 | **Ingen risiko sannsynlig** – loggføres, meldes ikke | ☐ | |
-| **Risiko** – meldes til Datatilsynet innen 72 timer | ☐ | |
+| **Risiko** – meldes til Datatilsynet uten ugrunnet opphold, om mulig senest innen 72 timer | ☐ | |
 | **Høy risiko** – meldes til Datatilsynet **og** varsles til de registrerte uten ugrunnet opphold | ☐ | |
 | Uavklart – meldes foreløpig (trinnvis) | ☐ | *[K15 s. 1, 6]* |
 
@@ -108,8 +108,8 @@ kilder: [K15, K34, K33, K30, K32, K05, K10, K06, K12, K28, K39, K27]
 | Unntak | Gjelder? | Dokumentasjon |
 |---|---|---|
 | a) Tekniske/organisatoriske tiltak gjør opplysningene uforståelige for uvedkommende (f.eks. kryptering, nøkkel ikke kompromittert) | ☐ | *[K10; K30 kap. 17]* |
-| b) Etterfølgende tiltak sikrer at den høye risikoen sannsynligvis ikke lenger vil oppstå | ☐ | ***[Merknad – ikke fra kildene]*** |
-| c) Uforholdsmessig innsats – erstattes av offentlig kunngjøring eller tilsvarende effektiv informasjon | ☐ | ***[Merknad – ikke fra kildene]*** |
+| b) Etterfølgende tiltak sikrer at den høye risikoen sannsynligvis ikke lenger vil oppstå | ☐ | *[art. 34 nr. 3 b](../kilder/K43-gdpr-kap04-behandlingsansvarlig-og-databehandler.md#art-34)* |
+| c) Uforholdsmessig innsats – erstattes av offentlig kunngjøring eller tilsvarende effektiv informasjon | ☐ | *[art. 34 nr. 3 c](../kilder/K43-gdpr-kap04-behandlingsansvarlig-og-databehandler.md#art-34)* |
 
 ### B4. Andre meldinger
 
@@ -126,7 +126,7 @@ kilder: [K15, K34, K33, K30, K32, K05, K10, K06, K12, K28, K39, K27]
 
 ## DEL C – Opplysninger til melding til Datatilsynet
 
-*Feltene dekker minimumsinnholdet i art. 33 nr. 3 (**[Merknad – ikke fra kildene]**: ordlyden er ikke gjengitt i kildegrunnlaget; kontroller mot forordningen og Datatilsynets gjeldende meldeskjema). Opplysninger som ikke er kjent ennå, kan ettersendes trinnvis [K15 s. 1; K33 ark 19].*
+*Feltene dekker minimumsinnholdet i [art. 33 nr. 3](../kilder/K43-gdpr-kap04-behandlingsansvarlig-og-databehandler.md#art-33) (kontroller også mot Datatilsynets gjeldende meldeskjema). Opplysninger som ikke er kjent ennå, kan ettersendes trinnvis [K15 s. 1; K33 ark 19].*
 
 | # | Felt | Utfylling |
 |---|---|---|
@@ -135,7 +135,7 @@ kilder: [K15, K34, K33, K30, K32, K05, K10, K06, K12, K28, K39, K27]
 | C3 | Kontaktpunkt: personvernombud eller annen kontaktperson – navn, telefon, e-post (art. 33 nr. 3 b) | |
 | C4 | Databehandler(e) involvert | |
 | C5 | Tidspunkt for bruddet, oppdagelse og kjennskap | |
-| C6 | Hvis meldingen sendes etter 72 timer: årsak til forsinkelsen | ***[Merknad – ikke fra kildene]** art. 33 nr. 1.* |
+| C6 | Hvis meldingen sendes etter 72 timer: årsak til forsinkelsen | *[art. 33 nr. 1](../kilder/K43-gdpr-kap04-behandlingsansvarlig-og-databehandler.md#art-33)* |
 | C7 | Bruddets art: hva har skjedd, bruddtype (konfidensialitet/integritet/tilgjengelighet), årsak (art. 33 nr. 3 a) | |
 | C8 | Kategorier og omtrentlig antall registrerte (art. 33 nr. 3 a) | |
 | C9 | Kategorier og omtrentlig antall registreringer (art. 33 nr. 3 a) | |
@@ -154,7 +154,7 @@ kilder: [K15, K34, K33, K30, K32, K05, K10, K06, K12, K28, K39, K27]
 
 ## DEL D – Varsel til de registrerte (ved høy risiko)
 
-*Klart og enkelt språk, kortfattet og lett tilgjengelig; levert slik at mottakeren faktisk får det med seg, adskilt fra annen informasjon (f.eks. markedsføring) [K06]. Minimum: bruddets art, kontaktpunkt og anbefalte tiltak [K30 kap. 17], samt (**[Merknad – ikke fra kildene]** art. 34 nr. 2) sannsynlige konsekvenser og iverksatte tiltak.*
+*Klart og enkelt språk, kortfattet og lett tilgjengelig; levert slik at mottakeren faktisk får det med seg, adskilt fra annen informasjon (f.eks. markedsføring) [K06]. Minimum: bruddets art, kontaktpunkt og anbefalte tiltak [K30 kap. 17], samt ([art. 34 nr. 2](../kilder/K43-gdpr-kap04-behandlingsansvarlig-og-databehandler.md#art-34), jf. art. 33 nr. 3 b–d) sannsynlige konsekvenser og tiltak som er truffet eller foreslått.*
 
 | Felt | Utfylling |
 |---|---|
@@ -172,7 +172,7 @@ kilder: [K15, K34, K33, K30, K32, K05, K10, K06, K12, K28, K39, K27]
 >
 > **Hva dette kan bety for deg:** [sannsynlige konsekvenser, f.eks. risiko for svindelforsøk, phishing, misbruk av identitet].
 >
-> **Hva vi har gjort:** [stoppet bruddet, sikret systemene, varslet Datatilsynet og politiet, øvrige tiltak].
+> **Hva vi har gjort:** [stoppet bruddet, sikret systemene, meldt bruddet til Datatilsynet, varslet politiet, øvrige tiltak].
 >
 > **Hva vi anbefaler at du gjør:** [konkrete råd, f.eks. bytt passord der du har brukt samme passord, vær oppmerksom på e-post/SMS som ber om opplysninger, kontakt banken, følg med på kontoutskrifter].
 >

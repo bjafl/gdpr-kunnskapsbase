@@ -26,7 +26,7 @@ Målgruppe: tilsynsmyndigheter (tilsyn/rådgivning) og behandlingsansvarlige/dat
 - Ved fastsettelse av **beskyttelsesnivå** for en behandling (normal/høy/svært høy) med kriterier fra de registrertes perspektiv, inkl. kumulative effekter.
 - Ved **revisjon/tilsyn** av tiltak: mål–faktisk-sammenligning og vurdering av funksjonell likeverdighet av alternative tiltak.
 - Når man skal forklare forskjellen mellom informasjonssikkerhetsrisiko (virksomhetens perspektiv, f.eks. BSI IT-Grundschutz/NSM) og personvernrisiko (den registrertes perspektiv).
-- Ved overføring til tredjeland: utlede tiltak som «egnede garantier» (art. 46/47).
+- Ved overføring til tredjeland: utlede tiltak som «nødvendige garantier» (art. 46) eller bindende virksomhetsregler (art. 47).
 
 ## Hovedinnhold
 
@@ -118,7 +118,7 @@ SDM:
 
 - Målene er i hovedsak forankret i **art. 5** (som igjen bygger på Charterets art. 8). Behandlingsansvarlig og databehandler skal velge TOM (særlig art. 32) og implementere og kontrollere dem innenfor innebygd personvern og personvernvennlige standardinnstillinger (art. 25). Ansvarlighet etter art. 5 nr. 2 og 24 nr. 1. DPIA (art. 35) bygger på systematisk beskrivelse og krever tiltak, garantier og sikkerhetsmekanismer (art. 35 nr. 7 og 11).
 - SDM skal hjelpe overgangen til GDPR «in a transparent, controlled and resource-conserving way» og gi dokumentasjonen GDPR krever.
-- **Tredjelandsoverføring:** SDM kan brukes til å utlede TOM som egnede garantier etter **art. 46** eller BCR etter **art. 47**, særlig dokumentasjon og logging.
+- **Tredjelandsoverføring:** SDM kan brukes til å utlede TOM som nødvendige garantier etter **art. 46** eller BCR etter **art. 47**, særlig dokumentasjon og logging.
 - Integritet, tilgjengelighet, konfidensialitet, åpenhet og dataminimering finnes begrepsmessig i forordningsteksten; ikke-kobling og intervenerbarhet er tatt inn via bl.a. formålsbegrensning, sletting og dataportabilitet.
 
 **Mål og GDPR-forankring (s. 24–25):**
@@ -127,7 +127,7 @@ SDM:
 - *Konfidensialitet:* art. 5 nr. 1 bokstav f; art. 32 nr. 1 bokstav b; art. 38 nr. 5 (personvernombudets taushetsplikt); art. 28 nr. 3 bokstav b (databehandlers taushetsplikt). «A violation of confidentiality in general constitutes a data processing without a legal basis.»
 - *Ikke-kobling:* behandlingsgrunnlaget (art. 6) som målestokk; formålsbegrensning art. 5 nr. 1 bokstav b; art. 7 nr. 4 (samtykke kan være ugyldig hvis data ikke er nødvendige); typisk tiltak pseudonymisering (art. 40 nr. 2 bokstav d).
 - *Åpenhet:* art. 5 nr. 1 bokstav a; særlig informasjons- og innsynsplikter.
-- *Intervenerbarhet:* retting, sperring, sletting, innsigelse (art. 16–17 m.fl.); behandlingsansvarlig må etter art. 5 nr. 1 bokstav d legge til rette organisatorisk og teknisk.
+- *Intervenerbarhet:* retting, sperring, sletting, protest (art. 16–17 m.fl.); behandlingsansvarlig må etter art. 5 nr. 1 bokstav d legge til rette organisatorisk og teknisk.
 
 **Tabell 3 – GDPR-artikler per beskyttelsesmål (s. 25):**
 
@@ -166,8 +166,8 @@ For hver komponent (data, systemer, prosesser) og hvert mål angis referansetilt
 | **Integritet** (7.3) | Begrense skrive- og endringsrettigheter · Sjekksummer, elektroniske segl og signaturer etter et kryptokonsept · Dokumentert tildeling av rettigheter og roller · Prosesser for å holde data oppdatert · Spesifikasjon av nominell prosessatferd og jevnlig testing for å dokumentere funksjonalitet, risiko, sikkerhetshull og sideeffekter · Spesifikasjon av nominell atferd for arbeidsflyt/prosesser og jevnlig testing av at nåtilstanden kan fastslås |
 | **Konfidensialitet** (7.4) | Rettighets- og rollekonsept etter nødvendighetsprinsippet basert på identitetsforvaltning · Sikker autentisering · Begrense autorisert personell til de som er påviselig ansvarlige (lokalt, faglig), kvalifiserte, pålitelige (ev. sikkerhetsklarert) og formelt godkjent, uten interessekonflikt · Spesifikasjon og kontroll av godkjente ressurser, særlig kommunikasjonskanaler · Egnede omgivelser (bygg, rom) · Spesifikasjon og kontroll av organisatoriske prosedyrer, interne regler og kontraktsforpliktelser (taushetsplikt, konfidensialitetsavtaler) · Kryptering av lagrede og overførte data med prosesser for nøkkelforvaltning (kryptokonsept) · Beskyttelse mot ytre påvirkning (spionasje, hacking) |
 | **Ikke-kobling** (7.5) | Begrense rettigheter til behandling, bruk og overføring · Utelate eller lukke grensesnitt i behandlinger og komponenter · Regler som forbyr bakdører og kvalitetssikring i programvareutvikling · Separasjon langs organisatoriske/avdelingsgrenser · Separasjon via rollekonsepter med differensierte tilganger basert på identitetsforvaltning og sikker autentisering · Godkjenning av brukerstyrt identitetsforvaltning · Formålsspesifikke pseudonymer, anonymiseringstjenester, anonyme legitimasjoner (credentials), behandling av pseudonyme/anonyme data · Regulerte prosedyrer for formålsendringer |
-| **Åpenhet** (7.6) | Dokumentasjon av behandlinger, særlig forretningsprosesser, databeholdninger, dataflyt, IT-systemer, driftsprosedyrer, beskrivelse og samspill med andre behandlinger · Dokumentasjon av testing, godkjenning og ev. forhåndskontroll av nye/endrede behandlinger · Dokumentasjon av kontrakter med ansatte, eksterne tjenesteytere og tredjeparter data hentes fra/overføres til; ansvarsfordeling · Dokumentasjon av samtykker og innsigelser · Logging av tilgang og endringer · Verifisering av datakilder (autentisitet) · Versjonskontroll · Dokumentasjon av behandlingen via protokoller basert på et loggings- og evalueringskonsept · Hensyn til de registrertes rettigheter i loggings- og evalueringskonseptet |
-| **Intervenerbarhet** (7.7) | Differensierte valg for samtykke, tilbaketrekking og innsigelse · Nødvendige datafelt, f.eks. for sperremerking, underretninger, samtykker, innsigelser, tilsvarsrett · Dokumentert håndtering av feil, problemløsning og endringer i behandlingen og i sikkerhets-/personverntiltak · Mulighet for å deaktivere enkeltfunksjoner uten å påvirke hele systemet · Standardiserte spørre- og dialoggrensesnitt for de registrerte · Sporbarhet av behandlingsansvarliges aktiviteter for å innfri rettigheter · Ett kontaktpunkt (Single Point of Contact, SPoC) for de registrerte · Driftsmessig mulighet til å samle, konsistent rette, sperre og slette alle data om én person |
+| **Åpenhet** (7.6) | Dokumentasjon av behandlinger, særlig forretningsprosesser, databeholdninger, dataflyt, IT-systemer, driftsprosedyrer, beskrivelse og samspill med andre behandlinger · Dokumentasjon av testing, godkjenning og ev. forhåndskontroll av nye/endrede behandlinger · Dokumentasjon av kontrakter med ansatte, eksterne tjenesteytere og tredjeparter data hentes fra/overføres til; ansvarsfordeling · Dokumentasjon av samtykker og protester · Logging av tilgang og endringer · Verifisering av datakilder (autentisitet) · Versjonskontroll · Dokumentasjon av behandlingen via protokoller basert på et loggings- og evalueringskonsept · Hensyn til de registrertes rettigheter i loggings- og evalueringskonseptet |
+| **Intervenerbarhet** (7.7) | Differensierte valg for samtykke, tilbaketrekking og protest · Nødvendige datafelt, f.eks. for sperremerking, underretninger, samtykker, protester, tilsvarsrett · Dokumentert håndtering av feil, problemløsning og endringer i behandlingen og i sikkerhets-/personverntiltak · Mulighet for å deaktivere enkeltfunksjoner uten å påvirke hele systemet · Standardiserte spørre- og dialoggrensesnitt for de registrerte · Sporbarhet av behandlingsansvarliges aktiviteter for å innfri rettigheter · Ett kontaktpunkt (Single Point of Contact, SPoC) for de registrerte · Driftsmessig mulighet til å samle, konsistent rette, sperre og slette alle data om én person |
 
 ### Behandlingens komponenter (kap. 8, s. 31–32)
 
@@ -260,7 +260,7 @@ Katalogen skal bli en integrert del av SDM, men revideres i kortere sykluser i t
 - Kontroller at risikoanalysen også vurderer organisasjonens egen motivasjon og mulighet for formålsendring, tredjelandsoverføring og konflikter mellom informasjonssikkerhet og personvern (9.6) – f.eks. at sikkerhetslogging av ansatte ikke blir uforholdsmessig.
 - Kontroller at dataminimering er vurdert i tre dimensjoner (informasjonsmengde, antall mottakere, grad av kontroll) både globalt og per behandlingssteg, og at tidligst mulig sletting er implementert (5.3).
 - Kontroller for intervenerbarhet at systemet teknisk kan samle, rette, sperre og slette alle data om én person, og at det finnes ett kontaktpunkt for de registrerte (7.7).
-- Kontroller for åpenhet at det finnes dokumentasjon av dataflyt, systemer, kontrakter, samtykker/innsigelser, versjonskontroll og et loggings- og evalueringskonsept (7.6).
+- Kontroller for åpenhet at det finnes dokumentasjon av dataflyt, systemer, kontrakter, samtykker/protester, versjonskontroll og et loggings- og evalueringskonsept (7.6).
 - Kontroller for ikke-kobling at grensesnitt er lukket/dokumentert, at formålsendringer er regulert, og at pseudonymisering/separasjon brukes ved viderebehandling (7.5).
 - Ved høyt nivå: kontroller at tiltak er skalert (sterkere virkning eller mer robust utførelse) og at effekten er dokumentert (9.7).
 - Ved revisjon: bruk mål–faktisk-sammenligning, og krev dokumentasjon av **funksjonell likeverdighet** når andre tiltak enn referansetiltak er valgt (10.3).

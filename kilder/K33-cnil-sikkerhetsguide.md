@@ -77,7 +77,7 @@ Sikkerhet er bindende for behandlingsansvarlig og databehandler via GDPR art. 32
 
 **Unngå:** innføre verktøy uten å følge opp brukerne; ikke kreve personvernopplæring for nyansatte der kjernevirksomheten er behandling av personopplysninger (helse, kundeservice); undervurdere effekten av informerte ansatte; glemme bevisstgjøring av eksterne leverandører (direkte eller via kontrakt).
 
-**Videre:** Informasjonsklassifisering (f.eks. offentlig, intern, konfidensiell) med merking; synlig merking på hver side med sensitive data (art. 9); øvelser og simuleringer av sikkerhetshendelser/kriser.
+**Videre:** Informasjonsklassifisering (f.eks. offentlig, intern, konfidensiell) med merking; synlig merking på hver side med særlige kategorier av personopplysninger (art. 9); øvelser og simuleringer av sikkerhetshendelser/kriser.
 
 ### Ark 4 – Authenticating users / Autentisering av brukere (s. 13–15)
 
@@ -152,7 +152,7 @@ Sikkerhet er bindende for behandlingsansvarlig og databehandler via GDPR art. 32
 
 **Unngå:** behandle personopplysninger på utdaterte servere uten å erstatte dem; usikre protokoller (ukryptert autentisering, klartekst); bruke servere til surfing/e-post; **databaser på server direkte tilgjengelig fra internett**; generiske (delte) kontoer.
 
-**Videre:** systemer med sensitive data (art. 9) i dedikert, logisk isolert miljø; administrasjon via dedikert, isolert nett med sterk autentisering; krypter også interne flyter (TLS, IPsec, SSH); isoler utdaterte men nødvendige servere og begrens personopplysninger der; sårbarhetsskanning (nmap, Nessus, Nikto) eller revisjon for de mest kritiske; IDS/IPS; begrens fysisk og forby logisk fjerntilgang til diagnose-/konfigurasjonsporter; **TLS 1.3, minst 1.2** (ANSSI); ANSSI om sikker administrasjon og systempartisjonering.
+**Videre:** systemer med særlige kategorier av personopplysninger (art. 9) i dedikert, logisk isolert miljø; administrasjon via dedikert, isolert nett med sterk autentisering; krypter også interne flyter (TLS, IPsec, SSH); isoler utdaterte men nødvendige servere og begrens personopplysninger der; sårbarhetsskanning (nmap, Nessus, Nikto) eller revisjon for de mest kritiske; IDS/IPS; begrens fysisk og forby logisk fjerntilgang til diagnose-/konfigurasjonsporter; **TLS 1.3, minst 1.2** (ANSSI); ANSSI om sikker administrasjon og systempartisjonering.
 
 ### Ark 10 – Securing websites / Sikre nettsteder (s. 26–27)
 
@@ -209,7 +209,7 @@ Sikkerhet er bindende for behandlingsansvarlig og databehandler via GDPR art. 32
 
 **Unngå:** starte behandling uten signert kontrakt med art. 28-kravene; skytjenester uten garanti for faktisk geografisk plassering og uten å sikre lovlige vilkår for overføring ut av EU.
 
-**Videre:** CNILs guide for databehandlere; art. 28; nøye valg av skyleverandør (ark 22); **hele underleverandørkjeden** (underdatabehandlere) skal vurderes; sertifisering (ISO/IEC 27001, 27701) som første indikator; helsedata krever HDS-sertifisert vertsleverandør (Frankrike); krev sertifikater og kontroller omfanget (scope). Kommisjonens standardavtaleklausuler mellom behandlingsansvarlig og databehandler kan brukes (fotnote 61).
+**Videre:** CNILs guide for databehandlere; art. 28; nøye valg av skyleverandør (ark 22); **hele underleverandørkjeden** (underdatabehandlere) skal vurderes; sertifisering (ISO/IEC 27001, 27701) som første indikator; helsedata krever HDS-sertifisert vertsleverandør (Frankrike); krev sertifikater og kontroller omfanget (scope). Kommisjonens standardavtaleklausuler (lovens begrep: standardavtalevilkår, art. 28 nr. 7) mellom behandlingsansvarlig og databehandler kan brukes (fotnote 61).
 
 ### Ark 15 – Supervising maintenance and end-of-life / Vedlikehold og utfasing (s. 37–38)
 
@@ -259,11 +259,13 @@ Sikkerhet er bindende for behandlingsansvarlig og databehandler via GDPR art. 32
 
 ### Ark 19 – Managing incidents and violations / Hendelser og brudd (s. 44–45)
 
-**Grunnleggende:** analyser loggene jevnlig; loggforvaltere (interne/eksterne) varsler behandlingsansvarlig så snart som mulig; spre til alle brukere hva de skal gjøre og hvem de skal kontakte, og viktigheten av å melde mistenkelige hendelser; prosedyrer for alarmgenerering fra ulike kilder (automatisk, brukere), behandling og tiltak ved bekreftet hendelse; **inkluder brudd på personopplysningssikkerheten i hendelsesprosessen og definer kriterier for å klassifisere en hendelse som slikt brudd**; vurder risikoen for personer (alvorlighet og sannsynlighet for konsekvenser for rettigheter og friheter); **intern oversikt over alle brudd**; **meld til tilsynsmyndigheten (CNIL) innen 72 timer** ved risiko, og **informer de registrerte ved høy risiko** (med unntak i GDPR) slik at de kan begrense konsekvensene.
+**Grunnleggende:** analyser loggene jevnlig; loggforvaltere (interne/eksterne) varsler behandlingsansvarlig så snart som mulig; spre til alle brukere hva de skal gjøre og hvem de skal kontakte, og viktigheten av å melde mistenkelige hendelser; prosedyrer for alarmgenerering fra ulike kilder (automatisk, brukere), behandling og tiltak ved bekreftet hendelse; **inkluder brudd på personopplysningssikkerheten i hendelsesprosessen og definer kriterier for å klassifisere en hendelse som slikt brudd**; vurder risikoen for personer (alvorlighet og sannsynlighet for konsekvenser for rettigheter og friheter); **intern oversikt over alle brudd**; **meld til tilsynsmyndigheten (CNIL) innen 72 timer** ved risiko, og **underrett de registrerte ved høy risiko** (med unntak i GDPR) slik at de kan begrense konsekvensene.
 
 **Unngå:** vente på at registrerte/tredjeparter oppdager hendelsen; utelate risikovurdering for de registrerte; **vente på presis informasjon før melding når det er klart at et brudd har skjedd** – meldingen kan sendes i to trinn: innledende innen 72 timer, deretter supplerende.
 
 **Videre:** automatisk loggovervåkning med varsler; obligatorisk opplæring av alle ansatte i å identifisere og melde brudd; EDPB Guidelines 01/2021 (18 eksempler på brudd); WP29/WP250 rev.01 om melding av brudd; cybermalveillance.gouv.fr. Merk: plikten til å melde brudd fritar ikke fra andre meldeplikter (fotnote 82).
+
+**[Merknad – ikke fra kilden]** Etter art. 33 nr. 1 skal meldingen skje uten ugrunnet opphold og om mulig senest 72 timer etter at den behandlingsansvarlige fikk kjennskap til bruddet, med mindre bruddet sannsynligvis ikke vil medføre en risiko; ved senere melding skal årsaken til forsinkelsen oppgis. Trinnvis melding følger av art. 33 nr. 4. Underretning av de registrerte (art. 34) kreves når bruddet sannsynligvis vil medføre en høy risiko (jf. [K43](K43-gdpr-kap04-behandlingsansvarlig-og-databehandler.md#art-33)).
 
 ### Del: Fokus
 
@@ -407,7 +409,7 @@ Sikkerhet er bindende for behandlingsansvarlig og databehandler via GDPR art. 32
 
 ## Kryssreferanser
 
-- GDPR: art. 32 (hele guiden); art. 5 nr. 1 bokstav c og nr. 2, art. 24 nr. 1 (ansvarlighet – logger som bevis, ark 14, 16); art. 25 (innebygd personvern, ark 11, 23); art. 28 (databehandleravtale, ark 14, 22); art. 9 (biometri, sensitive data, ark 4, 9); art. 33–34 (brudd, ark 19); art. 35 nr. 7 (DPIA-innhold, ark 20); art. 44 flg. (overføring ut av EU, ark 14, 22).
+- GDPR: art. 32 (hele guiden); art. 5 nr. 1 bokstav c og nr. 2, art. 24 nr. 1 (ansvarlighet – logger som bevis, ark 14, 16); art. 25 (innebygd personvern, ark 11, 23); art. 28 (databehandleravtale, ark 14, 22); art. 9 (biometri, særlige kategorier av personopplysninger, ark 4, 9); art. 33–34 (brudd, ark 19); art. 35 nr. 7 (DPIA-innhold, ark 20); art. 44 flg. (overføring ut av EU, ark 14, 22).
 - Andre kilder:
   - [K34](K34-cnil-cybersikkerhet-2024.md) – CNILs kortere cybersikkerhetsanbefalinger 2024.
   - [K32](K32-nsm-grunnprinsipper.md) – NSMs tiltakskatalog; overlappende tiltak (sikkerhetskopier, MFA, logging, segmentering).

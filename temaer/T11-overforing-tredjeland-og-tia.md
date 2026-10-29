@@ -12,7 +12,7 @@ kilder: [K14, K38, K05, K01, K10, K21, K24, K29, K31, K33, K37, K12]
 1. **All overføring ut av EØS krever et særskilt overføringsgrunnlag i kap. V**, identifisert *før* overføringen – i tillegg til behandlingsgrunnlag etter art. 6 (og ev. 9). Finnes det ikke, eller **vil det ikke fungere i praksis**, er overføringen ulovlig [K14 s. 1, 12].
 2. **«Overføring» = tre kumulative vilkår (EDPB 05/2021):** eksportøren er underlagt GDPR for behandlingen; den sender eller gjør tilgjengelig opplysninger for en *annen* behandlingsansvarlig/databehandler (importør); importøren er i tredjeland eller er en internasjonal organisasjon [K14 s. 1; K38 s. 5–6].
 3. **Fjerntilgang er overføring** når den utføres av en rettslig atskilt enhet (support, drift, konsernselskap utenfor EØS) – men ikke når egen ansatt på reise aksesserer egne systemer [K14 s. 1, 7; K38 s. 6].
-4. **Rekkefølge for grunnlag:** (1) adekvansbeslutning (art. 45) → (2) nødvendige garantier etter art. 46 (normalt SCC 2021/914 eller BCR) → (3) unntak i art. 49 bare som siste utvei, tolket restriktivt [K14 s. 2–3, 12].
+4. **Rekkefølge for grunnlag:** (1) adekvansbeslutning (beslutning om tilstrekkelig beskyttelsesnivå, art. 45) → (2) nødvendige garantier etter art. 46 (normalt SCC 2021/914 eller BCR) → (3) unntak i art. 49 bare som siste utvei, tolket restriktivt [K14 s. 2–3, 12].
 5. **Adekvans** gir fri flyt uten TIA og uten ytterligere tiltak – men sjekk forbehold og omfang (Canada, Japan, Sør-Korea, Færøyene; **USA bare for DPF-sertifiserte importører**) [K14 s. 2; K38 s. 6–7]. Adekvanslisten endres; kontroller alltid gjeldende status.
 6. **Art. 46-grunnlag krever TIA (Schrems II):** eksportøren må, med importørens bistand, vurdere om lov og praksis i mottakerlandet undergraver garantiene, og iverksette supplerende tiltak ved behov [K14 s. 7–8; K38 s. 3–4].
 7. **Supplerende tiltak må som regel være tekniske** (sterk kryptering eller pseudonymisering der importøren *ikke* har nøkkel/koblingsnøkkel). Kontraktuelle og organisatoriske tiltak alene er sjelden nok mot myndighetstilgang [K14 s. 8; K38 s. 22].
@@ -23,11 +23,11 @@ kilder: [K14, K38, K05, K01, K10, K21, K24, K29, K31, K33, K37, K12]
 
 ## Rettslig grunnlag
 
-- **GDPR kap. V:** art. 44 (generelt prinsipp), 45 (adekvans), 46 (nødvendige garantier), 47 (BCR), 48 (utlevering ikke hjemlet i unionsretten), 49 (unntak) [K14].
-- **Art. 3** (territorielt virkeområde) – importør kan selv være underlagt GDPR etter art. 3 nr. 2; det er likevel en overføring [K14 s. 1; K38 s. 5].
-- **Art. 28 nr. 1, nr. 3 bokstav a og h** – databehandler skal bare overføre etter dokumentert instruks, og skal gi informasjon som viser etterlevelse, herunder TIA [K38 s. 8–9; K05 merknad].
-- **Art. 30** – overføringer skal fremgå av protokollen; **art. 13–14** – de registrerte skal informeres [K14 s. 1, 7; K38 s. 11].
-- **Art. 58 nr. 2 bokstav j** – tilsynet kan suspendere overføringer [K14 s. 4].
+- **GDPR kap. V:** [art. 44](../kilder/K43-gdpr-kap05-overforing-av-personopplysninger-til-tredjestater.md#art-44) (generelt prinsipp), [45](../kilder/K43-gdpr-kap05-overforing-av-personopplysninger-til-tredjestater.md#art-45) (beslutning om tilstrekkelig beskyttelsesnivå/adekvans), [46](../kilder/K43-gdpr-kap05-overforing-av-personopplysninger-til-tredjestater.md#art-46) (nødvendige garantier), [47](../kilder/K43-gdpr-kap05-overforing-av-personopplysninger-til-tredjestater.md#art-47) (BCR), [48](../kilder/K43-gdpr-kap05-overforing-av-personopplysninger-til-tredjestater.md#art-48) (utlevering ikke hjemlet i unionsretten), [49](../kilder/K43-gdpr-kap05-overforing-av-personopplysninger-til-tredjestater.md#art-49) (unntak) [K14].
+- **[Art. 3](../kilder/K43-gdpr-kap01-alminnelige-bestemmelser.md#art-3)** (territorielt virkeområde) – importør kan selv være underlagt GDPR etter art. 3 nr. 2; det er likevel en overføring [K14 s. 1; K38 s. 5].
+- **[Art. 28](../kilder/K43-gdpr-kap04-behandlingsansvarlig-og-databehandler.md#art-28) nr. 1, nr. 3 bokstav a og h** – databehandler skal bare overføre etter dokumentert instruks, og skal gi informasjon som viser etterlevelse, herunder TIA [K38 s. 8–9; K05 merknad].
+- **[Art. 30](../kilder/K43-gdpr-kap04-behandlingsansvarlig-og-databehandler.md#art-30)** – overføringer skal fremgå av protokollen; **[art. 13](../kilder/K43-gdpr-kap03-den-registrertes-rettigheter.md#art-13)–[14](../kilder/K43-gdpr-kap03-den-registrertes-rettigheter.md#art-14)** – de registrerte skal informeres [K14 s. 1, 7; K38 s. 11].
+- **[Art. 58](../kilder/K43-gdpr-kap06-uavhengige-tilsynsmyndigheter.md#art-58) nr. 2 bokstav j** – tilsynet kan suspendere overføringer (påby midlertidig opphold i datastrømmene) [K14 s. 4].
 - **Kommisjonens gjennomføringsbeslutning (EU) 2021/914** (SCC) [K14 s. 4]; **beslutning 2023/1795** (EU-U.S. Data Privacy Framework) [K38 s. 7].
 - **Rettspraksis:** EU-domstolen C-311/18 (Schrems II) – Privacy Shield ugyldig, SCC gyldig men ikke alltid tilstrekkelig [K14 s. 7; K38 s. 3]. EU-domstolens dommer er ikke direkte bindende for Norge, men GDPR tolkes likt, og avgjørelsene har stor vekt [K14 s. 7].
 - **EDPB:** Guidelines 05/2021 (art. 3 og kap. V), 2/2018 (art. 49), 2/2020 (offentlige myndigheter), 04/2021 (atferdsnormer), 07/2022 (sertifisering); Recommendations 01/2020 (supplerende tiltak) og 02/2020 (European Essential Guarantees); Recommendations 1/2022 og 1/2026 (BCR); Opinion 22/2024 (databehandlere/underdatabehandlere) [K14; K38].
@@ -123,7 +123,7 @@ Bare når intet effektivt art. 45/46-grunnlag finnes; restriktivt; ikke hovedreg
 | e) Rettskrav | Nær sammenheng og nødvendighet; også forvaltningssaker; ikke ren mulighet for fremtidig prosess | Ja | Ja |
 | f) Vitale interesser | Fysisk/juridisk ute av stand til å samtykke (akutt syk i Mongolia: ja; forskning: nei) | Ja | – |
 | g) Offentlig register | Vilkår for innsyn oppfylt i det konkrete tilfellet; ikke hele registeret | Ja | – |
-| Annet ledd: tvingende berettigede interesser | Enkeltstående, begrenset antall, garantier, dokumentert i protokollen; **varsle Datatilsynet** og informere de registrerte | Nei | Enkeltstående |
+| Annet ledd: tvingende berettigede interesser | Enkeltstående, begrenset antall, garantier, dokumentert i protokollen; **underrette Datatilsynet** og informere de registrerte | Nei | Enkeltstående |
 
 Kilde: [K14 s. 12–14] med eksempler.
 
@@ -214,7 +214,7 @@ Rutiner for håndtering og dokumentasjon av innsynsbegjæringer; involvering av 
 
 Kontroller i DPA/tjenestevilkår:
 - Instruks om overføring (art. 28 nr. 3 a) – hvilke land, hvilke underleverandører, hvilket grunnlag [K05 merknad; K14 s. 1].
-- Liste over underdatabehandlere med land og overføringsgrunnlag; varsling ved endring med innsigelsesrett [K05].
+- Liste over underdatabehandlere med land og overføringsgrunnlag; varsling ved endring med rett til å protestere (art. 28 nr. 2) [K05].
 - SCC-modul 2/3 inkorporert (eller DPF-sertifisering verifisert), og supplerende tiltak inntatt der TIA krever det [K14 s. 4].
 - Rett til å motta TIA med konkrete bevis, også for underleverandører [K38 s. 9].
 - Forbehold om utlevering til tredjelandsmyndigheter – vage forbehold er et varsel [K14 s. 10].
@@ -251,7 +251,7 @@ Datatilsynets DPIA-sjekkliste krever at overføringer, overføringsgrunnlag, ove
 - [ ] Supplerende tiltak vurdert; tekniske tiltak oppfyller EDPB-vilkårene (nøkkel hos eksportør) [K38 s. 23–24].
 - [ ] Tiltak inntatt i SCC/DPA [K14 s. 4].
 - [ ] Ingen effektive tiltak → overføring ikke gjennomført / stanset, data returnert/slettet [K38 s. 26].
-- [ ] Art. 49 bare brukt restriktivt, med vilkår dokumentert; varsel til Datatilsynet ved annet ledd [K14 s. 12–14].
+- [ ] Art. 49 bare brukt restriktivt, med vilkår dokumentert; underretning til Datatilsynet ved annet ledd [K14 s. 12–14].
 - [ ] Overføringen står i protokollen og personvernerklæringen [K14 s. 7].
 - [ ] Revurderingsintervall og utløsende hendelser fastsatt [K38 s. 28].
 - [ ] PVO og CISO har uttalt seg; godkjenning dokumentert [K38 s. 27].

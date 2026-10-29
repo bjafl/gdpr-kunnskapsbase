@@ -7,7 +7,7 @@ kilder: [K38, K14, K05, K10, K24]
 
 # Mal: Overføringskonsekvensvurdering (Transfer Impact Assessment, TIA)
 
-> **Bruk av malen.** Malen følger CNILs TIA-guide (januar 2025), som bygger på EDPB Recommendations 01/2020 og har forutsetningskontroller pluss seks steg [K38], supplert med Datatilsynets veiledning om overføring ut av EØS og Schrems II-vurderingen [K14 s. 7–10]. TIA gjøres av **eksportøren** (behandlingsansvarlig eller databehandler) **med importørens bistand**, **før** overføring som bygger på et **art. 46-verktøy** (SCC, BCR m.fl.) [K38 s. 3]. Kursiv er veiledning. Fagstoff: [T11](../temaer/T11-overforing-tredjeland-og-tia.md). Prosess: [A04](../arbeidsflyter/A04-overforing-og-tia.md). Datatilsynet kan ikke forhåndsgodkjenne vurderingen – dokumentasjonen er avgjørende i tilsyn [K14 s. 8].
+> **Bruk av malen.** Malen følger CNILs TIA-guide (januar 2025), som bygger på EDPB Recommendations 01/2020 og har forutsetningskontroller pluss seks steg [K38], supplert med Datatilsynets veiledning om overføring ut av EØS og Schrems II-vurderingen [K14 s. 7–10]. TIA gjøres av **eksportøren** (behandlingsansvarlig eller databehandler) **med importørens bistand**, **før** overføring som bygger på et **art. 46-verktøy** (nødvendige garantier: SCC – standard personvernbestemmelser, BCR m.fl.) [K38 s. 3]. Lovtekst: [art. 44](../kilder/K43-gdpr-kap05-overforing-av-personopplysninger-til-tredjestater.md#art-44), [art. 45](../kilder/K43-gdpr-kap05-overforing-av-personopplysninger-til-tredjestater.md#art-45), [art. 46](../kilder/K43-gdpr-kap05-overforing-av-personopplysninger-til-tredjestater.md#art-46), [art. 49](../kilder/K43-gdpr-kap05-overforing-av-personopplysninger-til-tredjestater.md#art-49). Kursiv er veiledning. Fagstoff: [T11](../temaer/T11-overforing-tredjeland-og-tia.md). Prosess: [A04](../arbeidsflyter/A04-overforing-og-tia.md). Datatilsynet kan ikke forhåndsgodkjenne vurderingen – dokumentasjonen er avgjørende i tilsyn [K14 s. 8].
 
 ---
 
@@ -43,7 +43,7 @@ kilder: [K38, K14, K05, K10, K24]
 
 | Spørsmål | Svar | Konsekvens |
 |---|---|---|
-| Har mottakerlandet en **gjeldende** adekvansbeslutning, og faller importøren/sektoren innenfor beslutningens omfang? | ☐ Ja ☐ Nei | *Ja → ingen TIA eller tilleggstiltak nødvendig [K38 s. 6; K14 s. 2]. Dokumenter verifiseringen.* |
+| Har mottakerlandet en **gjeldende** adekvansbeslutning (beslutning om tilstrekkelig beskyttelsesnivå, art. 45), og faller importøren/sektoren innenfor beslutningens omfang? | ☐ Ja ☐ Nei | *Ja → ingen TIA eller tilleggstiltak nødvendig [K38 s. 6; K14 s. 2]. Dokumenter verifiseringen.* |
 | Dato og kilde for verifisering av adekvansstatus | | *Sjekk EU-kommisjonens oversikt og datatilsynet.no. Forbehold: Canada (PIPEDA), Japan (APPI, unntak bl.a. media/akademia), Sør-Korea, Færøyene; **USA bare DPF-sertifiserte** (verifiser på dataprivacyframework.gov og at sertifiseringen dekker aktuelle data, f.eks. HR) [K14 s. 2; K38 s. 7].* |
 | Brasil: er adekvans bekreftet på vurderingsdatoen? | ☐ Ja ☐ Nei ☐ Ikke relevant | *K14 lister Brasil som adekvat (s. 2), men et eksempel i samme kilde (s. 3) behandler Brasil som ikke-adekvat. Verifiser alltid gjeldende status før du konkluderer [K14 merknad].* |
 | DPF: er aktuell status for EU-U.S. Data Privacy Framework kontrollert? | ☐ Ja ☐ Ikke relevant | ***[Merknad – ikke fra kildene]** DPF har vært rettslig utfordret; verifiser status. Vurder SCC som reserve.* |

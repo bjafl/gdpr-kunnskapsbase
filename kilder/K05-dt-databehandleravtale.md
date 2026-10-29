@@ -150,7 +150,7 @@ Den første databehandleren må inngå egen databehandleravtale med underleveran
 - Oppfyller ikke underleverandøren sine forpliktelser, har databehandleren det **fulle ansvaret** overfor den behandlingsansvarlige.
 
 #### Bokstav e) Bistand ved de registrertes rettigheter
-Den behandlingsansvarlige skal legge til rette for innsyn, retting, sletting og innsigelse (kap. 3). Viktig praktisk vilkår siden databehandleren ofte har den daglige håndteringen.
+Den behandlingsansvarlige skal legge til rette for innsyn, retting, sletting og protest (kap. 3). Viktig praktisk vilkår siden databehandleren ofte har den daglige håndteringen.
 **Må regulere:**
 - Databehandleren bistår (ved egnede tekniske og organisatoriske tiltak) med å svare på anmodninger fra registrerte. Plikten gjelder så langt det er mulig, med hensyn til behandlingens art.
 **Datatilsynet anbefaler i tillegg:**
@@ -163,6 +163,7 @@ Databehandleren har plikt til å bistå med å sikre at kravene i art. 32–36 o
 **Må regulere:**
 - Plikt til å bistå med forpliktelsene etter art. 32–36 som er relevante i det konkrete avtaleforholdet.
 - Databehandleren må **straks** underrette den behandlingsansvarlige dersom det har skjedd eller skjer et brudd på personopplysningssikkerheten (art. 33 nr. 2).
+**[Merknad – ikke fra kilden]** Art. 33 nr. 2 krever at databehandleren underretter den behandlingsansvarlige «uten ugrunnet opphold» etter å ha fått kjennskap til bruddet; «straks» er strengere enn lovens ordlyd og må i så fall avtales (jf. [K43](K43-gdpr-kap04-behandlingsansvarlig-og-databehandler.md#art-33)).
 - Medfører bruddet risiko for registrertes rettigheter og friheter, må varselet inneholde informasjonen som kreves for at den behandlingsansvarlige kan gi utførlig beskrivelse til tilsynsmyndigheten (art. 33 nr. 3).
 - Må den behandlingsansvarlige varsle de registrerte (art. 34), må databehandleren gi informasjonen som trengs for å gi slik underretning tydelig og i tråd med art. 33 nr. 3 b), c) og d).
 **Datatilsynet anbefaler i tillegg:**
@@ -260,4 +261,5 @@ Pålegger databehandleren å demonstrere etterlevelse av hele art. 28: gi nødve
 - Udatert i utskriften (skrevet ut 22.09.2026). Viser til EU-kommisjonens standardavtaler fra 2021.
 - Veiledningen omtaler ikke i særlig grad overføring til tredjeland i databehandleravtalen.
 - **[Merknad – ikke fra kilden]** Art. 28 nr. 3 a krever også at instruksene omfatter overføring til tredjeland; dette bør tas inn i DPA-en. EU-kommisjonens standardavtale for art. 28 er gjennomføringsbeslutning (EU) 2021/915; den danske standardavtalen ble vedtatt etter EDPB Opinion 14/2019. EDPB Guidelines 07/2020 gir utfyllende tolkning av art. 28.
+- **[Merknad – ikke fra kilden]** Art. 28 nr. 3 krever at avtalen fastsetter «den behandlingsansvarliges rettigheter og plikter», men nevner ikke uttrykkelig oppsigelsesrett. At oppsigelsesrett ved brudd på art. 28 nr. 1 «må» reguleres (tabellens punkt 6), er Datatilsynets tolkning, ikke en uttrykkelig lovregel. Omvendt følger databehandlerens fulle ansvar for underleverandøren (punkt 14) direkte av art. 28 nr. 4, uavhengig av om det avtales (jf. [K43](K43-gdpr-kap04-behandlingsansvarlig-og-databehandler.md#art-28)).
 - **[Merknad – ikke fra kilden]** Kilden skriver «personopplysningsloven artikkel 32» om sikkerhetstiltak; det er forordningens art. 32 som menes (inkorporert i personopplysningsloven).

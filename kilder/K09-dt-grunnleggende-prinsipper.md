@@ -151,3 +151,4 @@ Sentrale momenter i forenlighetsvurderingen:
 ## Aktualitet og begrensninger
 - Udatert i utskriften (skrevet ut 22.09.2026); lenket sjekkliste har filnavn som tyder på versjon fra 2017.
 - Tiltakslistene er eksempler, ikke uttømmende.
+- **[Merknad – ikke fra kilden]** Kilden sier at gjenbruk krever at nytt formål er forenlig **og** at det finnes rettslig grunnlag for den nye behandlingen. Fortalepunkt 50 sier at når behandlingen er forenlig med de opprinnelige formålene, «kreves det ikke et annet rettslig grunnlag enn det som ligger til grunn for innsamlingen av personopplysninger» (jf. [K43](K43-gdpr-fortale.md#fp-50) og [art. 6 nr. 4](K43-gdpr-kap02-prinsipper.md#art-6)). Spørsmålet er omdiskutert; lovteksten bør leses ved vurdering av viderebehandling.

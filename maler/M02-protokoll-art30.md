@@ -7,7 +7,7 @@ kilder: [K02, K03, K04, K05, K06, K11, K14, K27]
 
 # M02 – Protokoll over behandlingsaktiviteter (art. 30)
 
-*Bruk: Malen bygger på Datatilsynets to Excel-maler [K11] og veiledning [K04]. Del A er for behandlingsansvarlig (art. 30 nr. 1), del B for databehandler (art. 30 nr. 2). Felt merket **(O)** er obligatoriske etter art. 30 (oransje i Datatilsynets mal); felt merket (F) er frivillige, men anbefalte (grønne). Det er ingen formkrav, men protokollen må være en samlet, skriftlig og elektronisk tilgjengelig oversikt [K04]. Bakgrunn: [T06](../temaer/T06-protokoll-art30.md).*
+*Bruk: Malen bygger på Datatilsynets to Excel-maler [K11] og veiledning [K04]. Del A er for behandlingsansvarlig (art. 30 nr. 1), del B for databehandler (art. 30 nr. 2). Felt merket **(O)** er obligatoriske etter art. 30 (oransje i Datatilsynets mal); felt merket (F) er frivillige, men anbefalte (grønne). Det er ingen formkrav, men protokollen må være en samlet, skriftlig og elektronisk tilgjengelig oversikt [K04]. Bakgrunn: [T06](../temaer/T06-protokoll-art30.md). Lovtekst: [art. 30](../kilder/K43-gdpr-kap04-behandlingsansvarlig-og-databehandler.md#art-30).*
 
 *Fyll ut én rad (eller ett kort) per behandlingsaktivitet. Del opp når kategori registrerte, behandlingsgrunnlag eller slettefrist er ulik [K11]. «Dersom mulig/relevant» betyr at feltet bare kan stå tomt når det faktisk ikke er relevant – skriv da «Ikke relevant» [K11].*
 
@@ -58,7 +58,7 @@ kilder: [K02, K03, K04, K05, K06, K11, K14, K27]
 | P | Navn på databehandlere («Husk databehandleravtale!») | F | *Navn + ref. til DPA (dato/versjon).* |
 | Q | Felles behandlingsansvarlig – navn og kontaktopplysninger | **O** (nr. 1 a, dersom relevant) | *Ref. til art. 26-ordning.* |
 | R | Tredjeland/internasjonale organisasjoner det overføres til | **O** (nr. 1 e, dersom relevant) | *Navngi land – også fjerntilgang/support [K14 s. 7].* |
-| S | Nødvendige garantier ved overføring | **O** (nr. 1 e, dersom relevant) | *Adekvans, SCC (modul), BCR, art. 49; ved art. 49 nr. 1 annet ledd dokumentasjon av garantier. Ref. til TIA ([M06](M06-tia-mal.md)).* |
+| S | Nødvendige garantier ved overføring | **O** (nr. 1 e, dersom relevant) | *Adekvans, SCC (standard personvernbestemmelser, art. 46 nr. 2 c; modul), BCR, art. 49; ved art. 49 nr. 1 annet ledd dokumentasjon av garantier. Ref. til TIA ([M06](M06-tia-mal.md)).* |
 
 **[Merknad – ikke fra kildene]** Valgfrie tilleggsfelt som ofte er nyttige: hvor beslutninger om formål og midler tas (ledende tilsynsmyndighet, jf. [K27 s. 8]); dato for siste gjennomgang; lenke til personvernerklæring.
 

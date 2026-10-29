@@ -75,3 +75,4 @@ Kort nettside (1 utskriftsside, på nynorsk) fra Datatilsynet om virksomhetens p
 ## Aktualitet og begrensninger
 - Publisert 17.04.2018, sist endret 13.03.2024. Kort oversiktsside på nynorsk; notatet er skrevet på bokmål med sitater på originalspråket.
 - Siden går ikke inn på de enkelte rettighetenes innhold.
+- **[Merknad – ikke fra kilden]** Art. 12 nr. 4 krever at den registrerte ved avslag, i tillegg til årsakene, informeres om muligheten for å klage til en tilsynsmyndighet og for rettslig prøving; dette nevner ikke kilden. Forlengelsen med to måneder er etter art. 12 nr. 3 ikke automatisk, men kan skje «ved behov» ut fra antall anmodninger og kompleksitet, og må meddeles med begrunnelse senest én måned etter mottak (jf. [K43](K43-gdpr-kap03-den-registrertes-rettigheter.md#art-12)).

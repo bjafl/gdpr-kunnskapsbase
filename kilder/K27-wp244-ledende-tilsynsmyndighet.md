@@ -21,7 +21,7 @@ WP244 rev.01 forklarer hvordan en behandlingsansvarlig (controller) eller databe
 
 - Når det skal avklares om en behandling er «grenseoverskridende» og hvilken tilsynsmyndighet som er ledende (f.eks. for et konsern med virksomheter i Norge og andre EØS-land).
 - Ved forhåndsdrøfting etter art. 36 eller andre henvendelser til tilsynsmyndighet: hvilken myndighet skal kontaktes?
-- Ved avvikshåndtering og klager: hvilken myndighet er ledende og hvilke er «berørte».
+- Ved håndtering av brudd på personopplysningssikkerheten (avvik) og klager: hvilken myndighet er ledende og hvilke er «berørte».
 - Ved vurdering av leverandører/databehandlere (f.eks. skytjenester med europeisk hovedkontor i Irland): hvem fører tilsyn med databehandleren når den betjener norske behandlingsansvarlige?
 - Ved gjennomgang av felles behandlingsansvar-avtaler (art. 26) der partene er etablert i ulike land.
 - Når en virksomhet utenfor EU/EØS har representant (art. 27) i et EØS-land.

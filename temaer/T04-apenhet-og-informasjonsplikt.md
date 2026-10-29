@@ -22,9 +22,9 @@ kilder: [K06, K26, K25, K39, K02, K03, K07, K11]
 
 ## Rettslig grunnlag
 
-- **GDPR art. 5 nr. 1 a** (åpenhet), **art. 12** (form, frister, gebyr, identitet, ikoner), **art. 13** (innsamlet fra den registrerte), **art. 14** (ikke innsamlet fra den registrerte), **art. 21 nr. 4** (protestrett skal opplyses), **art. 22** (automatiserte avgjørelser), **art. 23** (nasjonale begrensninger), **art. 26 nr. 2** (felles ansvarlige), **art. 34** (varsel om brudd – samme kvalitetskrav), **art. 89** (forskning).
-- **Fortalepunkt** 39, 41, 58, 60–62 [K06; K26].
-- **Personopplysningsloven § 16** (særnorske unntak; **[Merknad – ikke fra kildene]** paragrafnummeret er angitt i merknad i [K06]), **offentlighetsloven §§ 20–21** [K06 s. 6].
+- **GDPR [art. 5](../kilder/K43-gdpr-kap02-prinsipper.md#art-5) nr. 1 a** (åpenhet), **[art. 12](../kilder/K43-gdpr-kap03-den-registrertes-rettigheter.md#art-12)** (form, frister, gebyr, identitet, ikoner), **[art. 13](../kilder/K43-gdpr-kap03-den-registrertes-rettigheter.md#art-13)** (innsamlet fra den registrerte), **[art. 14](../kilder/K43-gdpr-kap03-den-registrertes-rettigheter.md#art-14)** (ikke innsamlet fra den registrerte), **[art. 21](../kilder/K43-gdpr-kap03-den-registrertes-rettigheter.md#art-21) nr. 4** (protestrett skal opplyses), **[art. 22](../kilder/K43-gdpr-kap03-den-registrertes-rettigheter.md#art-22)** (automatiserte avgjørelser), **[art. 23](../kilder/K43-gdpr-kap03-den-registrertes-rettigheter.md#art-23)** (nasjonale begrensninger), **[art. 26](../kilder/K43-gdpr-kap04-behandlingsansvarlig-og-databehandler.md#art-26) nr. 2** (felles ansvarlige), **[art. 34](../kilder/K43-gdpr-kap04-behandlingsansvarlig-og-databehandler.md#art-34)** (underretning av den registrerte om brudd på personopplysningssikkerheten – samme kvalitetskrav), **[art. 89](../kilder/K43-gdpr-kap09-bestemmelser-om-saerlige-behandlingssituasjoner.md#art-89)** (forskning).
+- **Fortalepunkt** [39](../kilder/K43-gdpr-fortale.md#fp-39), [41](../kilder/K43-gdpr-fortale.md#fp-41), [58](../kilder/K43-gdpr-fortale.md#fp-58), [60](../kilder/K43-gdpr-fortale.md#fp-60)–[62](../kilder/K43-gdpr-fortale.md#fp-62) [K06; K26].
+- **[Personopplysningsloven § 16](../kilder/K42-personopplysningsloven.md#p16)** (særnorske unntak; **[Merknad – ikke fra kildene]** paragrafnummeret er angitt i merknad i [K06] og bekreftet i [K42](../kilder/K42-personopplysningsloven.md#p16)), **offentleglova §§ 20–21** [K06 s. 6].
 - **Veiledning:** WP260 rev.01 [K26] (EDPB-godkjent, fortsatt gjeldende ifølge kildenotatet) og Datatilsynets veileder [K06].
 
 ## Utdyping
@@ -70,7 +70,7 @@ Tabellen bygger på vedlegget i WP260 [K26 s. 35–40] og Datatilsynets oversikt
 - De **viktigste konsekvensene** og eventuelle særlige risikoer ved behandlingen [K06 s. 3; K26 avsn. 10].
 - Ved felles behandlingsansvar: **hovedinnholdet i art. 26-ordningen** og hvem den registrerte kan henvende seg til [K26 avsn. 42–44; K01 s. 8].
 - Ved samtykke i apper/digitale tjenester: liste over **tillatelser**, om de er obligatoriske eller valgfrie, formål; antall og bransje for partnere som mottar data [K39 s. 34].
-- **[Merknad – ikke fra kildene]** Informasjon om bruk av informasjonskapsler/sporingsteknologi etter ekomloven § 3-15 (se [T15](T15-apper-sdk-og-sporingsteknologi.md)).
+- **[Merknad – ikke fra kildene]** Informasjon om bruk av informasjonskapsler/sporingsteknologi etter ekomloven § 3-15 ([K44](../kilder/K44-ekomloven-3-15.md); se [T15](T15-apper-sdk-og-sporingsteknologi.md)).
 
 ### 3. Når informasjonen skal gis
 
@@ -115,10 +115,10 @@ WP29 anbefaler å gi informasjonen **godt før** fristene der det er mulig [K26 
 | b) Umulig | Alt-eller-ingenting («no degrees of impossibility»); faller hinderet bort, skal informasjonen gis straks | Offentlig tilgjengelig informasjon + egnede tiltak [K26 avsn. 59] |
 | b) Uforholdsmessig innsats | Særlig arkiv/forskning/statistikk; momenter: antall personer, alder på data, garantier; må skyldes at data ikke er innhentet fra den registrerte; ikke rutinemessig for andre formål | Dokumentert avveining; **alltid offentlig tilgjengelig informasjon**; ev. DPIA, pseudonymisering, minimering, høy sikkerhet [K26 avsn. 61–64; K06 s. 6] |
 | b) Alvorlig hindre formålet | Informasjonen alene ville gjøre formålet virkningsløst (hvitvasking-eksemplet) | Generell informasjon likevel; behandlingen må være lovlig for øvrig [K26 avsn. 65; K06 s. 6] |
-| c) Uttrykkelig fastsatt i lov med egnede garantier | Loven må rette seg mot den behandlingsansvarlige og gjøre innhentingen/utleveringen obligatorisk | Bør generelt opplyse om at det skjer etter loven [K26 avsn. 66; K06 s. 6] |
+| c) Uttrykkelig fastsatt i lov med egnede tiltak for å verne den registrertes berettigede interesser | Loven må rette seg mot den behandlingsansvarlige og gjøre innhentingen/utleveringen obligatorisk | Bør generelt opplyse om at det skjer etter loven [K26 avsn. 66; K06 s. 6] |
 | d) Lovbestemt taushetsplikt | Taushetsplikten må direkte forby informasjonen (legen og slektningene) | [K26 avsn. 67; K06 s. 6] |
 
-**Personopplysningsloven § 16 – særnorske unntak** (uansett innsamlingsmåte) [K06 s. 6]: Norges utenrikspolitiske og forsvars-/sikkerhetsinteresser (offl. §§ 20–21); forebygging/etterforskning av straffbare handlinger; hensyn til den registrertes helse eller forholdet til nærstående; lovbestemt taushetsplikt; interne saksforberedende dokumenter; åpenbare og grunnleggende private eller offentlige interesser. Bruk krever **skriftlig begrunnelse** med presis henvisning til unntakshjemmelen.
+**Personopplysningsloven § 16 – særnorske unntak** (uansett innsamlingsmåte) [K06 s. 6]: Norges utenrikspolitiske og forsvars-/sikkerhetsinteresser (offl. §§ 20–21); forebygging/etterforskning av straffbare handlinger; hensyn til den registrertes helse eller forholdet til nærstående; lovbestemt taushetsplikt; interne saksforberedende dokumenter; åpenbare og grunnleggende private eller offentlige interesser. Bruk krever **skriftlig begrunnelse** med presis henvisning til unntakshjemmelen [K06 s. 6]; etter ordlyden i § 16 tredje ledd gjelder kravet den som nekter **innsyn**, men Datatilsynet anvender det også på informasjonsplikten.
 
 **Generelt:** Unntak kan ikke brukes til å skjule illegitime formål [K06 s. 6]. Art. 23-begrensninger må kunne påvises, og den registrerte bør informeres på forhånd om at man bygger på dem [K26 avsn. 68].
 
@@ -128,7 +128,7 @@ WP29 anbefaler å gi informasjonen **godt før** fristene der det er mulig [K26 
 - **Databehandleravtaler:** mottakerlisten i erklæringen bør stemme med listen over databehandlere og underdatabehandlere [K26 praktiske sjekkpunkter].
 - **Samtykke:** «informert» samtykke krever ikke alle art. 13/14-elementer i selve forespørselen, men de må gis et annet sted [K25 s. 14].
 - **Rettigheter:** åpenhet gir en tredelt plikt – informere om rettighetene, kommunisere i tråd med art. 12, og legge til rette for utøvelse [K26 avsn. 54–55]. Se [T05](T05-de-registrertes-rettigheter.md).
-- **Avviksvarsling til registrerte (art. 34)** skal oppfylle de samme kravene [K26 avsn. 70]. Se [T12](T12-avvik-og-brudd-art33-34.md).
+- **Underretning av de registrerte om brudd på personopplysningssikkerheten (art. 34)** skal oppfylle de samme kravene [K26 avsn. 70]. Se [T12](T12-avvik-og-brudd-art33-34.md).
 - **DPIA:** publisering av hele eller deler av DPIA kan vurderes for tillit, men er ikke påkrevd [K26 avsn. 42].
 
 ### 8. Kildenes vekt

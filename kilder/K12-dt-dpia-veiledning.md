@@ -39,7 +39,9 @@ PDF-en er en utskrift av nettsiden (13 sider); utskriften har ingen synlig publi
 - Det meste av innholdet i en DPIA skal altså være gjort fra før (oversikt over behandlinger som del av internkontrollen). DPIA krever *i tillegg* at det iverksettes nødvendige tiltak for å oppfylle de registrertes rettigheter **utover minimumskravene** når behandlingen utgjør en særskilt risiko (basert på art, omfang, formål og sammenheng). «Nødvendige tiltak» = tiltak som går utover lovens ordlyd, men som etter en forholdsmessighetsvurdering er nødvendige for å sikre balansen mellom personverninteresser og virksomhetens interesser (s. 1).
 
 ### 2. Sanksjoner (s. 1)
-Manglende overholdelse kan gi sanksjoner. Hvis det ikke foretas DPIA der det er pålagt (art. 35 nr. 1, 3, 4), DPIA utføres på uriktig måte (art. 35 nr. 2 og nr. 7–9), eller forhåndsdrøftelse unnlates når det er krav (art. 36 nr. 3 bokstav e), kan det gi administrative bøter på **opptil 10 millioner euro**, eller for virksomhet **opptil 2 % av samlet global årsomsetning** i forutgående regnskapsår – det høyeste beløpet benyttes (s. 1).
+Manglende overholdelse kan gi sanksjoner. Hvis det ikke foretas DPIA der det er pålagt (art. 35 nr. 1, 3, 4), DPIA utføres på uriktig måte (art. 35 nr. 2 og nr. 7–9), eller forhåndsdrøftelse unnlates når det er krav (art. 36 nr. 3 bokstav e), kan det gi overtredelsesgebyr på **opptil 10 millioner euro**, eller for virksomhet **opptil 2 % av samlet global årsomsetning** i forutgående regnskapsår – det høyeste beløpet benyttes (s. 1).
+
+**[Merknad – ikke fra kilden]** Plikten til forhåndsdrøfting følger av art. 36 nr. 1; art. 36 nr. 3 bokstav e gjelder plikten til å framlegge vurderingen av personvernkonsekvenser ved drøftingen. Henvisningen til «art. 36 nr. 3 bokstav e» for unnlatt forhåndsdrøfting er hentet fra WP248 (jf. [K43](K43-gdpr-kap04-behandlingsansvarlig-og-databehandler.md#art-36)).
 
 ### 3. Om innholdet i veilederen (s. 1)
 Bygger på anbefalingene fra Artikkel 29-gruppen (WP248, se [K24](K24-wp248-dpia.md)), med utdypninger basert bl.a. på Datatilsynets erfaring med konsesjonsbehandling (Norge hadde, i motsetning til mange EU-land, konsesjonsplikt).
@@ -137,7 +139,7 @@ Listen er godkjent av Det europeiske personvernrådet (EDPB). Engelsk versjon: d
 
 **Den registrertes perspektiv – fire mål** (s. 5):
 1. **Medbestemmelse** – reell innflytelse. Eksempler: særskilt spesifisering av samtykke, regelmessig fornying av samtykke, nytt samtykke fra barn når de når samtykkealder, tilrettelagt innsynsløsning med redigering, sletting og tilbaketrekking av samtykke; reell reservasjonsmulighet når grunnlaget er art. 6 f.
-2. **Åpenhet** – informasjon og innsyn. Eksempler: regelmessig informasjon, særskilt varsel før overføring fra et register til et annet, innsynsløsning med oversikt over utleveringer, tegninger av dataflyt, dataportabilitet, lav terskel for å informere om sikkerhetsavvik, informasjon om tiltak, programvare og algoritmer.
+2. **Åpenhet** – informasjon og innsyn. Eksempler: regelmessig informasjon, særskilt varsel før overføring fra et register til et annet, innsynsløsning med oversikt over utleveringer, tegninger av dataflyt, dataportabilitet, lav terskel for å informere om sikkerhetsavvik (brudd på personopplysningssikkerheten), informasjon om tiltak, programvare og algoritmer.
 3. **Forutsigbarhet** – mindre kompleks behandling. Eksempler: spesifisering av formål, klare kriterier for utvalg til forskning, klare begrensninger for kobling mellom registre, færre variabler, kortere lagringstid.
 4. **Tillit** – ved å demonstrere at medbestemmelse, åpenhet og forutsigbarhet er reelle mål og bruke ressurser på dette.
 
@@ -311,4 +313,4 @@ Forordningen foreskriver ikke prosedyre; rammeverk må dekke minimumskravene. Ek
 - Utskriften (22.09.2026) viser ingen publiserings-/endringsdato; innholdet bygger på WP248 og omtaler overgangen fra konsesjonsregimet (før mai 2018).
 - Norsk kontekst (konsesjon, Prop. 56 LS, forvaltningsloven/offentleglova).
 - Lenker til eksterne rammeverk (AEPD 2014, CNIL 2015, SDM V1.0 2016) kan være utdaterte. **[Merknad – ikke fra kilden]** Nyere versjoner finnes av flere av disse (f.eks. SDM 3.x og oppdaterte CNIL PIA-veiledere); WP248 er videreført (endorsed) av EDPB.
-- Bøtesatsen i veilederen (10 mill. euro / 2 %) gjelder brudd på art. 35/36 (jf. art. 83 nr. 4).
+- Satsen for overtredelsesgebyr i veilederen (10 mill. euro / 2 %) gjelder brudd på art. 35/36 (jf. art. 83 nr. 4).

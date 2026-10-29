@@ -10,7 +10,7 @@ kilder: [K09, K03, K02, K06, K08, K26, K25, K13, K39]
 ## Kjerneregler (kort svar)
 
 1. **Sju prinsipper gjelder all behandling:** lovlighet, rettferdighet og åpenhet; formålsbegrensning; dataminimering; riktighet; lagringsbegrensning; integritet og konfidensialitet; ansvarlighet (art. 5 nr. 1 a–f og nr. 2) [K09 s. 1–7].
-2. **Formålet skal være spesifikt, uttrykkelig angitt og legitimt – skriftlig og før innsamling.** «Ei verksemd kan aldri samle eller lagre personopplysningar utan eit formål», og vage formuleringer («administrasjon», «relevant kommunikasjon») er ikke tillatt [K03].
+2. **Formålet skal være spesifikt, uttrykkelig angitt og berettiget (legitimt) – skriftlig og før innsamling.** «Ei verksemd kan aldri samle eller lagre personopplysningar utan eit formål», og vage formuleringer («administrasjon», «relevant kommunikasjon») er ikke tillatt [K03].
 3. **Viderebehandling krever forenlighet** med det opprinnelige formålet (art. 6 nr. 4: kobling, sammenheng/forhold, opplysningenes art, konsekvenser, garantier) – ellers samtykke eller lovhjemmel etter art. 23 nr. 1 [K03; K09 s. 2].
 4. **Arkiv-, forsknings- og statistikkformål** anses ikke uforenlige når art. 89-garantier er på plass [K03; K09 s. 2].
 5. **Dataminimering:** ikke flere opplysninger, og ikke flere personer, enn nødvendig; vurder først om formålet kan nås uten personopplysninger [K09 s. 3].
@@ -21,10 +21,10 @@ kilder: [K09, K03, K02, K06, K08, K26, K25, K13, K39]
 
 ## Rettslig grunnlag
 
-- **GDPR art. 5 nr. 1 bokstav a–f** og **nr. 2** (ansvarlighet).
-- **Art. 6 nr. 4** (forenlighetsvurdering), **art. 23 nr. 1** (lovbestemte begrensninger som kan begrunne uforenlig viderebehandling), **art. 89** (garantier for arkiv, forskning, statistikk).
-- **Art. 24** (den behandlingsansvarliges ansvar), **art. 25** (innebygd personvern – se [T13](T13-innebygd-personvern-art25.md)), **art. 32** (sikkerhet – se [T08](T08-informasjonssikkerhet-art32.md)).
-- Fortalepunkt 39 (åpenhet, lagringstid), 47 og 50 (viderebehandling) [K03; K26].
+- **GDPR [art. 5](../kilder/K43-gdpr-kap02-prinsipper.md#art-5) nr. 1 bokstav a–f** og **nr. 2** (ansvarlighet; lovteksten bruker betegnelsen «ansvar»).
+- **[Art. 6 nr. 4](../kilder/K43-gdpr-kap02-prinsipper.md#art-6)** (forenlighetsvurdering), **[art. 23 nr. 1](../kilder/K43-gdpr-kap03-den-registrertes-rettigheter.md#art-23)** (lovbestemte begrensninger som kan begrunne uforenlig viderebehandling), **[art. 89](../kilder/K43-gdpr-kap09-bestemmelser-om-saerlige-behandlingssituasjoner.md#art-89)** (garantier for arkiv, forskning, statistikk).
+- **[Art. 24](../kilder/K43-gdpr-kap04-behandlingsansvarlig-og-databehandler.md#art-24)** (den behandlingsansvarliges ansvar), **[art. 25](../kilder/K43-gdpr-kap04-behandlingsansvarlig-og-databehandler.md#art-25)** (innebygd personvern – se [T13](T13-innebygd-personvern-art25.md)), **[art. 32](../kilder/K43-gdpr-kap04-behandlingsansvarlig-og-databehandler.md#art-32)** (sikkerhet – se [T08](T08-informasjonssikkerhet-art32.md)).
+- [Fortalepunkt 39](../kilder/K43-gdpr-fortale.md#fp-39) (åpenhet, lagringstid), [47](../kilder/K43-gdpr-fortale.md#fp-47) (berettigede interesser, rimelige forventninger) og [50](../kilder/K43-gdpr-fortale.md#fp-50) (viderebehandling) [K03; K26].
 - Personopplysningsloven inkorporerer forordningen.
 
 **[Merknad – ikke fra kildene]** Ordlyden i art. 6 nr. 4 bokstav a–e: (a) enhver forbindelse mellom formålene; (b) sammenhengen opplysningene ble samlet inn i, særlig forholdet mellom den registrerte og den behandlingsansvarlige; (c) opplysningenes art, særlig om særlige kategorier (art. 9) eller straffedommer (art. 10) behandles; (d) mulige konsekvenser av den planlagte viderebehandlingen; (e) om det finnes nødvendige garantier, som kryptering eller pseudonymisering. Kildenes gjengivelse [K03; K09 s. 2] samsvarer med dette.
@@ -43,7 +43,7 @@ kilder: [K09, K03, K02, K06, K08, K26, K25, K13, K39]
 
 **Krav til formålet** [K03; K09 s. 2]:
 - Definert **før** behandling starter, **skriftlig**, **konkret**.
-- Spesifikt, uttrykkelig angitt og **legitimt** – legitimt betyr i tillegg til rettslig grunnlag at det er i samsvar med «øvrige etiske og rettslige samfunnsnormer» [K09 s. 2].
+- Spesifikt, uttrykkelig angitt og **berettiget** (Datatilsynet: «legitimt») – legitimt betyr i tillegg til rettslig grunnlag at det er i samsvar med «øvrige etiske og rettslige samfunnsnormer» [K09 s. 2].
 - At opplysningene «kan vise seg å komme til nytte en dag» er ikke et formål [K03].
 - Unngå «kan»-formuleringer; si når opplysningene faktisk vil bli brukt til formålet [K03; K26 avsn. 13].
 
@@ -80,7 +80,7 @@ I tillegg skal **rimelige forventninger** vektlegges [K03].
 - Åpenhet «hvitvasker» ikke endringer som gjør behandlingen helt annerledes [K26 avsn. 31].
 - **Arkiv, forskning, statistikk** er ikke uforenlig når art. 89-garantier (dataminimering, pseudonymisering, anonymisering) er på plass [K03; K09 s. 2].
 
-**[Merknad – ikke fra kildene]** Kildene sier ikke uttrykkelig om et forenlig formål trenger *nytt* behandlingsgrunnlag. Fortalepunkt 50 kan leses slik at det ikke kreves separat grunnlag ved forenlig viderebehandling, men EDPB og tilsynspraksis anbefaler i praksis at det nye formålet dokumenteres med sitt grunnlag. K09 skriver at gjenbruk er mulig dersom formålet er forenlig «og det finnes rettslig grunnlag for den nye behandlingen» [K09 s. 2] – følg denne strengere tilnærmingen.
+**[Merknad – ikke fra kildene]** Kildene sier ikke uttrykkelig om et forenlig formål trenger *nytt* behandlingsgrunnlag. [Fortalepunkt 50](../kilder/K43-gdpr-fortale.md#fp-50) sier om forenlig viderebehandling: «I et slikt tilfelle kreves det ikke et annet rettslig grunnlag enn det som ligger til grunn for innsamlingen av personopplysninger.» EDPB og tilsynspraksis anbefaler i praksis at det nye formålet dokumenteres med sitt grunnlag. K09 skriver at gjenbruk er mulig dersom formålet er forenlig «og det finnes rettslig grunnlag for den nye behandlingen» [K09 s. 2] – følg denne strengere tilnærmingen.
 
 **Praktiske eksempler fra kildene:**
 - Kabel-TV: data samlet med samtykke for filmforslag kan ikke brukes til tredjepartsreklame uten nytt samtykke [K25 s. 12].
@@ -141,7 +141,7 @@ Datatilsynets tiltakskatalog [K09] kan brukes direkte i DPIA og innebygd personv
 
 ### 10. Kildenes vekt
 
-K09 og K03 er Datatilsynets oversiktsveiledninger – korte, men autoritative for norsk praksis. K26 (WP260, EDPB-godkjent) utdyper åpenhet og viderebehandling. Det er ingen motstrid av betydning; K09 krever uttrykkelig rettslig grunnlag også for forenlig viderebehandling, mens forordningsteksten er mindre tydelig (se merknad over).
+K09 og K03 er Datatilsynets oversiktsveiledninger – korte, men autoritative for norsk praksis. K26 (WP260, EDPB-godkjent) utdyper åpenhet og viderebehandling. Det er ingen motstrid av betydning; K09 krever uttrykkelig rettslig grunnlag også for forenlig viderebehandling, mens artikkelteksten ikke regulerer spørsmålet uttrykkelig og fortalepunkt 50 peker motsatt vei (se merknad over).
 
 ## Vanlige feil og fallgruver
 
@@ -154,7 +154,7 @@ K09 og K03 er Datatilsynets oversiktsveiledninger – korte, men autoritative fo
 
 ## Sjekkliste
 
-- [ ] Hvert formål er skriftlig, konkret, spesifikt og legitimt, fastsatt før innsamling [K03]
+- [ ] Hvert formål er skriftlig, konkret, spesifikt og berettiget (legitimt), fastsatt før innsamling [K03]
 - [ ] Hvert formål har behandlingsgrunnlag [K09 s. 1] → [T02](T02-behandlingsgrunnlag-og-samtykke.md)
 - [ ] Ny bruk er forenlighetsvurdert etter art. 6 nr. 4 (fem momenter + rimelige forventninger) og dokumentert; ellers samtykke/lov [K03; K09 s. 2]
 - [ ] Informasjon om nytt formål er gitt før oppstart [K26 avsn. 45–48]

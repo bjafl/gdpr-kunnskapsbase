@@ -18,7 +18,7 @@ relevans: høy
 Kort veileder (7 sider i utskrift) fra Datatilsynet om hvordan personvernet skal håndteres når en virksomhet utsettes for digitale angrep. Den beskriver fem vanlige hendelsestyper – tjenestenektangrep (DDoS), phishing, e-postangrep (credential stuffing), direktørsvindel (CEO-fraud) og utpressingsangrep (løsepengevirus/ransomware) – og angir for hver typiske personvernkonsekvenser og om det normalt skal meldes til Datatilsynet. Hovedbudskap: prioriter å håndtere hendelsen; meld til Datatilsynet innen 72 timer selv om informasjonen er midlertidig og ufullstendig, og følg opp med utfyllende melding. DDoS og direktørsvindel har mindre potensial for alvorlige brudd; vellykkede phishing-, e-post- og utpressingsangrep har høy risiko for alvorlige brudd. Veilederen avsluttes med en handlingsliste (krisehåndtering, eksterne aktører, varsling av politi/NSM/Datatilsynet) og fire oppsummerte steg ved mistanke om brudd.
 
 ## Når skal agenten bruke denne kilden
-- Ved en pågående eller nylig sikkerhetshendelse: avgjøre om det er et brudd på personopplysningssikkerheten og om det skal meldes (art. 33) og varsles til de registrerte (art. 34).
+- Ved en pågående eller nylig sikkerhetshendelse: avgjøre om det er et brudd på personopplysningssikkerheten og om det skal meldes til Datatilsynet (art. 33) og de registrerte underrettes (art. 34).
 - Ved utarbeiding av hendelseshåndterings-/avviksrutiner og beredskapsplaner.
 - Ved risikovurdering der trusselscenarioene phishing, ransomware, credential stuffing, DDoS eller CEO-fraud skal beskrives.
 - Ved gjennomgang av databehandleravtaler: plikter rundt hendelseshåndtering og bistand ved avvik. **[Merknad – ikke fra kilden]** Kilden omtaler ikke databehandleres varslingsplikt (art. 33 nr. 2) eksplisitt.
@@ -101,6 +101,8 @@ Kort veileder (7 sider i utskrift) fra Datatilsynet om hvordan personvernet skal
 - Vurder om dere skal **varsle NSM** (Nasjonalt cybersikkerhetssenter).
 - Ved mistanke om brudd på personopplysningssikkerheten skal det sendes **melding til Datatilsynet innen 72 timer**.
 
+**[Merknad – ikke fra kilden]** Etter art. 33 nr. 1 skal bruddet meldes «uten ugrunnet opphold og når det er mulig, senest 72 timer etter å ha fått kjennskap til det»; fristen løper altså fra kjennskap til et brudd, ikke fra mistanke, og 72 timer er en ytre grense. Meldeplikten gjelder ikke når bruddet «sannsynligvis ikke vil medføre en risiko for fysiske personers rettigheter og friheter» – også for hendelser som påvirker tilgjengelighet eller integritet. Underretning av de registrerte (art. 34) kreves bare ved sannsynlig **høy** risiko (jf. [K43](K43-gdpr-kap04-behandlingsansvarlig-og-databehandler.md#art-33)).
+
 **Oppsummert ved mistanke om brudd – fire steg:**
 1. Iverksett tiltak for å **stoppe selve bruddet**.
 2. Involver og søk råd hos **personvernombudet** tidlig; PVO kan også bidra i dialogen med Datatilsynet.
@@ -133,7 +135,7 @@ Utfyllende veiledning om brudd på personopplysningssikkerheten (avvik) finnes p
 - «Hvis det derimot er uklart om og eventuelt hvilke personopplysninger som er på avveie, skal utpressingsangrep meldes til Datatilsynet i påvente av ytterligere avklaring.» (s. 6)
 
 ## Kryssreferanser
-- GDPR: art. 32 (sikkerhet), art. 33 (melding til tilsynsmyndigheten innen 72 timer), art. 34 (varsling av den registrerte)
+- GDPR: art. 32 (sikkerhet), art. 33 (melding til tilsynsmyndigheten innen 72 timer), art. 34 (underretning av den registrerte)
 - [K10](K10-dt-kryptering.md) – kryptering som tiltak som reduserer konsekvenser (jf. art. 34 nr. 3 a)
 - [K16](K16-dfo-veileder-informasjonssikkerhet.md) – informasjonssikkerhet/internkontroll
 - [K32](K32-nsm-grunnprinsipper.md) – NSMs grunnprinsipper for IKT-sikkerhet (forebygging, deteksjon, håndtering)

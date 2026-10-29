@@ -83,4 +83,4 @@ Husk at den behandlingsansvarlige må inngå en databehandleravtale med hver dat
 
 ## Aktualitet og begrensninger
 - Publisert 23.04.2018, sist endret 13.03.2024.
-- **[Merknad – ikke fra kilden]** Art. 30 nr. 5 sier at unntaket for < 250 ansatte ikke gjelder dersom behandlingen sannsynligvis vil medføre en risiko, ikke er sporadisk, eller omfatter særlige kategorier/straffedommer – derfor er unntaket så snevert. Art. 30 nr. 4 pålegger å stille protokollen til rådighet for tilsynsmyndigheten på anmodning.
+- **[Merknad – ikke fra kilden]** Art. 30 nr. 5 sier at unntaket for < 250 ansatte ikke gjelder dersom behandlingen sannsynligvis vil medføre en risiko for de registrertes rettigheter og friheter, ikke skjer leilighetsvis, eller omfatter særlige kategorier/straffedommer – derfor er unntaket så snevert. Art. 30 nr. 4 pålegger å stille protokollen til rådighet for tilsynsmyndigheten på anmodning.

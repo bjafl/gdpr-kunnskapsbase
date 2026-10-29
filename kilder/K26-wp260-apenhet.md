@@ -26,7 +26,7 @@ WP260 rev.01 er Artikkel 29-gruppens (WP29) retningslinje om åpenhetsprinsippet
 - Ved endringer i personvernerklæringen (hva er vesentlig, hvordan og når det skal varsles).
 - Ved informasjon til barn og andre sårbare grupper, IoT-enheter uten skjerm, kameraovervåking, telefon.
 - I DPIA (Annex 2 i [K24](K24-wp248-dpia.md) krever vurdering av informasjon til de registrerte) og ved databehandleravtaler (mottakere/databehandlere skal kunne navngis i informasjonen).
-- Ved varsling av registrerte om brudd (art. 34) – samme kvalitetskrav.
+- Ved underretning av registrerte om brudd på personopplysningssikkerheten (art. 34) – samme kvalitetskrav.
 
 ## Hovedinnhold
 
@@ -48,7 +48,7 @@ WP260 rev.01 er Artikkel 29-gruppens (WP29) retningslinje om åpenhetsprinsippet
 
 ### Elementer i åpenhet under GDPR – art. 12 (avsn. 7–22, s. 6–13)
 
-Art. 12 gjelder informasjon etter art. 13–14, kommunikasjon om rettigheter etter art. 15–22 og varsling om brudd etter art. 34. Kravene:
+Art. 12 gjelder informasjon etter art. 13–14, kommunikasjon om rettigheter etter art. 15–22 og underretning om brudd etter art. 34. Kravene:
 - kortfattet, åpen, forståelig og lett tilgjengelig (art. 12 nr. 1);
 - klart og enkelt språk (art. 12 nr. 1);
 - særlig viktig ved informasjon til barn (art. 12 nr. 1);
@@ -390,7 +390,7 @@ Opphever plikten etter art. 14 nr. 1, 2 og 4:
 - [K24](K24-wp248-dpia.md) – publisering av DPIA; informasjon som del av Annex 2.
 - [K14](K14-dt-overforing-utenfor-eos.md) – overføringsgrunnlag som skal opplyses.
 - [K39](K39-cnil-mobilapper.md) – informasjon i mobilapper.
-- [K15](K15-dt-digitale-angrep.md) – varsling til registrerte ved brudd.
+- [K15](K15-dt-digitale-angrep.md) – underretning av registrerte ved brudd (art. 34).
 
 ## Aktualitet og begrensninger
 

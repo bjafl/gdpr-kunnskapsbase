@@ -215,7 +215,7 @@ For kunnskapsbasen er dokumentet nyttig som **revisjonssjekkliste og kvalitetskr
 
 | ID | Krav |
 |---|---|
-| EC33 | Kontrollerer at de registrerte har rett til innsyn, retting og ev. protest (innsigelse). |
+| EC33 | Kontrollerer at de registrerte har rett til innsyn, retting og ev. rett til å protestere. |
 | EC34 | Kontrollerer at rettighetene kan utøves **effektivt og innen rimelig tid**. |
 | EC35 | Kontrollerer at de registrerte har korrekt, tilgjengelig og klar informasjon om rettighetene og annen lovpålagt informasjon. |
 
@@ -269,6 +269,6 @@ For kunnskapsbasen er dokumentet nyttig som **revisjonssjekkliste og kvalitetskr
 
 - **[Merknad – ikke fra kilden]** Standarden er vedtatt i 2011 under **direktiv 95/46/EF** og den franske personvernloven slik den lød da. Henvisninger til «prior formalities» (meldeplikt/konsesjon hos CNIL) og «CIL» (correspondant informatique et libertés – forløperen til personvernombudet) er utdatert; under GDPR er meldeplikten erstattet av protokollplikt (art. 30) og ansvarlighet.
 - **[Merknad – ikke fra kilden]** CNILs nasjonale merkeordning («labels») ble avviklet etter at GDPR trådte i kraft i 2018; CNIL behandler ikke lenger nye søknader om slike merker. Sertifisering skjer nå etter GDPR art. 42–43 (sertifiseringsordninger godkjent av tilsynsmyndighet/EDPB, f.eks. Europrivacy). Standarden kan derfor ikke brukes til å oppnå et gyldig merke i dag.
-- **[Merknad – ikke fra kilden]** Innholdskravene er likevel faglig anvendelige som revisjonssjekkliste, men må suppleres med GDPR-krav som ikke fantes i 2011: DPIA (art. 35), melding av brudd (art. 33–34), innebygd personvern (art. 25), dataportabilitet og øvrige rettigheter (art. 17–22), og nyere overføringsregler (Schrems II, art. 46-garantier, TIA).
+- **[Merknad – ikke fra kilden]** Innholdskravene er likevel faglig anvendelige som revisjonssjekkliste, men må suppleres med GDPR-krav som ikke fantes i 2011: DPIA (art. 35), melding av brudd til tilsynsmyndigheten og underretning av de registrerte (art. 33–34), innebygd personvern (art. 25), dataportabilitet og øvrige rettigheter (art. 17–22), og nyere overføringsregler (Schrems II, nødvendige garantier etter art. 46, TIA).
 - NF ISO 19011 i 2002-utgave er referert; **[Merknad – ikke fra kilden]** gjeldende utgave er ISO 19011:2018.
 - Formelle krav som «Master I» er franske utdanningsnivåer.

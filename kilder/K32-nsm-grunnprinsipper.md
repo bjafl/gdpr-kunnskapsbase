@@ -485,7 +485,7 @@ Utdypende: forbedringer deles ofte i tre: 1) oppdaterte/nye risikovurderinger, 2
 - Kontroller at loggstrategien omfatter formål, lagringstid, tilgangsstyring og sletting, og at ansatte informeres om loggingen (3.2.1–3.2.2, 3.2.7) – logging av ansatte er selv behandling av personopplysninger.
 - Kontroller loggintegritet (signering, tidssynkronisering, manipulasjonsdeteksjon) (3.2.6).
 - Kontroller årlig inntrengingstest og test av deteksjon/beredskap minst annethvert år (3.4.4–3.4.5) – jf. art. 32 nr. 1 bokstav d om regelmessig testing.
-- Kontroller planverk for hendelseshåndtering med klassifiseringsregime, roller, beredskapsvakter og øvelser (4.1); koble klassifiseringen til vurdering av melding etter art. 33/34 **[Merknad – ikke fra kilden]**.
+- Kontroller planverk for hendelseshåndtering med klassifiseringsregime, roller, beredskapsvakter og øvelser (4.1); koble klassifiseringen til vurdering av melding til Datatilsynet (art. 33) og underretning av de registrerte (art. 34) **[Merknad – ikke fra kilden]**.
 - Kontroller at hendelser loggføres med tidslinje og at bevis sikres (4.3.3) – jf. dokumentasjonsplikten i art. 33 nr. 5 **[Merknad – ikke fra kilden]**.
 - Kontroller at endringer og hasteendringer har sikkerhetsvurdering (2.10) – jf. at DPIA/risikovurdering skal oppdateres ved endringer.
 
@@ -503,7 +503,7 @@ Utdypende: forbedringer deles ofte i tre: 1) oppdaterte/nye risikovurderinger, 2
 
 ## Kryssreferanser
 
-- GDPR: art. 32 (sikkerhet ved behandlingen – hele tiltakskatalogen; nr. 1 b konfidensialitet/integritet/tilgjengelighet/robusthet → 2.2.7, 2.6, 2.7; nr. 1 c gjenoppretting → 2.9, 4.3.4; nr. 1 d regelmessig testing → 2.3.5, 2.9.3, 3.4), art. 24 og 25 (organisatoriske tiltak, innebygd personvern → 2.1), art. 28 nr. 1 og 3 bokstav c, d og h (tilstrekkelige garantier fra databehandler, underdatabehandlere, revisjon → 2.1.9–2.1.10), art. 33–34 (brudd og varsling → 4.1–4.4), art. 5 nr. 1 bokstav c og e og nr. 2 (dataminimering/lagringsbegrensning for logger → 3.2.1, 3.2.7). **[Merknad – ikke fra kilden: koblingene til GDPR-artikler er utledet; NSM-dokumentet nevner ikke GDPR.]**
+- GDPR: art. 32 (sikkerhet ved behandlingen – hele tiltakskatalogen; nr. 1 b konfidensialitet/integritet/tilgjengelighet/robusthet → 2.2.7, 2.6, 2.7; nr. 1 c gjenoppretting → 2.9, 4.3.4; nr. 1 d regelmessig testing → 2.3.5, 2.9.3, 3.4), art. 24 og 25 (organisatoriske tiltak, innebygd personvern → 2.1), art. 28 nr. 1 og 3 bokstav c, d og h (tilstrekkelige garantier fra databehandler, underdatabehandlere, revisjon → 2.1.9–2.1.10), art. 33–34 (brudd på personopplysningssikkerheten, melding til tilsynsmyndigheten og underretning av de registrerte → 4.1–4.4), art. 5 nr. 1 bokstav c og e og nr. 2 (dataminimering/lagringsbegrensning for logger → 3.2.1, 3.2.7). **[Merknad – ikke fra kilden: koblingene til GDPR-artikler er utledet; NSM-dokumentet nevner ikke GDPR.]**
 - Andre kilder:
   - [K16](K16-dfo-veileder-informasjonssikkerhet.md) – DFØs veileder om informasjonssikkerhet (styringssystem rundt tiltakene).
   - [K17](K17-digdir-gjennomfore-risikovurdering.md), [K18](K18-digdir-retningslinje-risiko.md), [K19](K19-digdir-risikovurderingsverktoy.md) – Digdirs risikometodikk; NSM 1.1.3–1.1.4 forutsetter slik prosess.

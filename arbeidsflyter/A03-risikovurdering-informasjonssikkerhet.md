@@ -9,7 +9,7 @@ kilder: [K17, K18, K19, K28, K30, K31, K32, K33, K37, K40, K12, K21, K23, K05]
 
 ## Når brukes
 
-- Før en ny behandling, et nytt system eller en ny leverandør tas i bruk – art. 32-vurdering skal **alltid** gjøres før behandlingen starter [K12 s. 5](../kilder/K12-dt-dpia-veiledning.md).
+- Før en ny behandling, et nytt system eller en ny leverandør tas i bruk – [art. 32](../kilder/K43-gdpr-kap04-behandlingsansvarlig-og-databehandler.md#art-32)-vurdering skal **alltid** gjøres før behandlingen starter [K12 s. 5](../kilder/K12-dt-dpia-veiledning.md).
 - Ved vesentlige endringer i system, formål, data, leverandører, overføringer eller trusselbilde, og ved periodisk revisjon (minst årlig) [K30 kap. 21](../kilder/K30-cnil-pia-kunnskapsbaser.md), [K28 s. 7](../kilder/K28-cnil-pia-metode.md), [K24](../kilder/K24-wp248-dpia.md).
 - Som risikodel i en DPIA ([A02](A02-gjennomfore-dpia.md)) – da brukes denne arbeidsflyten for steg 4–9, og resultatet føres inn i [M04](../maler/M04-dpia-mal.md).
 - Ved gjennomgang av en databehandler ([A01](A01-gjennomga-databehandleravtale.md)) når leverandørens sikkerhet skal vurderes opp mot risikoen for de registrerte.
@@ -67,7 +67,7 @@ Still spørsmålene i blokker; marker hva som er ukjent i stedet for å gjette.
    → M03 kap. 7 og matrise 7.1.
 
 7. **Evaluer mot akseptkriteriene.**
-   Marker «Kan aksepteres»/«Ikke akseptabel» per risiko [K17 trinn 5](../kilder/K17-digdir-gjennomfore-risikovurdering.md). Bruk GDPR-gulvet: høy alvorlighet for de registrerte aksepteres bare når sannsynligheten er ubetydelig [K31 vedlegg 6](../kilder/K31-cnil-pia-tilkoblede-objekter.md); høy restrisiko for de registrerte vurderes mot art. 36 [K23](../kilder/K23-cnil-risikoark.md).
+   Marker «Kan aksepteres»/«Ikke akseptabel» per risiko [K17 trinn 5](../kilder/K17-digdir-gjennomfore-risikovurdering.md). Bruk GDPR-gulvet: høy alvorlighet for de registrerte aksepteres bare når sannsynligheten er ubetydelig [K31 vedlegg 6](../kilder/K31-cnil-pia-tilkoblede-objekter.md); høy restrisiko for de registrerte vurderes mot [art. 36](../kilder/K43-gdpr-kap04-behandlingsansvarlig-og-databehandler.md#art-36) [K23](../kilder/K23-cnil-risikoark.md).
    → M03 kap. 7 siste kolonne.
 
 8. **Foreslå tiltak og lag tiltaksplan.**
@@ -75,7 +75,7 @@ Still spørsmålene i blokker; marker hva som er ukjent i stedet for å gjette.
    → M03 kap. 8.
 
 9. **Beregn restrisiko og konkluder om personvernkonsekvenser.**
-   Estimer konsekvens og sannsynlighet etter tiltak og plott i matrise [K19](../kilder/K19-digdir-risikovurderingsverktoy.md). Besvar M03 kap. 10: DPIA-plikt? Forhåndsdrøfting? Oppdatering av databehandleravtale/sikkerhetsvedlegg ([M01](../maler/M01-databehandleravtale-sjekkliste.md), [K05](../kilder/K05-dt-databehandleravtale.md)) og protokoll [K12 s. 9](../kilder/K12-dt-dpia-veiledning.md)?
+   Estimer konsekvens og sannsynlighet etter tiltak og plott i matrise [K19](../kilder/K19-digdir-risikovurderingsverktoy.md). Besvar M03 kap. 10: DPIA-plikt ([art. 35](../kilder/K43-gdpr-kap04-behandlingsansvarlig-og-databehandler.md#art-35))? Forhåndsdrøfting ([art. 36](../kilder/K43-gdpr-kap04-behandlingsansvarlig-og-databehandler.md#art-36))? Oppdatering av databehandleravtale/sikkerhetsvedlegg ([M01](../maler/M01-databehandleravtale-sjekkliste.md), [K05](../kilder/K05-dt-databehandleravtale.md)) og protokoll [K12 s. 9](../kilder/K12-dt-dpia-veiledning.md)?
    → M03 kap. 9–10.
 
 10. **Beskriv kvalitet og kunnskapsstyrke.**
@@ -122,5 +122,5 @@ Agenten skal kontrollere at:
 - **Overføring eller tilgang fra tredjeland**, eller leverandør som forbeholder seg tilgang for egne formål – overføringsvurdering ([T11](../temaer/T11-overforing-tredjeland-og-tia.md)) og avtalespørsmål ([T07](../temaer/T07-databehandleravtale-art28.md)).
 - **Leverandøren nekter revisjon, dokumentasjon eller sentrale sikkerhetskrav** (gruppe K i M09), eller avtalen gir ikke tilstrekkelige garantier etter art. 28 [K05](../kilder/K05-dt-databehandleravtale.md).
 - **Konflikt mellom sikkerhetstiltak og personvern**, f.eks. omfattende logging eller overvåking av ansatte – krever særskilt begrunnelse og ev. arbeidsrettslig vurdering [K37 9.4](../kilder/K37-sdm-standard-datavernmodell.md), [K32 s. 39](../kilder/K32-nsm-grunnprinsipper.md).
-- **Pågående eller nylig sikkerhetsbrudd** avdekkes under vurderingen – start [A05](A05-avvikshandtering.md) umiddelbart (72-timersfristen) [K33 ark 19](../kilder/K33-cnil-sikkerhetsguide.md).
+- **Pågående eller nylig sikkerhetsbrudd** avdekkes under vurderingen – start [A05](A05-avvikshandtering.md) umiddelbart (72-timersfristen, [art. 33](../kilder/K43-gdpr-kap04-behandlingsansvarlig-og-databehandler.md#art-33)) [K33 ark 19](../kilder/K33-cnil-sikkerhetsguide.md).
 - **Ledelsen vil akseptere en risiko over sitt akseptnivå**, eller ønsker å starte behandlingen før nødvendige tiltak er på plass [K18 kap. 4–5](../kilder/K18-digdir-retningslinje-risiko.md).

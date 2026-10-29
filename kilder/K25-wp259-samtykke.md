@@ -136,7 +136,7 @@ WP29 mener minst følgende må opplyses for gyldig samtykke:
 | (iii) | Hvilke (typer) opplysninger som samles inn og brukes | WP 187 s. 19–20 |
 | (iv) | At det finnes rett til å trekke samtykket tilbake | Art. 7 nr. 3 |
 | (v) | Informasjon om bruk til automatiserte avgjørelser etter art. 22 nr. 2 bokstav c, der relevant | WP 251 |
-| (vi) | Mulige risikoer ved overføring pga. manglende adekvansbeslutning og garantier etter art. 46 | Art. 49 nr. 1 bokstav a |
+| (vi) | Mulige risikoer ved overføring pga. manglende adekvansbeslutning (beslutning om tilstrekkelig beskyttelsesnivå, art. 45) og nødvendige garantier etter art. 46 | Art. 49 nr. 1 bokstav a |
 
 - Ved (i) og (iii): Skal samtykket brukes av flere (felles) behandlingsansvarlige, eller overføres til andre behandlingsansvarlige som vil bygge på det, skal **alle navngis**.
 - **Databehandlere trenger ikke navngis** som del av samtykkekravet; men for art. 13 og 14 må mottakere eller kategorier av mottakere, inkludert databehandlere, oppgis.
@@ -179,7 +179,7 @@ WP29 mener minst følgende må opplyses for gyldig samtykke:
 
 - Kreves der det oppstår alvorlig personvernrisiko og høy grad av kontroll er ønskelig:
   - **art. 9** (særlige kategorier);
-  - **art. 49** (overføring til tredjeland uten tilstrekkelige garantier) – fotnote 45: samtykke er uegnet for periodiske eller løpende overføringer (WP 114);
+  - **art. 49** (overføring til tredjeland uten beslutning om tilstrekkelig beskyttelsesnivå eller nødvendige garantier) – fotnote 45: samtykke er uegnet for periodiske eller løpende overføringer (WP 114);
   - **art. 22** (automatiserte individuelle avgjørelser, inkludert profilering).
 - «Explicit» gjelder **måten** samtykket uttrykkes på: den registrerte må gi en **uttrykkelig erklæring**.
 - Opplagt metode: skriftlig erklæring, ev. signert for å fjerne tvil og bevisproblemer. Men signert skriftlig erklæring er ikke påkrevd i alle tilfeller.

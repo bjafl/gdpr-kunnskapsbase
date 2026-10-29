@@ -20,10 +20,10 @@ kilder: [K04, K11, K01, K05, K27, K39, K03, K02, K06]
 
 ## Rettslig grunnlag
 
-- **GDPR art. 30 nr. 1** (behandlingsansvarlig), **nr. 2** (databehandler), **nr. 3** (skriftlig, også elektronisk), **nr. 4** (fremlegges for tilsynsmyndighet), **nr. 5** (unntak for < 250 ansatte).
-- **Art. 5 nr. 2 og art. 24** (ansvarlighet), **art. 26** (felles behandlingsansvarlige), **art. 27** (representant), **art. 28** (databehandlere), **art. 32 nr. 1** (sikkerhetstiltak), **art. 44–49** (overføring), **art. 49 nr. 1 annet ledd** (dokumentasjon av garantier) [K04; K11].
-- **Fortalepunkt 82** [K04].
-- **[Merknad – ikke fra kildene]** Art. 30 nr. 5: unntaket for foretak med færre enn 250 ansatte gjelder **ikke** dersom behandlingen sannsynligvis vil medføre risiko for de registrertes rettigheter og friheter, ikke er sporadisk, eller omfatter særlige kategorier (art. 9) eller straffedommer (art. 10). Dette forklarer hvorfor unntaket i praksis sjelden gjelder (jf. merknad i [K04]).
+- **GDPR [art. 30](../kilder/K43-gdpr-kap04-behandlingsansvarlig-og-databehandler.md#art-30) nr. 1** (behandlingsansvarlig), **nr. 2** (databehandler), **nr. 3** (skriftlig, også elektronisk), **nr. 4** (fremlegges for tilsynsmyndighet), **nr. 5** (unntak for < 250 ansatte).
+- **[Art. 5](../kilder/K43-gdpr-kap02-prinsipper.md#art-5) nr. 2 og [art. 24](../kilder/K43-gdpr-kap04-behandlingsansvarlig-og-databehandler.md#art-24)** (ansvarlighet), **[art. 26](../kilder/K43-gdpr-kap04-behandlingsansvarlig-og-databehandler.md#art-26)** (felles behandlingsansvarlige), **[art. 27](../kilder/K43-gdpr-kap04-behandlingsansvarlig-og-databehandler.md#art-27)** (representant), **[art. 28](../kilder/K43-gdpr-kap04-behandlingsansvarlig-og-databehandler.md#art-28)** (databehandlere), **[art. 32](../kilder/K43-gdpr-kap04-behandlingsansvarlig-og-databehandler.md#art-32) nr. 1** (sikkerhetstiltak), **[art. 44](../kilder/K43-gdpr-kap05-overforing-av-personopplysninger-til-tredjestater.md#art-44)–49** (overføring), **[art. 49](../kilder/K43-gdpr-kap05-overforing-av-personopplysninger-til-tredjestater.md#art-49) nr. 1 annet ledd** (dokumentasjon på nødvendige garantier) [K04; K11].
+- **[Fortalepunkt 82](../kilder/K43-gdpr-fortale.md#fp-82)** [K04].
+- **[Merknad – ikke fra kildene]** Art. 30 nr. 5: unntaket for foretak med færre enn 250 ansatte gjelder **ikke** dersom behandlingen sannsynligvis vil medføre risiko for de registrertes rettigheter og friheter, ikke skjer leilighetsvis (dvs. ikke er sporadisk), eller omfatter særlige kategorier (art. 9) eller straffedommer (art. 10). Dette forklarer hvorfor unntaket i praksis sjelden gjelder (jf. merknad i [K04]).
 
 ## Utdyping
 

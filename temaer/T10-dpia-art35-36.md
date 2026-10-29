@@ -9,30 +9,30 @@ kilder: [K12, K20, K21, K22, K24, K28, K29, K30, K31, K37, K40, K05, K13, K14, K
 
 ## Kjerneregler (kort svar)
 
-1. **DPIA er påkrevd før behandlingen starter** når en type behandling «sannsynligvis vil medføre høy risiko» for fysiske personers rettigheter og friheter (art. 35 nr. 1) [K12 s. 2; K24 s. 8]. DPIA reparerer ikke en ulovlig behandling – lovligheten (art. 5, 6, 9) må være på plass først [K12 s. 1; K40 § 4.2].
+1. **DPIA er påkrevd før behandlingen starter** når det er sannsynlig at en type behandling «vil medføre en høy risiko for fysiske personers rettigheter og friheter» (art. 35 nr. 1) [K12 s. 2; K24 s. 8]. DPIA reparerer ikke en ulovlig behandling – lovligheten (art. 5, 6, 9) må være på plass først [K12 s. 1; K40 § 4.2].
 2. **To-trinns test i Norge:** (1) Står behandlingen på Datatilsynets liste etter art. 35 nr. 4 (14 punkter)? Da er DPIA *alltid* påkrevd [K20; K12 s. 2]. (2) Hvis ikke: vurder de **ni WP29-kriteriene**. To eller flere kriterier → DPIA normalt påkrevd; ett kriterium kan i noen tilfeller være nok [K24 s. 11; K12 s. 8].
 3. **Ved tvil: gjennomfør DPIA** – både WP29 og Datatilsynet anbefaler dette [K24 s. 8; K12 s. 2].
 4. **Velger man å ikke gjøre DPIA selv om kriterier er truffet**, skal det begrunnes og dokumenteres, og personvernombudets syn skal registreres [K24 s. 12; K12 s. 9].
 5. **Minimumsinnhold (art. 35 nr. 7):** (a) systematisk beskrivelse av behandlingen og formålene (inkl. ev. berettiget interesse), (b) nødvendighet og forholdsmessighet, (c) risiko for de registrertes rettigheter og friheter, (d) tiltak for å håndtere risikoene og påvise etterlevelse [K24 s. 15–16; K21 s. 1]. Datatilsynet legger til en fjerde fase: **ledelsens validering** [K12 s. 10; K21 s. 10].
 6. **Risikoen vurderes fra de registrertes perspektiv**, ikke virksomhetens [K24 s. 17; K12 s. 5; K40 § 4.2]. Sikkerhetstiltak alene reduserer ikke nødvendigvis personvernrisikoen – ofte må *måten behandlingen gjøres på* endres [K12 s. 5].
-7. **Personvernombudet skal rådspørres** (art. 35 nr. 2), og rådet og beslutningene skal dokumenteres; **de registrertes synspunkter** innhentes der det er hensiktsmessig (art. 35 nr. 9), og avvik fra dem – eller beslutning om ikke å innhente dem – begrunnes [K24 s. 14–15; K12 s. 3]. Samtykke er *ikke* en måte å innhente synspunkter på [K12 s. 3; K24 s. 15].
+7. **Personvernombudet skal rådspørres** (art. 35 nr. 2), og rådet og beslutningene skal dokumenteres; **de registrertes synspunkter** innhentes dersom det er relevant (art. 35 nr. 9), og avvik fra dem – eller beslutning om ikke å innhente dem – begrunnes [K24 s. 14–15; K12 s. 3]. Samtykke er *ikke* en måte å innhente synspunkter på [K12 s. 3; K24 s. 15].
 8. **Databehandleren skal bistå** (art. 28 nr. 3 bokstav f), og dette bør stå i databehandleravtalen [K12 s. 3; K24 s. 15; K05].
 9. **Forhåndsdrøfting med Datatilsynet (art. 36)** kreves når DPIA-en viser at **restrisikoen fortsatt er høy** etter tiltak. Hele DPIA-en skal sendes inn [K24 s. 18–19; K12 s. 11].
 10. **DPIA er en kontinuerlig prosess**, ikke en engangsøvelse: oppdater ved endret risiko (art. 35 nr. 11) og ellers jevnlig [K24 s. 14; K12 s. 3; K28 s. 7].
-11. **Sanksjon:** manglende eller feil DPIA, eller unnlatt forhåndsdrøfting, kan gi gebyr opptil 10 mill. euro / 2 % av global årsomsetning [K12 s. 1; K24 s. 4].
+11. **Sanksjon:** manglende eller feil DPIA, eller unnlatt forhåndsdrøfting, kan gi overtredelsesgebyr opptil 10 mill. euro / 2 % av samlet global årsomsetning, avhengig av hvilket beløp som er høyest (art. 83 nr. 4) [K12 s. 1; K24 s. 4].
 
 ## Rettslig grunnlag
 
-- **GDPR art. 35** – plikt til DPIA: nr. 1 (hovedregel, «særlig ved bruk av ny teknologi»), nr. 2 (personvernombudets råd), nr. 3 (tre eksempler), nr. 4–6 (nasjonale lister og konsistensmekanismen), nr. 7 (minimumsinnhold), nr. 8 (atferdsnormer), nr. 9 (de registrertes syn), nr. 10 (unntak der DPIA er gjort i lovgivningsprosessen), nr. 11 (gjennomgang) [K24; K12].
-- **GDPR art. 36** – forhåndsdrøfting: nr. 1 (høy restrisiko), nr. 3 bokstav e (DPIA-en skal oversendes), nr. 5 (nasjonal rett kan kreve forhåndsdrøfting for oppgaver i allmennhetens interesse) [K24 s. 18–19; K12 s. 11].
-- **Art. 24** (ansvarlighet), **art. 25** (innebygd personvern – DPIA skal skje i tråd med dette, fortalepunkt 78) [K12 s. 2–3; K24 s. 14].
-- **Art. 28 nr. 3 bokstav f** – databehandlers bistandsplikt [K24 s. 15].
-- **Art. 30 nr. 1** – protokollen er grunnlaget for å vurdere om høy risiko er sannsynlig [K12 s. 9; K24 s. 12].
-- **Art. 39 nr. 1 bokstav c** – personvernombudet skal gi råd om og kontrollere gjennomføringen [K12 s. 3].
-- **Art. 83 nr. 4** – gebyrramme [K12 s. 1].
-- **Fortalepunkt** 71, 75, 76, 78, 84, 89–94, 171 [K24; K12].
+- **GDPR [art. 35](../kilder/K43-gdpr-kap04-behandlingsansvarlig-og-databehandler.md#art-35)** – plikt til DPIA: nr. 1 (hovedregel, «særlig ved bruk av ny teknologi»), nr. 2 (personvernombudets råd), nr. 3 (tre eksempler), nr. 4–6 (nasjonale lister og konsistensmekanismen), nr. 7 (minimumsinnhold), nr. 8 (atferdsnormer), nr. 9 (de registrertes syn), nr. 10 (unntak der DPIA er gjort i lovgivningsprosessen), nr. 11 (gjennomgang) [K24; K12].
+- **GDPR [art. 36](../kilder/K43-gdpr-kap04-behandlingsansvarlig-og-databehandler.md#art-36)** – forhåndsdrøfting: nr. 1 (høy restrisiko), nr. 3 bokstav e (DPIA-en skal oversendes), nr. 5 (nasjonal rett kan kreve forhåndsdrøfting for oppgaver i allmennhetens interesse) [K24 s. 18–19; K12 s. 11].
+- **[Art. 24](../kilder/K43-gdpr-kap04-behandlingsansvarlig-og-databehandler.md#art-24)** (ansvarlighet), **[art. 25](../kilder/K43-gdpr-kap04-behandlingsansvarlig-og-databehandler.md#art-25)** (innebygd personvern – DPIA skal skje i tråd med dette, [fortalepunkt 78](../kilder/K43-gdpr-fortale.md#fp-78)) [K12 s. 2–3; K24 s. 14].
+- **[Art. 28](../kilder/K43-gdpr-kap04-behandlingsansvarlig-og-databehandler.md#art-28) nr. 3 bokstav f** – databehandlers bistandsplikt [K24 s. 15].
+- **[Art. 30](../kilder/K43-gdpr-kap04-behandlingsansvarlig-og-databehandler.md#art-30) nr. 1** – protokollen er grunnlaget for å vurdere om høy risiko er sannsynlig [K12 s. 9; K24 s. 12].
+- **[Art. 39](../kilder/K43-gdpr-kap04-behandlingsansvarlig-og-databehandler.md#art-39) nr. 1 bokstav c** – personvernombudet skal på anmodning gi råd om og kontrollere gjennomføringen [K12 s. 3].
+- **[Art. 83](../kilder/K43-gdpr-kap08-rettsmidler-ansvar-og-sanksjoner.md#art-83) nr. 4** – ramme for overtredelsesgebyr [K12 s. 1].
+- **Fortalepunkt** 71, [75](../kilder/K43-gdpr-fortale.md#fp-75), 76, 78, [84](../kilder/K43-gdpr-fortale.md#fp-84), [89](../kilder/K43-gdpr-fortale.md#fp-89)–94, 171 [K24; K12].
 - **Personopplysningsloven / Prop. 56 LS (2017–2018) kap. 16.5.5:** departementet mente unntaket i art. 35 nr. 10 er så snevert at det ikke trengs nasjonale «unntak fra unntaket», og foreslo ingen utvidet forhåndsdrøftingsplikt etter art. 36 nr. 5, men en forskriftshjemmel [K12 s. 2].
-- **[Merknad – ikke fra kildene]** Art. 36 nr. 2 gir tilsynsmyndigheten inntil **åtte uker** (kan forlenges med seks uker) til å gi skriftlig råd når den mener behandlingen vil være i strid med forordningen; fristen kan stilles i bero til den har fått nødvendige opplysninger. Art. 36 nr. 3 lister hva som skal oversendes: (a) ansvarsfordeling mellom behandlingsansvarlige/databehandlere, (b) formål og midler, (c) tiltak og garantier, (d) kontaktopplysninger til personvernombudet, (e) DPIA-en, (f) annen informasjon tilsynet ber om. Kontroller ordlyden i forordningsteksten.
+- **[Merknad – ikke fra kildene]** Art. 36 nr. 2 gir tilsynsmyndigheten inntil **åtte uker** (kan forlenges med seks uker) til å gi skriftlig råd når den mener behandlingen vil være i strid med forordningen; fristen kan stilles i bero til den har fått nødvendige opplysninger. Art. 36 nr. 3 lister hva som skal oversendes: (a) ansvarsfordeling mellom behandlingsansvarlige/databehandlere, (b) formål og midler, (c) tiltak og garantier, (d) kontaktopplysninger til personvernombudet, (e) DPIA-en, (f) annen informasjon tilsynet ber om (jf. [art. 36](../kilder/K43-gdpr-kap04-behandlingsansvarlig-og-databehandler.md#art-36)).
 - **[Merknad – ikke fra kildene]** For KI-systemer bør DPIA ses i sammenheng med EUs KI-forordning (AI Act), som for visse høyrisikosystemer krever en egen konsekvensvurdering for grunnleggende rettigheter; den kan i praksis koordineres med DPIA-en (se også merknad i [K24](../kilder/K24-wp248-dpia.md)).
 
 ## Utdyping
@@ -149,7 +149,7 @@ WP248 og Datatilsynet lister disse tilfellene [K24 s. 12–13; K12 s. 2]:
 | Ledelse/styre | Bedømmer, evaluerer og godkjenner; beslutter godkjent / betinget / avvist; beslutter forhåndsdrøfting | [K21 s. 10; K12 s. 10] |
 | Personvernombud (PVO) | Gir råd (art. 35 nr. 2), kontrollerer gjennomføringen (art. 39 nr. 1 c); kan foreslå DPIA, bistå med metodikk og vurdere restrisiko | [K24 s. 14–15; K12 s. 3] |
 | Databehandler | Bistår og gir nødvendig informasjon (art. 28 nr. 3 f); kontraktsfestet | [K24 s. 15; K05] |
-| De registrerte / representanter | Synspunkter «der det er hensiktsmessig» (art. 35 nr. 9) | [K24 s. 15; K12 s. 3] |
+| De registrerte / representanter | Synspunkter «dersom det er relevant» (art. 35 nr. 9) | [K24 s. 15; K12 s. 3] |
 | Informasjonssikkerhetsleder (CISO) / IT | Bistår med sikkerhetstiltak og trusselvurdering; kan foreslå DPIA | [K24 s. 15; K12 s. 3; K28 s. 9] |
 | Fagenhet/prosjekteier | Beskriver behandlingen, deltar i evaluering | [K24 s. 15; K28 s. 9; K31] |
 | Uavhengige eksperter | Jurister, IT, sikkerhet, sosiologer, etikere ved behov | [K24 s. 15; K12 s. 3] |
@@ -175,7 +175,7 @@ Datatilsynets fire faser [K21; K12 s. 10] sammenholdt med WP248 Annex 2 [K24 s. 
 | Fase | Art. 35 nr. 7 | Innhold (Datatilsynet K21) | Annex 2-krav (K24) |
 |---|---|---|---|
 | 1 Systematisk beskrivelse | a | Art, omfang (kategorier, antall, volum, frekvens, lagringstid, geografi), formål, kontekst (kilder, maktforhold, forventninger, sårbare, sammenstilling), mottakere, databehandlere, tredjelandsoverføring, dataflyt, lagring/sletting, sikkerhet, aktiva, referanser (atferdsnormer, sertifiseringer) | Art, omfang, kontekst, formål; personopplysninger, mottakere, lagringstid; funksjonell beskrivelse; støtteressurser (maskinvare, programvare, nettverk, personer, papir); atferdsnormer (art. 35 nr. 8) |
-| 2 Nødvendighet og proporsjonalitet | b (og d) | Behandlingsgrunnlag (også for utlevering), formålsbegrensning, minimering **per variabel**, riktighet, lagringsbegrensning, rettigheter (art. 12–22), EMK-friheter | Formål (art. 5 nr. 1 b), lovlighet (art. 6), minimering (c), lagring (e); informasjon (12–14), innsyn/portabilitet (15, 20), retting/sletting (16, 17, 19), innsigelse/begrensning (18, 19, 21), databehandlere (28), overføringsgarantier (kap. V), forhåndsdrøfting (36) |
+| 2 Nødvendighet og proporsjonalitet | b (og d) | Behandlingsgrunnlag (også for utlevering), formålsbegrensning, minimering **per variabel**, riktighet, lagringsbegrensning, rettigheter (art. 12–22), EMK-friheter | Formål (art. 5 nr. 1 b), lovlighet (art. 6), minimering (c), lagring (e); informasjon (12–14), innsyn/portabilitet (15, 20), retting/sletting (16, 17, 19), protest/begrensning (18, 19, 21), databehandlere (28), overføringsgarantier (kap. V), forhåndsdrøfting (36) |
 | 3 Risiko og tiltak | c, d | Per risikoscenario: konsekvenser for rettigheter/friheter, alvorlighetsgrad, trusler/risikokilder, sannsynlighet; tiltak (garantier, spesifikke sikkerhetstiltak, generelle sikkerhetstiltak, organisatoriske tiltak); restrisiko | Opprinnelse, art, særtrekk, alvorlighet; for ulovlig tilgang, uønsket endring, forsvinning: risikokilder, konsekvenser, trusler, sannsynlighet og alvorlighet; tiltak |
 | 4 Ledelsens validering | (ansvarlighet) | Sammenstilling, risikokart, handlingsplan (ansvarlig, kostnad, tidsramme), PVO-råd, registrertes syn, beslutning: godkjent / betinget / avvist; ev. forhåndsdrøfting | Involvering: PVO-råd (35 nr. 2), registrertes syn (35 nr. 9) |
 

@@ -9,7 +9,7 @@ kilder: [K13, K09, K37, K40, K39, K30, K33, K28, K12, K24, K05, K21, K31]
 
 ## Kjerneregler (kort svar)
 
-1. **Innebygd personvern (data protection by design)** betyr at det tas hensyn til personvern i alle utviklingsfaser, gjennom **tilstrekkelige tekniske og organisatoriske tiltak og nødvendige garantier** som gjør at prinsippene i art. 5 og de registrertes rettigheter ivaretas **effektivt** [K13 s. 1, 3].
+1. **Innebygd personvern (data protection by design)** betyr at det tas hensyn til personvern i alle utviklingsfaser, gjennom **egnede tekniske og organisatoriske tiltak og nødvendige garantier** som gjør at prinsippene i art. 5 og de registrertes rettigheter ivaretas **effektivt** [K13 s. 1, 3].
 2. **Personvern som standard (data protection by default)** betyr at standardinnstillingene skal være **mest mulig personvernfremmende og minst mulig inngripende**: bare nødvendige opplysninger samles inn og behandles – med hensyn til **mengde, omfang av behandlingen, lagringstid og tilgjengelighet** [K13 s. 5].
 3. **Den behandlingsansvarlige har ansvaret**, uansett størrelse – også når løsningen er kjøpt fra tredjepart eller driftes av databehandler. Krav om innebygd personvern skal inn i anskaffelser, anbud og kontrakter [K13 s. 2].
 4. **Kravet gjelder både før og under behandlingen:** ved valg og design av midler, og løpende vedlikehold etter oppstart. Det gjelder også **eldre systemer** fra før 2018 – gjør en GAP-analyse [K13 s. 4].
@@ -21,14 +21,14 @@ kilder: [K13, K09, K37, K40, K39, K30, K33, K28, K12, K24, K05, K21, K31]
 
 ## Rettslig grunnlag
 
-- **GDPR art. 25 nr. 1** (innebygd personvern), **nr. 2** (personvern som standard), **nr. 3** (godkjent sertifisering etter art. 42 kan brukes som element for å påvise etterlevelse) [K13 s. 1–5, 13].
-- **Art. 5** (prinsippene – målet for tiltakene), **art. 24** (ansvarlighet) og **art. 5 nr. 2** (påvise etterlevelse) [K13 s. 2, 12; K09].
-- **Art. 32** (sikkerhet) og **art. 35** (DPIA – skal skje i samsvar med art. 25) [K12 s. 2–3; K13 s. 3].
-- **Art. 28 nr. 1** – bare databehandlere som gir tilstrekkelige garantier [K13 s. 2].
-- **Art. 58 nr. 2** – korrigerende tiltak; Datatilsynet fremhever art. 25-vurderingen ved gebyr [K13 s. 14].
-- **Fortalepunkt 78** – tiltak, pseudonymisering så snart som mulig, åpenhet, mulighet til å overvåke behandlingen, og oppfordring til produsenter [K13 s. 11].
+- **GDPR [art. 25](../kilder/K43-gdpr-kap04-behandlingsansvarlig-og-databehandler.md#art-25) nr. 1** (innebygd personvern), **nr. 2** (personvern som standard), **nr. 3** (godkjent sertifisering etter art. 42 kan brukes som en faktor for å påvise etterlevelse) [K13 s. 1–5, 13].
+- **[Art. 5](../kilder/K43-gdpr-kap02-prinsipper.md#art-5)** (prinsippene – målet for tiltakene), **[art. 24](../kilder/K43-gdpr-kap04-behandlingsansvarlig-og-databehandler.md#art-24)** (ansvarlighet) og **art. 5 nr. 2** (påvise etterlevelse) [K13 s. 2, 12; K09].
+- **[Art. 32](../kilder/K43-gdpr-kap04-behandlingsansvarlig-og-databehandler.md#art-32)** (sikkerhet) og **[art. 35](../kilder/K43-gdpr-kap04-behandlingsansvarlig-og-databehandler.md#art-35)** (DPIA – skal skje i samsvar med art. 25) [K12 s. 2–3; K13 s. 3].
+- **[Art. 28](../kilder/K43-gdpr-kap04-behandlingsansvarlig-og-databehandler.md#art-28) nr. 1** – bare databehandlere som gir tilstrekkelige garantier [K13 s. 2].
+- **[Art. 58](../kilder/K43-gdpr-kap06-uavhengige-tilsynsmyndigheter.md#art-58) nr. 2** – korrigerende tiltak; Datatilsynet fremhever art. 25-vurderingen ved utmåling av overtredelsesgebyr [K13 s. 14].
+- **[Fortalepunkt 78](../kilder/K43-gdpr-fortale.md#fp-78)** – tiltak, pseudonymisering så snart som mulig, åpenhet, mulighet til å overvåke behandlingen, og oppfordring til produsenter [K13 s. 11].
 - **EDPB Guidelines 4/2019 on Article 25** – Datatilsynets veileder bygger på disse [K13 s. 1].
-- **[Merknad – ikke fra kildene]** Art. 83 nr. 2 bokstav d nevner uttrykkelig tiltak etter art. 25 og 32 som moment ved vurderingen av graden av ansvar ved gebyrutmåling. Art. 25 retter seg mot den behandlingsansvarlige; produsenter er ikke direkte forpliktet, men oppfordres (fortalepunkt 78), og blir indirekte bundet gjennom anskaffelseskrav.
+- **[Merknad – ikke fra kildene]** [Art. 83](../kilder/K43-gdpr-kap08-rettsmidler-ansvar-og-sanksjoner.md#art-83) nr. 2 bokstav d nevner uttrykkelig tiltak etter art. 25 og 32 som moment ved vurderingen av graden av ansvar ved gebyrutmåling. Art. 25 retter seg mot den behandlingsansvarlige; produsenter er ikke direkte forpliktet, men oppfordres (fortalepunkt 78), og blir indirekte bundet gjennom anskaffelseskrav.
 
 ## Utdyping
 
@@ -155,8 +155,8 @@ Kravet gjelder også systemer utviklet før 2018 som fortsatt er i bruk [K13 s. 
 
 ### 10. Sertifisering og håndhevelse
 
-- Sertifisering etter art. 42 kan brukes som element for å påvise etterlevelse; ved sertifisering av innebygd personvern er designprosessen særlig relevant (valg av midler, tiltak og forvaltning av dem, kontinuerlig vurdering). Mer informasjon «kommer fortløpende» [K13 s. 13].
-- Datatilsynet kan føre tilsyn og ilegge gebyr eller pålegg; vurderingen av brudd på innebygd personvern er «et spesielt viktig moment» ved gebyrutmåling [K13 s. 14].
+- Sertifisering etter art. 42 kan brukes som en faktor for å påvise etterlevelse (art. 25 nr. 3); ved sertifisering av innebygd personvern er designprosessen særlig relevant (valg av midler, tiltak og forvaltning av dem, kontinuerlig vurdering). Mer informasjon «kommer fortløpende» [K13 s. 13].
+- Datatilsynet kan føre tilsyn og ilegge overtredelsesgebyr eller pålegg; vurderingen av brudd på innebygd personvern er «et spesielt viktig moment» ved gebyrutmåling [K13 s. 14].
 
 ## Vanlige feil og fallgruver
 
@@ -182,7 +182,7 @@ Kravet gjelder også systemer utviklet før 2018 som fortsatt er i bruk [K13 s. 
 - [ ] Tilgang etter tjenstlig behov, differensiert og revidert regelmessig [K13 s. 5, 11].
 - [ ] Den registrerte kan påvirke tilgjengeliggjøring/publisering [K13 s. 5].
 - [ ] Pseudonymisering/anonymisering/aggregering vurdert; PETs vurdert [K13 s. 9; K39 s. 31–32].
-- [ ] Rettigheter kan utøves effektivt (innsyn, retting, sletting, portabilitet, innsigelse) [K13 s. 6–8].
+- [ ] Rettigheter kan utøves effektivt (innsyn, retting, sletting, portabilitet, protest) [K13 s. 6–8].
 - [ ] Algoritmer/KI: bias-testing, menneskelig inngripen, løpende overvåking [K13 s. 7, 10].
 - [ ] Tiltak dekker alle beskyttelsesmål, ikke bare sikkerhet [K37].
 - [ ] KPI-er for effektivitet definert og fulgt opp [K13 s. 3].

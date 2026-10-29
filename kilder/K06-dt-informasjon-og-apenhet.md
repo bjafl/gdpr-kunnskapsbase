@@ -28,7 +28,7 @@ Nettveileder fra Datatilsynet (6 utskriftssider) om informasjonsplikten etter GD
 
 ### Overordnede krav (s. 1)
 - Alle virksomheter har plikt til å behandle personopplysninger på en åpen måte – bl.a. gi kort og forståelig informasjon om hvordan de behandler personopplysningene.
-- Gjelder all kommunikasjon med enkeltpersoner – personvernerklæringer, når brukerne utøver rettighetene sine, ved avviksvarsling. Kommunikasjonen skal være **kortfattet, åpen, forståelig og lett tilgjengelig** (art. 12–14). Språket skal være klart og enkelt, særlig når informasjonen er spesifikt rettet mot barn.
+- Gjelder all kommunikasjon med enkeltpersoner – personvernerklæringer, når brukerne utøver rettighetene sine, ved avviksvarsling (underretning om brudd på personopplysningssikkerheten, art. 34). Kommunikasjonen skal være **kortfattet, åpen, forståelig og lett tilgjengelig** (art. 12–14). Språket skal være klart og enkelt, særlig når informasjonen er spesifikt rettet mot barn.
 - Dette betyr blant annet at:
   - virksomheten ikke kan bruke juridisk eller teknisk sjargong
   - informasjonen skal være forståelig for målgruppen, med klart språk og god struktur
@@ -51,7 +51,7 @@ Nettveileder fra Datatilsynet (6 utskriftssider) om informasjonsplikten etter GD
 - dersom opplysningene ikke er innhentet fra den enkelte: hvilke kategorier opplysninger som behandles; hva kilden for de ulike opplysningene er; og om de kom fra en offentlig tilgjengelig kilde
 - hvilke formål hver av de ulike opplysningene behandles for
 - hvilket behandlingsgrunnlag de ulike behandlingene har (art. 6 og eventuelt art. 9)
-  - ved art. 6 nr. 1 f (interesseavveining): hvilke legitime interesser behandlingen er nødvendig for
+  - ved art. 6 nr. 1 f (interesseavveining): hvilke berettigede interesser behandlingen er nødvendig for
 - hvor lenge de ulike opplysningene lagres, eller, hvis ikke mulig å fastslå nøyaktig, hva som påvirker lagringstiden
 
 Ved interesseavveining skal virksomheten også kunne fremlegge informasjon om interesseavveiningen ved forespørsel, og dette bør kommuniseres til den enkelte (nødvendig etter åpenhetsprinsippet).
@@ -179,4 +179,5 @@ Bruker virksomheten ett av unntakene, må den kunne begrunne det **skriftlig** o
 
 ## Aktualitet og begrensninger
 - Udatert i utskriften (skrevet ut 22.09.2026).
-- **[Merknad – ikke fra kilden]** De «generelle unntakene» i del 3 tilsvarer personopplysningsloven § 16 første ledd; kilden nevner ikke paragrafnummeret eksplisitt.
+- **[Merknad – ikke fra kilden]** De «generelle unntakene» i del 3 tilsvarer personopplysningsloven § 16 første ledd; kilden nevner ikke paragrafnummeret eksplisitt. Kravet om skriftlig begrunnelse med presis henvisning til unntakshjemmelen (§ 16 tredje ledd) gjelder etter ordlyden den som nekter å gi **innsyn**; kilden anvender det også på informasjonsplikten (jf. [K42](K42-personopplysningsloven.md#p16)).
+- **[Merknad – ikke fra kilden]** Etter art. 4 nr. 9 er offentlige myndigheter ikke «mottakere» når de mottar personopplysninger «innenfor rammen av en særskilt undersøkelse» i samsvar med unionsretten eller nasjonal rett; kildens formulering «tilsynsvirksomhet med hjemmel i lov» er en forenkling (jf. [K43](K43-gdpr-kap01-alminnelige-bestemmelser.md#art-4)).

@@ -35,6 +35,7 @@ WP248 er Artikkel 29-gruppens (WP29) sentrale retningslinje om vurdering av pers
 - DPIA er et verktøy for ansvarlighet (accountability, art. 24): den hjelper både med å etterleve og med å *påvise* etterlevelse.
 - Begrepet «Privacy Impact Assessment» (PIA) brukes ofte om det samme (fotnote 2). Direktiv 2016/680 (politidirektivet) art. 27 har en tilsvarende plikt.
 - **Sanksjoner:** Unnlatt DPIA når den kreves (art. 35 nr. 1, 3–4), feil gjennomført DPIA (art. 35 nr. 2 og 7–9), eller unnlatt forhåndsdrøfting (art. 36 nr. 3 bokstav e) kan gi overtredelsesgebyr på inntil 10 mill. EUR eller 2 % av global årsomsetning, det høyeste av dem (s. 4).
+  - **[Merknad – ikke fra kilden]** Plikten til forhåndsdrøfting følger av art. 36 nr. 1; art. 36 nr. 3 bokstav e gjelder bare at vurderingen av personvernkonsekvenser skal framlegges ved drøftingen. Gebyrrammen følger av art. 83 nr. 4 bokstav a (jf. [K43](K43-gdpr-kap04-behandlingsansvarlig-og-databehandler.md#art-36) og [K43](K43-gdpr-kap08-rettsmidler-ansvar-og-sanksjoner.md#art-83)).
 - GDPR definerer ikke DPIA formelt, men minimumsinnholdet følger av art. 35 nr. 7 (se nedenfor), og fortalepunkt 84 forklarer formålet: å vurdere «the origin, nature, particularity and severity of that risk».
 
 ### II. Retningslinjenes virkeområde (s. 4–5)
@@ -46,6 +47,7 @@ DPIA er ikke obligatorisk for alle behandlinger – bare der behandlingen «sann
 - fremme utvikling av en felles EU-liste over behandlinger som krever DPIA (art. 35 nr. 4);
 - en felles EU-liste over behandlinger som ikke krever DPIA (art. 35 nr. 5);
 - felles kriterier for DPIA-metodikk (art. 35 nr. 5);
+  - **[Merknad – ikke fra kilden]** Art. 35 nr. 5 gjelder bare tilsynsmyndighetens liste over behandlinger som *ikke* krever DPIA; forordningen har ingen egen bestemmelse om metodikk utover minimumsinnholdet i nr. 7 (jf. [K43](K43-gdpr-kap04-behandlingsansvarlig-og-databehandler.md#art-35)).
 - felles kriterier for når tilsynsmyndigheten skal konsulteres (art. 36 nr. 1);
 - anbefalinger basert på erfaringer i medlemsstatene.
 
@@ -149,6 +151,7 @@ WP29 mener DPIA ikke kreves:
 ##### b) Hvem – behandlingsansvarlig, med DPO og databehandlere (s. 14–15)
 
 - Behandlingsansvarlig er ansvarlig for at DPIA gjennomføres (art. 35 nr. 2). Andre (internt eller eksternt) kan utføre den, men ansvaret ligger hos behandlingsansvarlig.
+  - **[Merknad – ikke fra kilden]** Plikten til å foreta vurderingen påhviler den behandlingsansvarlige etter art. 35 nr. 1; nr. 2 gjelder plikten til å rådføre seg med personvernombudet (jf. [K43](K43-gdpr-kap04-behandlingsansvarlig-og-databehandler.md#art-35)).
 - **Personvernombudet** (DPO), der det er utnevnt, skal gi råd (art. 35 nr. 2); rådet og behandlingsansvarliges beslutninger skal dokumenteres i DPIA-en. DPO skal overvåke gjennomføringen (art. 39 nr. 1 bokstav c).
 - **Databehandler** skal bistå og gi nødvendig informasjon (art. 28 nr. 3 bokstav f).
 - **De registrertes synspunkter** skal innhentes «where appropriate» (art. 35 nr. 9). WP29:
@@ -190,7 +193,7 @@ WP29 mener DPIA ikke kreves:
 #### E. Når skal tilsynsmyndigheten konsulteres? Når restrisikoen er høy (s. 18–19)
 
 - DPIA kreves når behandlingen sannsynligvis gir høy risiko (eksempel: helseopplysninger i stor skala). Behandlingsansvarlig skal identifisere tiltak som reduserer risikoen til et akseptabelt nivå.
-- **Laptop-eksempelet:** For lagring av personopplysninger på bærbare PC-er kan tiltak være effektiv fulldiskkryptering, robust nøkkelhåndtering, tilgangskontroll, sikrede sikkerhetskopier osv., i tillegg til eksisterende rutiner (informasjon, samtykke, innsyn, innsigelse osv.). Er risikoen tilstrekkelig redusert, kan behandlingen fortsette uten forhåndsdrøfting.
+- **Laptop-eksempelet:** For lagring av personopplysninger på bærbare PC-er kan tiltak være effektiv fulldiskkryptering, robust nøkkelhåndtering, tilgangskontroll, sikrede sikkerhetskopier osv., i tillegg til eksisterende rutiner (informasjon, samtykke, innsyn, rett til å protestere osv.). Er risikoen tilstrekkelig redusert, kan behandlingen fortsette uten forhåndsdrøfting.
 - **Eksempler på uakseptabel høy restrisiko (s. 19):** registrerte kan få betydelige eller irreversible konsekvenser de ikke kan overvinne (f.eks. ulovlig tilgang som truer liv, oppsigelse, økonomisk risiko), og/eller det er åpenbart at risikoen vil inntreffe (f.eks. kan ikke begrense antall personer med tilgang pga. delings-/bruks-/distribusjonsmåte, eller en kjent sårbarhet er ikke patchet).
 - Når behandlingsansvarlig ikke finner tilstrekkelige tiltak (restrisikoen er fortsatt høy), kreves forhåndsdrøfting.
 - Fotnote 30: Pseudonymisering og kryptering (samt dataminimering, tilsynsmekanismer osv.) er ikke nødvendigvis egnede tiltak – de er bare eksempler; egnede tiltak avhenger av kontekst og risiko.

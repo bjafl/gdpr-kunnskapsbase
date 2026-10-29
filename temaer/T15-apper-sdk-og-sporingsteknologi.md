@@ -9,7 +9,7 @@ kilder: [K39, K25, K26, K33, K09, K13, K01, K05, K14, K31]
 
 ## Kjerneregler (kort svar)
 
-1. **To regelsett gjelder parallelt:** ePrivacy-regelen om lagring av/tilgang til informasjon i terminalutstyret (uansett om det er personopplysninger), og GDPR for den etterfølgende behandlingen [K39 s. 10–11]. I Norge: ekomloven § 3-15 (Nkom) og GDPR (Datatilsynet) – se merknad i [K39].
+1. **To regelsett gjelder parallelt:** ePrivacy-regelen om lagring av/tilgang til informasjon i terminalutstyret (uansett om det er personopplysninger), og GDPR for den etterfølgende behandlingen [K39 s. 10–11]. I Norge: ekomloven § 3-15 (Nkom, lovtekst i [K44](../kilder/K44-ekomloven-3-15.md)) og GDPR (Datatilsynet).
 2. **Forhåndssamtykke kreves** for lese-/skriveoperasjoner på terminalen (reklame-ID, fingeravtrykk, maskinvare-ID, sensorer, kontakter, bilder), med mindre operasjonen utelukkende er for å overføre kommunikasjon eller er strengt nødvendig for en tjeneste brukeren uttrykkelig har bedt om [K39 s. 11, 30].
 3. **OS-tillatelse er ikke det samme som samtykke.** En tillatelse gitt for ett formål er ikke samtykke til en SDKs behandling for andre formål; en CMP trengs for formål som ikke dekkes av tillatelsen [K39 s. 51–52, 66].
 4. **Roller vurderes per behandling:** utgiveren er behandlingsansvarlig og **minst felles ansvarlig** for sporing utført av SDK-er i appen; SDK-leverandører kan samtidig være databehandler, felles ansvarlig og selvstendig behandlingsansvarlig [K39 s. 17–22, 33]. Se [T01](T01-roller-behandlingsansvarlig-databehandler.md).
@@ -21,8 +21,8 @@ kilder: [K39, K25, K26, K33, K09, K13, K01, K05, K14, K31]
 
 ## Rettslig grunnlag
 
-- **ePrivacy-direktivet 2002/58/EF art. 5 nr. 3** – i Frankrike gjennomført i personvernloven art. 82 [K39 s. 10]. **[Merknad – ikke fra kildene, gjengitt fra merknad i K39]** I Norge: ekomloven (lov 13. desember 2024 nr. 76) § 3-15, tidligere ekomloven 2003 § 2-7 b; Nkom fører tilsyn. Kildenotatene K25 og K39 har litt ulike formuleringer om hvor langt norske regler krever GDPR-samtykke (K25-merknad: nye regler fra 1.1.2025 som krever GDPR-samtykke; K39-merknad: skjerpet «i retning av» GDPR-samtykke) – **kontroller gjeldende lovtekst og forarbeider**.
-- **GDPR:** art. 2 nr. 2 c og fortalepunkt 18 (husholdningsunntaket), art. 3 (territorielt virkeområde), art. 4 nr. 7–8, art. 5, 6, 7, 8, 9, 12–22, 24–26, 28, 30, 32–35 [K39].
+- **ePrivacy-direktivet 2002/58/EF art. 5 nr. 3** – i Frankrike gjennomført i personvernloven art. 82 [K39 s. 10]. **[Merknad – ikke fra kildene, gjengitt fra merknad i K39]** I Norge: ekomloven (lov 13. desember 2024 nr. 76) § 3-15, tidligere ekomloven 2003 § 2-7 b; Nkom fører tilsyn. Samtykket skal «oppfylle kravene til samtykke i personvernforordningen» (§ 3-15 første ledd). Unntak gjelder for ren overføring av kommunikasjon og for det som er «strengt nødvendig» for en tjeneste brukeren uttrykkelig har bedt om (annet ledd). Lovtekst: [K44](../kilder/K44-ekomloven-3-15.md).
+- **GDPR:** [art. 2](../kilder/K43-gdpr-kap01-alminnelige-bestemmelser.md#art-2) nr. 2 c og [fortalepunkt 18](../kilder/K43-gdpr-fortale.md#fp-18) (husholdningsunntaket), [art. 3](../kilder/K43-gdpr-kap01-alminnelige-bestemmelser.md#art-3) (territorielt virkeområde), [art. 4](../kilder/K43-gdpr-kap01-alminnelige-bestemmelser.md#art-4) nr. 7–8, art. 5, 6, [7](../kilder/K43-gdpr-kap02-prinsipper.md#art-7), [8](../kilder/K43-gdpr-kap02-prinsipper.md#art-8), 9, 12–22, 24–[26](../kilder/K43-gdpr-kap04-behandlingsansvarlig-og-databehandler.md#art-26), [28](../kilder/K43-gdpr-kap04-behandlingsansvarlig-og-databehandler.md#art-28), 30, 32–35 [K39]. Aldersgrensen for barns samtykke til informasjonssamfunnstjenester (art. 8 nr. 1) er 13 år i Norge ([popplyl. § 5](../kilder/K42-personopplysningsloven.md#p5)).
 - **Samtykke:** WP259 [K25] / EDPB Guidelines 05/2020 (se [T02](T02-behandlingsgrunnlag-og-samtykke.md)). Samtykke etter ePrivacy bruker GDPRs samtykkebegrep [K25 s. 4].
 - **Annet regelverk nevnt i K39:** DSA art. 26 (forbud mot reklame basert på profilering med særlige kategorier) og art. 28 (forbud mot profileringsbasert reklame til mindreårige), DMA [K39 s. 31]. **[Merknad – fra kildenotatet K39]** EØS-innlemmelse og norsk gjennomføring av DSA/DMA må kontrolleres før de brukes som rettslige krav i Norge.
 - **[Merknad – ikke fra kildene]** EDPB Guidelines 2/2023 om det tekniske virkeområdet til ePrivacy art. 5 nr. 3 gir utfyllende tolkning av hva som er «tilgang» og «lagring» (bl.a. piksler, URL-sporing, IoT); verifiser før sitering.
@@ -64,7 +64,7 @@ Den etterfølgende behandlingen krever i tillegg behandlingsgrunnlag etter GDPR 
   - Brukes både CMP og tillatelse for samme formål, er samtykket bare gyldig hvis valgene er samstemte.
   - Et tillatelsesvindu kan bare være gyldig samtykke i begrensede tilfeller: én behandling, ett formål, én mottaker, med lenker til lovpålagt informasjon og tilbakekalling.
 - **Testing:** testbenk/emulator med nettverksavlytting for å kontrollere at ingen sporingsforespørsler skjer før samtykke [K39 s. 36, 54].
-- **Barn:** reklame basert på profilering er forbudt overfor mindreårige (DSA art. 28); ekstra tiltak kreves [K39 s. 31]. Norsk aldersgrense for samtykke til informasjonssamfunnstjenester: 13 år [K02 s. 4].
+- **Barn:** reklame basert på profilering er forbudt overfor mindreårige (DSA art. 28); ekstra tiltak kreves [K39 s. 31]. Norsk aldersgrense for samtykke til informasjonssamfunnstjenester: 13 år [K02 s. 4] ([popplyl. § 5](../kilder/K42-personopplysningsloven.md#p5)).
 
 ### 4. Tillatelser og innebygd personvern
 

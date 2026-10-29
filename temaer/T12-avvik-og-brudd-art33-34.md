@@ -13,23 +13,23 @@ kilder: [K15, K34, K33, K30, K32, K05, K10, K13, K39, K06, K28, K31, K12, K24, K
 2. **Alle brudd skal dokumenteres internt** (art. 33 nr. 5) – også de som ikke meldes [K34 s. 1; K33 ark 19; K30 kap. 17].
 3. **Melding til Datatilsynet** skal skje uten ugrunnet opphold og **innen 72 timer** etter at man ble kjent med bruddet, med mindre det er usannsynlig at bruddet medfører risiko for fysiske personers rettigheter og friheter (art. 33 nr. 1) [K15 s. 1–2; K34 s. 1].
 4. **Ikke vent på full oversikt:** første melding kan inneholde midlertidig og ufullstendig informasjon og følges opp senere – men fristen er «viktig og lovpålagt» [K15 s. 1; K33 ark 19]. For sen melding er i seg selv et brudd som kan sanksjoneres [K34 s. 2].
-5. **Varsling av de registrerte** skal skje uten ugrunnet opphold når bruddet sannsynligvis medfører **høy risiko** (art. 34) [K34 s. 1; K33 ark 19]. Kryptering som gjør dataene uforståelige kan fjerne varslingsplikten (art. 34 nr. 3 a) [K10; K30 kap. 17].
-6. **Databehandleren skal straks varsle den behandlingsansvarlige** (art. 33 nr. 2), med informasjonen som trengs for melding og varsling – dette skal stå i databehandleravtalen [K05; K39 s. 36].
+5. **Varsling av de registrerte** (lovens begrep: underretning av den registrerte, art. 34) skal skje uten ugrunnet opphold når bruddet sannsynligvis medfører **høy risiko** (art. 34) [K34 s. 1; K33 ark 19]. Kryptering som gjør dataene uleselige for uvedkommende kan fjerne varslingsplikten (art. 34 nr. 3 a) [K10; K30 kap. 17].
+6. **Databehandleren skal uten ugrunnet opphold underrette den behandlingsansvarlige** (art. 33 nr. 2), med informasjonen som trengs for melding og varsling – dette skal stå i databehandleravtalen [K05; K39 s. 36].
 7. **Første prioritet ved en hendelse er å stoppe bruddet** og få oversikt; involver personvernombudet tidlig [K15 s. 3, 7].
 8. **Risikovurderingen gjøres for de registrerte** (alvorlighet og sannsynlighet for konsekvenser for rettigheter og friheter), ikke for virksomheten [K33 ark 19].
 9. **Typiske tommelfingerregler (Datatilsynet):** vellykket phishing, kompromitterte e-postkontoer og løsepengevirus → som regel meldepliktig; DDoS og direktørsvindel → oftere lav personvernrisiko, vurderes konkret [K15 s. 1–6]. Er det uklart om data er kopiert ut ved løsepengevirus → meld i påvente av avklaring [K15 s. 6].
 
 ## Rettslig grunnlag
 
-- **Art. 4 nr. 12** – definisjon [K34 s. 1].
-- **Art. 33** – melding til tilsynsmyndigheten: nr. 1 (72 timer, risikoterskel), nr. 2 (databehandlers plikt), nr. 3 (innhold), nr. 4 (trinnvis melding), nr. 5 (dokumentasjon) [K15; K34; K05].
-- **Art. 34** – underretning til de registrerte: nr. 1 (høy risiko), nr. 2 (innhold og klart språk), nr. 3 (unntak), nr. 4 (tilsynet kan pålegge varsling) [K10; K30 kap. 17].
-- **Art. 28 nr. 3 bokstav f** – databehandlers bistand med art. 32–36 [K05].
-- **Art. 32** – sikkerhet; tiltak for å oppdage og håndtere hendelser [K13 s. 11–12; K33 ark 19].
-- **Art. 5 nr. 1 f og nr. 2, art. 24** – integritet/konfidensialitet og ansvarlighet.
-- **Art. 83 nr. 4** – brudd på art. 33–34 kan gi gebyr opptil 10 mill. euro / 2 % av global årsomsetning. **[Merknad – ikke fra kildene]** K34 nevner generelt 20 mill./4 %, men det gjelder art. 83 nr. 5 (bl.a. art. 5); for art. 32–34 er rammen art. 83 nr. 4 [K34 merknad].
+- **[Art. 4](../kilder/K43-gdpr-kap01-alminnelige-bestemmelser.md#art-4) nr. 12** – definisjon [K34 s. 1].
+- **[Art. 33](../kilder/K43-gdpr-kap04-behandlingsansvarlig-og-databehandler.md#art-33)** – melding til tilsynsmyndigheten: nr. 1 (72 timer, risikoterskel), nr. 2 (databehandlers plikt), nr. 3 (innhold), nr. 4 (trinnvis melding), nr. 5 (dokumentasjon) [K15; K34; K05].
+- **[Art. 34](../kilder/K43-gdpr-kap04-behandlingsansvarlig-og-databehandler.md#art-34)** – underretning av de registrerte: nr. 1 (høy risiko), nr. 2 (innhold og klart språk), nr. 3 (unntak), nr. 4 (tilsynet kan pålegge varsling) [K10; K30 kap. 17].
+- **[Art. 28](../kilder/K43-gdpr-kap04-behandlingsansvarlig-og-databehandler.md#art-28) nr. 3 bokstav f** – databehandlers bistand med art. 32–36 [K05].
+- **[Art. 32](../kilder/K43-gdpr-kap04-behandlingsansvarlig-og-databehandler.md#art-32)** – sikkerhet; tiltak for å oppdage og håndtere hendelser [K13 s. 11–12; K33 ark 19].
+- **[Art. 5](../kilder/K43-gdpr-kap02-prinsipper.md#art-5) nr. 1 f og nr. 2, [art. 24](../kilder/K43-gdpr-kap04-behandlingsansvarlig-og-databehandler.md#art-24)** – integritet/konfidensialitet og ansvarlighet.
+- **[Art. 83](../kilder/K43-gdpr-kap08-rettsmidler-ansvar-og-sanksjoner.md#art-83) nr. 4** – brudd på art. 33–34 kan gi overtredelsesgebyr opptil 10 mill. euro / 2 % av global årsomsetning. **[Merknad – ikke fra kildene]** K34 nevner generelt 20 mill./4 %, men det gjelder art. 83 nr. 5 (bl.a. art. 5); for art. 32–34 er rammen art. 83 nr. 4 [K34 merknad].
 - **[Merknad – ikke fra kildene]** **Art. 33 nr. 3** – meldingen skal minst: (a) beskrive bruddets art, herunder om mulig kategorier og omtrentlig antall registrerte og registreringer; (b) navn og kontaktopplysninger til personvernombud eller annet kontaktpunkt; (c) beskrive sannsynlige konsekvenser; (d) beskrive tiltak som er truffet eller foreslås for å håndtere bruddet, herunder tiltak for å redusere mulige skadevirkninger. **Art. 33 nr. 4** – informasjonen kan gis trinnvis uten ytterligere ugrunnet opphold. **Art. 33 nr. 1 annet punktum** – meldes det etter 72 timer, skal grunnen til forsinkelsen oppgis.
-- **[Merknad – ikke fra kildene]** **Art. 34 nr. 2** – varselet til de registrerte skal med klart og enkelt språk beskrive bruddets art og minst inneholde opplysningene i art. 33 nr. 3 b, c og d. **Art. 34 nr. 3** – varsling kreves ikke dersom (a) det er truffet tekniske og organisatoriske beskyttelsestiltak som gjør opplysningene uforståelige for uvedkommende, f.eks. kryptering; (b) det er truffet etterfølgende tiltak som sikrer at den høye risikoen sannsynligvis ikke lenger vil oppstå; eller (c) det vil kreve en uforholdsmessig innsats – da skal det i stedet gis offentlig kunngjøring eller tilsvarende like effektiv informasjon. **Art. 34 nr. 4** – Datatilsynet kan pålegge varsling.
+- **[Merknad – ikke fra kildene]** **Art. 34 nr. 2** – underretningen til de registrerte skal gi en klar og tydelig beskrivelse av bruddets art og minst inneholde opplysningene i art. 33 nr. 3 b, c og d. **Art. 34 nr. 3** – varsling kreves ikke dersom (a) det er truffet tekniske og organisatoriske beskyttelsestiltak som gjør opplysningene uleselige for enhver som ikke har autorisert tilgang, f.eks. kryptering; (b) det er truffet etterfølgende tiltak som sikrer at den høye risikoen sannsynligvis ikke lenger vil oppstå; eller (c) det vil kreve en uforholdsmessig innsats – da skal allmennheten i stedet underrettes, eller det skal treffes et lignende tiltak som sikrer like effektiv underretning. **Art. 34 nr. 4** – Datatilsynet kan pålegge underretning, eller beslutte at et av vilkårene i nr. 3 er oppfylt.
 - **[Merknad – ikke fra kildene]** Utfyllende europeisk veiledning: EDPB Guidelines 9/2022 om melding av brudd (videreføring av WP29s WP250 rev.01) og EDPB Guidelines 01/2021 med eksempler. K33 viser til WP250 rev.01 og 01/2021 (18 eksempler) [K33 ark 19]. Retningslinjene er ikke i kildegrunnlaget – slå opp originalen ved tvil.
 - **Andre meldeplikter:** Plikten etter GDPR fritar ikke for andre meldeplikter [K33 ark 19 fn. 82; K30 kap. 17]. Datatilsynet anbefaler å anmelde datakriminalitet til politiet og vurdere varsling til NSM (Nasjonalt cybersikkerhetssenter) [K15 s. 7]. **[Merknad – ikke fra kildene]** Sektorregelverk (f.eks. ekomregelverket, regelverk for kritiske/viktige tjenester etter NIS-regelverket, finans- og helsesektoren) kan ha egne frister og mottakere – verifiser for den aktuelle virksomheten.
 
@@ -103,14 +103,14 @@ Overordnet: vellykkede phishing-, e-post- og utpressingsangrep har høy risiko f
 
 **PVO** bør involveres tidlig og kan bistå i dialogen med Datatilsynet [K15 s. 7].
 
-**Ledende tilsynsmyndighet:** **[Merknad – ikke fra kildene]** Ved grenseoverskridende behandling skal meldingen gå til ledende tilsynsmyndighet (art. 56); se [K27](../kilder/K27-wp244-ledende-tilsynsmyndighet.md).
+**Ledende tilsynsmyndighet:** **[Merknad – ikke fra kildene]** Ved grenseoverskridende behandling skal meldingen gå til ledende tilsynsmyndighet (art. 33 nr. 1 viser til «vedkommende tilsynsmyndighet i samsvar med artikkel 55»; jf. art. 56); se [K27](../kilder/K27-wp244-ledende-tilsynsmyndighet.md).
 
 ### 6. Varsling av de registrerte
 
 - Kreves ved **høy risiko**, uten ugrunnet opphold, slik at de kan begrense konsekvensene (f.eks. bytte passord, varsle bank) [K33 ark 19; K34 s. 1].
 - Varselet skal minst beskrive bruddets art, kontaktpunkt og anbefalte tiltak for å redusere negative virkninger [K30 kap. 17], og (**[Merknad – ikke fra kildene]** art. 34 nr. 2) sannsynlige konsekvenser og iverksatte tiltak.
 - Språket skal være kortfattet, åpent, forståelig og lett tilgjengelig – også ved avviksvarsling; varsling skal skje slik at den enkelte faktisk får det med seg, adskilt fra annen informasjon (f.eks. markedsføring) [K06].
-- Unntak (art. 34 nr. 3) – kryptering som gjør data uforståelige [K10; K30 kap. 17]; se rettslig grunnlag for øvrige unntak.
+- Unntak (art. 34 nr. 3) – kryptering som gjør data uleselige for uvedkommende [K10; K30 kap. 17]; se rettslig grunnlag for øvrige unntak.
 - Datatilsynet nevner «lav terskel for å informere om sikkerhetsavvik» som et åpenhetstiltak i DPIA-sammenheng [K12 s. 5]; CNILs eksempel-DPIA har «varsling av de registrerte ved brudd med anbefaling av forebyggende tiltak» som risikoreduserende tiltak [K31 s. 28].
 
 ### 7. Intern dokumentasjon av alle avvik (art. 33 nr. 5)

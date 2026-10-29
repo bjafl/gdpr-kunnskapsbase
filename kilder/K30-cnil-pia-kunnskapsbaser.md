@@ -46,6 +46,8 @@ Tredje av CNILs tre PIA-guider (GDPR-tilpasset 2018-utgave, 104 sider). Dokument
 | Sensitive opplysninger etter DP-Act (art. 8 og 9; direktivet art. 8) | Filosofisk, politisk, religiøs og fagforeningsmessig overbevisning, seksualliv, helse, rasemessig eller etnisk opprinnelse |
 | | Lovbrudd, domfellelser, sikkerhetstiltak |
 
+**[Merknad – ikke fra kilden]** Tabellen bygger på den gamle franske DP-Act. Etter GDPR er tilsvarende kategorier «særlige kategorier av personopplysninger» (art. 9 nr. 1), som også omfatter genetiske opplysninger og biometriske opplysninger med det formål å entydig identifisere en fysisk person – biometri er altså ikke bare «oppfattet som» sensitivt. Lovbrudd og domfellelser reguleres i art. 10 (jf. [K43](K43-gdpr-kap02-prinsipper.md#art-9)).
+
 #### 1.2 Typologi av støtteressurser (supporting assets) (s. 2)
 
 | Gruppe | Type støtteressurs | Eksempler |
@@ -261,7 +263,7 @@ Hvert kapittel har «Aims» (formål), «Good practices» (god praksis, ev. «to
 | 8 | Logisk tilgangskontroll (privilegier, autentisering, sertifikater, legitimasjon) | D | 24 |
 | 9 | Lagringstid: begrenset | P | 29 |
 | 10 | Holde risikokilder på trygg avstand | G | 31 |
-| 11 | Retten til begrensning og innsigelse | R | 32 |
+| 11 | Retten til begrensning og retten til å protestere | R | 32 |
 | 12 | Retten til retting og sletting | R | 35 |
 | 13 | Innsynsrett og dataportabilitet | R | 37 |
 | 14 | Formål: spesifisert, uttrykkelig og legitimt | P | 39 |
@@ -417,21 +419,21 @@ Hvert kapittel har «Aims» (formål), «Good practices» (god praksis, ev. «to
 - Unngå farlige geografiske områder (flomsoner, nær flyplasser, kjemisk industri, jordskjelv- og vulkansoner).
 - Ikke lagre data i utlandet uten garantier: adekvat land (nevner Canada, Sveits, Argentina, Guernsey, Jersey, Isle of Man), EU-standardkontrakter, BCR, Privacy Shield for USA, eller unntak i DP-Act art. 69. Behandlingsansvarlig forblir ansvarlig for sikkerheten.
 
-#### 11 Retten til begrensning og innsigelse (s. 32–34)
+#### 11 Retten til begrensning og retten til å protestere (s. 32–34)
 **11.1 Generelt** – Formål: DP-Act art. 38, GDPR art. 18 og 21; sikre at personer kan protestere mot bruk av sine data; la den registrerte «fryse» behandlingen mens legitimiteten kontrolleres; kontroller om unntak gjelder (rettslig plikt, tvingende berettigede grunner, rettskrav, allmenn interesse).
 - Bestem praktiske midler: så raskt som mulig, **innen to måneder uten unntak**, i samme form som behandlingen (post og/eller e-post), ikke avskrekkende og uten kostnad.
 - Sikre at retten alltid kan utøves og at dataene faktisk muliggjør det – analyser når midlene ikke virker og ha reserveløsninger.
 - Den registrerte skal kunne gjøre sitt valg før endelig validering av sine svar (DP-Act art. 96).
 - ID-kontroll ved oppmøte (også av fullmektig); per post: signert, kopi av legitimasjon (ikke lagres med mindre bevis må beholdes), svaradresse; per e-post (kryptert kanal over Internett): digitalisert legitimasjon (ikke lagret, eller i sort-hvitt, lav oppløsning, kryptert).
-- Sikre at legitime grunner oppgis og vurderes (unntatt markedsføring og helseforskning, der innsigelsesretten er skjønnsmessig/ubetinget).
-- Varsle alle mottakere om innsigelser (DP-Decree art. 97).
+- Sikre at legitime grunner oppgis og vurderes (unntatt markedsføring og helseforskning, der retten til å protestere er skjønnsmessig/ubetinget).
+- Varsle alle mottakere om protester (DP-Decree art. 97).
 - Merknad: retten til begrensning lar den registrerte fryse behandlingen som beskyttelsestiltak.
 
-**11.2 Telefon** – innsigelse ved tastetrykk. **11.3 Elektronisk skjema** – lett tilgjengelig skjema med opt-out-bokser eller avmelding (slett konto). **11.4 E-post** – tydelig identifisert avsender; innhold som samsvarer med emnet; innsigelse ved svar eller lenke, uten krav om å identifisere seg.
+**11.2 Telefon** – protest ved tastetrykk. **11.3 Elektronisk skjema** – lett tilgjengelig skjema med opt-out-bokser eller avmelding (slett konto). **11.4 E-post** – tydelig identifisert avsender; innhold som samsvarer med emnet; protest ved svar eller lenke, uten krav om å identifisere seg.
 
 **11.5 Tilkoblet objekt eller mobilapp** – «Privacy»-innstillinger (mulighet til å endre standard; tilgjengelig ved første aktivering og senere via egen meny); mulighet til å protestere mot innsamling av spesielle data (varsle med ikon/lys når appen kjører i bakgrunnen, mikrofonen «lytter», lokasjon samles inn, og la brukeren protestere); ta hensyn til mindreårige (foreldrekontroll; ekskluder barn under 13 fra automatisert profilering); stopp innsamling når samtykke trekkes.
 
-**11.6 Forskning med identifiserbare biologiske prøver (DNA)** – ved videre behandling som avviker fra den opprinnelige: innsigelsesrett uten krav om begrunnelse.
+**11.6 Forskning med identifiserbare biologiske prøver (DNA)** – ved videre behandling som avviker fra den opprinnelige: rett til å protestere uten krav om begrunnelse.
 
 #### 12 Retten til retting og sletting (s. 35–36)
 **12.1 Generelt** – Formål: DP-Act art. 40, GDPR art. 16, 17 og 19; rette, supplere, oppdatere, sperre eller slette; kontroller unntak (DP-Act art. 41: nasjonal sikkerhet, forsvar, offentlig sikkerhet; GDPR art. 17: ytrings- og informasjonsfrihet, rettslig plikt, allmenn interesse, folkehelse, forskning/statistikk, rettskrav).
@@ -489,7 +491,8 @@ Hvert kapittel har «Aims» (formål), «Good practices» (god praksis, ev. «to
 
 - Før oppdatert dokumentasjon over brudd (GDPR art. 33 nr. 5) – kontekst, kategori og antall berørte registrerte og poster, virkninger, tiltak.
 - Analyser muligheten for å forbedre sikkerhetstiltak etter brudd.
-- Merknader: «Telecoms Package» (2009, fransk lov 2011) innførte meldeplikt for teleoperatører; GDPR utvider til alle behandlingsansvarlige. Varsel til de registrerte (ved høy risiko) skal minst beskrive bruddets art, kontaktpunkt og anbefalte tiltak for å redusere negative virkninger; melding til tilsynsmyndigheten skal også beskrive konsekvensene og tiltak, og er nødvendig så snart bruddet medfører risiko for rettigheter og friheter. Andre meldeplikter gjelder i tillegg. Viktig å kunne sikre og fremlegge bevis.
+- Merknader: «Telecoms Package» (2009, fransk lov 2011) innførte meldeplikt for teleoperatører; GDPR utvider til alle behandlingsansvarlige. Underretning av de registrerte (ved høy risiko) skal minst beskrive bruddets art, kontaktpunkt og anbefalte tiltak for å redusere negative virkninger; melding til tilsynsmyndigheten skal også beskrive konsekvensene og tiltak, og er nødvendig så snart bruddet medfører risiko for rettigheter og friheter. Andre meldeplikter gjelder i tillegg. Viktig å kunne sikre og fremlegge bevis.
+  - **[Merknad – ikke fra kilden]** Etter GDPR skal underretningen av de registrerte (art. 34 nr. 2) også beskrive de sannsynlige konsekvensene av bruddet (art. 33 nr. 3 bokstav b–d gjelder for begge). Melding til tilsynsmyndigheten kan bare unnlates dersom bruddet sannsynligvis ikke vil medføre en risiko, og skal skje uten ugrunnet opphold og om mulig senest 72 timer etter at den behandlingsansvarlige fikk kjennskap til bruddet (jf. [K43](K43-gdpr-kap04-behandlingsansvarlig-og-databehandler.md#art-33)).
 - Verktøy: CLUSIF-prosedyre for ofre, CERTA-notat om inntrenging, direktiv 2009/136/EF, GDPR art. 33 og 34.
 
 #### 18 Personalforvaltning (s. 45)
@@ -618,6 +621,7 @@ Hvert kapittel har «Aims» (formål), «Good practices» (god praksis, ev. «to
 #### 27 Organisering (s. 67)
 **Formål:** organisasjon som kan styre og kontrollere personvernet.
 - Behandlingsansvarlig utpeker en person (DPO) som bistår med etterlevelse, med ressurser – stillingsbeskrivelse, menneskelige og økonomiske ressurser, direkte rapportering, organisatorisk og beslutningsmessig frihet, ingen interessekonflikt, informer ansattes representanter, konsultasjon med DPO før nye behandlinger.
+  - **[Merknad – ikke fra kilden]** Plikten til å utpeke personvernombud gjelder bare i tilfellene i art. 37 nr. 1: offentlige myndigheter og organer, kjerneaktiviteter med regelmessig og systematisk overvåking i stor skala, eller behandling i stor skala av særlige kategorier eller opplysninger om straffedommer (jf. [K43](K43-gdpr-kap04-behandlingsansvarlig-og-databehandler.md#art-37)).
 - Definer roller, ansvar og samhandling: DPO-oppgaver (behandlingsoversikt, uavhengig etterlevelseskontroll, rapportering), skill administrator med tilgang til data fra administrator med tilgang til bruksspor, beskriv samspill mellom prosjekteiere, sikkerhetsleder og DPO, definer oppgaver i risikostyring, beskriv bruddhåndtering.
 - Oppfølgingskomité (behandlingsansvarlig, DPO, interessenter) som møtes **minst årlig** for å sette mål og gjennomgå alle behandlinger.
 
@@ -654,6 +658,7 @@ Hvert kapittel har «Aims» (formål), «Good practices» (god praksis, ev. «to
 - Informert og transparent om formålene; spesifikt formål.
 - Ved utkontraktering: hver parts forpliktelser i skriftlig avtale.
 - Merknader: CNIL mener en arbeidstaker ikke kan samtykke fritt til behandling arbeidsgiveren setter opp. Praktiske samtykkehandlinger: taste PIN, holde telefonen mot smart plakat (Bluetooth), NFC. For informasjonssamfunnstjenester til barn ligger bevisbyrden for foreldresamtykke på behandlingsansvarlig (eller databehandler), med rimelig innsats etter tilgjengelig teknologi.
+  - **[Merknad – ikke fra kilden]** GDPR art. 8 nr. 2 legger plikten til å treffe rimelige tiltak for å kontrollere foreldresamtykket på den behandlingsansvarlige, ikke på databehandleren (jf. [K43](K43-gdpr-kap02-prinsipper.md#art-8)).
 
 **31.2 Sensitive data (DP-Act art. 8)** – informert, uttrykkelig samtykke før behandling, med mindre annet grunnlag eller loven forbyr.
 **31.3 Nettsted** – avkrysningsbokser som ikke er forhåndsavkrysset (opt-in).
@@ -691,6 +696,7 @@ Hvert kapittel har «Aims» (formål), «Good practices» (god praksis, ev. «to
 
 #### 34 Databehandlere: identifisert og regulert i avtale (s. 80–81)
 **34.1 Generelt** – Formål: GDPR art. 28. Avtale med hver databehandler som dekker alle punktene i art. 28: omfang og varighet; formål; dokumenterte instrukser; forhåndsgodkjenning ved bruk av annen databehandler; tilgang til dokumentasjon som viser etterlevelse; **umiddelbar varsling av brudd**; osv.
+  - **[Merknad – ikke fra kilden]** Varslingsplikten følger ikke av art. 28 selv, men av art. 33 nr. 2: databehandleren skal «uten ugrunnet opphold» underrette den behandlingsansvarlige om brudd på personopplysningssikkerheten; etter art. 28 nr. 3 bokstav f skal databehandleren bistå med oppfyllelsen av art. 32–36 (jf. [K43](K43-gdpr-kap04-behandlingsansvarlig-og-databehandler.md#art-33)).
 
 **34.2 Databehandlere (vertskap, vedlikehold, administrator, spesialtjenester) – unntatt skyleverandører**
 - Avtale inngått *intuitu personae* (knyttet til den konkrete leverandøren).
@@ -872,9 +878,9 @@ Hvert kapittel har «Aims» (formål), «Good practices» (god praksis, ev. «to
 
 - 2018-utgaven er tilpasset GDPR, men mange anbefalinger viser fortsatt til den gamle franske DP-Act (meldeplikt til CNIL, forhåndsgodkjenning av biometri, «Single authorization 52», «Article 31»-liste per faks) og franske organer/standarder (ANSSI, RGS, CERTA, LCEN, DIN 32757). Disse må oversettes til norske forhold.
 - **[Merknad – ikke fra kilden]** Flere tekniske anbefalinger er utdaterte: «128 bits for confidentiality guaranteed until 2020»; «128-bit SSL»; WPA/WPA2 (WPA3 er nå standard); passordregel om periodisk bytte (moderne anbefalinger, inkl. CNILs passordanbefaling delib. 2022-100 som erstattet delib. 2017-012, legger mer vekt på lengde/entropi og MFA og mindre på periodisk bytte). Nevnte programvare (Spybot, Rootkit Revealer, Zed!, Security BOX) kan være utgått. CERTA heter nå CERT-FR.
-- **[Merknad – ikke fra kilden]** Privacy Shield (nevnt i kap. 10 og 33) ble kjent ugyldig av EU-domstolen i Schrems II (C-311/18, 16.7.2020). Overføringer til USA kan nå skje under EU–US Data Privacy Framework (adekvansbeslutning juli 2023) for sertifiserte mottakere, ellers standardkontrakter (2021/914) med overføringsvurdering. Listen over adekvate land i kap. 10 er ufullstendig/utdatert.
-- **[Merknad – ikke fra kilden]** Fristen «innen to måneder» for rettigheter (kap. 11–12) stammer fra fransk rett; under GDPR art. 12 nr. 3 er fristen **én måned** (kan forlenges med to måneder ved behov) – kap. 13 nevner dette selv.
+- **[Merknad – ikke fra kilden]** Privacy Shield (nevnt i kap. 10 og 33) ble kjent ugyldig av EU-domstolen i Schrems II (C-311/18, 16.7.2020). Overføringer til USA kan nå skje under EU–US Data Privacy Framework (adekvansbeslutning, dvs. beslutning om tilstrekkelig beskyttelsesnivå etter art. 45, juli 2023) for sertifiserte mottakere, ellers standardkontrakter (standard personvernbestemmelser, art. 46 nr. 2 bokstav c; 2021/914) med overføringsvurdering. Listen over adekvate land i kap. 10 er ufullstendig/utdatert.
+- **[Merknad – ikke fra kilden]** Fristen «innen to måneder» for rettigheter (kap. 11–12) stammer fra fransk rett; under GDPR art. 12 nr. 3 er fristen «uten ugrunnet opphold» og senest **én måned** (kan forlenges med ytterligere to måneder ved behov) – kap. 13 nevner dette selv. Kap. 13 sier «ikke kostnad utover kopieringskostnad»; etter art. 15 nr. 3 skal den første kopien gis kostnadsfritt, og gebyr basert på administrasjonskostnadene kan bare kreves for flere kopier (jf. [K43](K43-gdpr-kap03-den-registrertes-rettigheter.md#art-12)).
 - **[Merknad – ikke fra kilden]** Aldersgrensen 13 år for foreldresamtykke er brukt i katalogen; i Norge er grensen 13 år (personopplysningsloven § 5), i Frankrike 15 år.
-- **[Merknad – ikke fra kilden]** Kategoriseringen av avvik i kap. 17 er CNILs interne inndeling; GDPRs terskler er «risiko» (melding til tilsynet innen 72 timer, art. 33) og «høy risiko» (varsling av de registrerte, art. 34).
+- **[Merknad – ikke fra kilden]** Kategoriseringen av avvik i kap. 17 er CNILs interne inndeling; GDPR bruker begrepet «brudd på personopplysningssikkerheten» (art. 4 nr. 12), og tersklene er «risiko» (melding til tilsynsmyndigheten uten ugrunnet opphold og om mulig innen 72 timer, art. 33) og «høy risiko» (underretning av de registrerte, art. 34).
 - **[Merknad – ikke fra kilden]** CNIL har senere publisert oppdaterte sikkerhetsveiledninger (bl.a. «Guide de la sécurité des données personnelles», 2023/2024-utgaver – se [K33](K33-cnil-sikkerhetsguide.md)/[K34](K34-cnil-cybersikkerhet-2024.md)), som bør foretrekkes for konkrete tekniske krav. CNILs PIA-verktøy (programvare) inneholder en tiltakskatalog basert på denne kunnskapsbasen.
 - Deler av tabellene i §1.5 og §1.7 er rekonstruert fra et tekstuttrekk med forskjøvne kolonner; innholdet er kontrollert mot de tilsvarende tabellene i [K31](K31-cnil-pia-tilkoblede-objekter.md).

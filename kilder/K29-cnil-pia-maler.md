@@ -15,7 +15,7 @@ relevans: høy
 
 ## Sammendrag
 
-Andre av CNILs tre PIA-guider (2018-utgaven, GDPR-tilpasset): et sett **utfyllbare maltabeller** som følger strukturen i CNILs PIA-metode: 1. Kontekst, 2. Grunnleggende prinsipper, 3. Datasikkerhetsrisikoer, 4. Validering. Malene dekker beskrivelse av behandlingen, data/mottakere/lagringstid, prosesser og støtteressurser, behandlingsgrunnlag, minimering, kvalitet, lagringstid, informasjon, samtykke, innsyn/portabilitet, retting/sletting, begrensning/innsigelse, databehandlere, overføringer ut av EU, sikkerhetstiltak (data-spesifikke, generelle, organisatoriske), risikoanalyse for de tre fryktede hendelsene, risikokart, handlingsplan, DPO-råd, de registrertes syn og formell validering. Dokumentet er 25 sider. Malene er laget med et tilkoblet produkt i tankene (flere felt nevner enhet, app, smarttelefon), og valideringsteksten er lånt fra eksemplet med en tilkoblet leke ([K31](K31-cnil-pia-tilkoblede-objekter.md)). CNIL understreker at malene er et hjelpemiddel som bør tilpasses hver kontekst og brukes sammen med metodeguiden (s. 1–2).
+Andre av CNILs tre PIA-guider (2018-utgaven, GDPR-tilpasset): et sett **utfyllbare maltabeller** som følger strukturen i CNILs PIA-metode: 1. Kontekst, 2. Grunnleggende prinsipper, 3. Datasikkerhetsrisikoer, 4. Validering. Malene dekker beskrivelse av behandlingen, data/mottakere/lagringstid, prosesser og støtteressurser, behandlingsgrunnlag, minimering, kvalitet, lagringstid, informasjon, samtykke, innsyn/portabilitet, retting/sletting, begrensning/protest (retten til å protestere), databehandlere, overføringer ut av EU, sikkerhetstiltak (data-spesifikke, generelle, organisatoriske), risikoanalyse for de tre fryktede hendelsene, risikokart, handlingsplan, DPO-råd, de registrertes syn og formell validering. Dokumentet er 25 sider. Malene er laget med et tilkoblet produkt i tankene (flere felt nevner enhet, app, smarttelefon), og valideringsteksten er lånt fra eksemplet med en tilkoblet leke ([K31](K31-cnil-pia-tilkoblede-objekter.md)). CNIL understreker at malene er et hjelpemiddel som bør tilpasses hver kontekst og brukes sammen med metodeguiden (s. 1–2).
 
 ## Når skal agenten bruke denne kilden
 
@@ -201,7 +201,7 @@ Ellers:
 | Advice given about resetting the device before selling it | | | |
 | Possibility of erasing the data in the event the device is stolen | | | |
 
-**Begrensning og innsigelse** – hvis unntak (DP-Act art. 38; GDPR art. 21):
+**Begrensning og protest** – hvis unntak (DP-Act art. 38; GDPR art. 21):
 
 | Exemption from the rights to restriction and to object | Justification | Arrangements for responding to the data subjects |
 |---|---|---|
@@ -224,7 +224,7 @@ Ellers:
 | Processor's name | Purpose | Scope | Contract reference | Compliance with Art. 28 |
 |---|---|---|---|---|
 
-Fotnote 6: det skal inngås en databehandleravtale med hver databehandler som fastsetter alle elementer i GDPR art. 28: varighet, omfang, formål, dokumenterte instrukser, forhåndsgodkjenning ved bruk av (under)databehandler, tilgang til dokumentasjon som viser etterlevelse, rask varsling av brudd m.m.
+Fotnote 6: det skal inngås en databehandleravtale med hver databehandler som fastsetter alle elementer i GDPR art. 28: varighet, omfang, formål, dokumenterte instrukser, forhåndsgodkjenning ved bruk av (under)databehandler, tilgang til dokumentasjon som viser etterlevelse, rask varsling av brudd på personopplysningssikkerheten m.m.
 
 **Overføring ut av EU** (s. 12)
 
@@ -419,7 +419,7 @@ Struktur for en valideringstekst: dato – hvem validerer (i egenskap av behandl
 ### Samlet DPIA-skjelett (avledet av malene)
 
 1. Kontekst: beskrivelse (behandling, formål, innsatser, behandlingsansvarlig, databehandlere) · standarder · data/mottakere/lagringstid · dataflytdiagram og prosesser/støtteressurser.
-2. Grunnleggende prinsipper: formål · behandlingsgrunnlag · minimering · kvalitet · lagringstid · vurdering (5 linjer) · informasjon · samtykke · innsyn/portabilitet · retting/sletting · begrensning/innsigelse · databehandlere · overføringer · vurdering (7 linjer).
+2. Grunnleggende prinsipper: formål · behandlingsgrunnlag · minimering · kvalitet · lagringstid · vurdering (5 linjer) · informasjon · samtykke · innsyn/portabilitet · retting/sletting · begrensning/protest · databehandlere · overføringer · vurdering (7 linjer).
 3. Risiko: sikkerhetstiltak A (8 data-tiltak), B (12 generelle), C (8 organisatoriske) · risikoanalyse for 3 fryktede hendelser · residualvurdering.
 4. Validering: syntese prinsipper (12 linjer) · syntese sikkerhet (28 linjer) · risikokart · handlingsplan · DPO-råd · de registrertes syn · formell validering.
 
@@ -460,6 +460,7 @@ Struktur for en valideringstekst: dato – hvem validerer (i egenskap av behandl
 ## Aktualitet og begrensninger
 
 - Utgaven er GDPR-tilpasset (februar 2018), men inneholder fortsatt henvisninger til den gamle franske DP-Act (art. 32, 38, 39, 41) og til ANSSI-anbefalinger; overføringstabellen har en egen kolonne for «France».
-- Aldersgrensen «under 13 years» i samtykke- og innsigelsestabellene er CNILs valg i malen. **[Merknad – ikke fra kilden]** GDPR art. 8 setter 16 år som utgangspunkt med nasjonal adgang til å senke til 13; Norge har valgt 13 år (personopplysningsloven § 5), Frankrike 15 år.
-- Overføringstabellen nevner standardkontrakter og «internal corporate regulations» (BCR). **[Merknad – ikke fra kilden]** Etter Schrems II (EU-domstolen C-311/18, 2020) må overføringer på standardkontrakter normalt suppleres med en overføringskonsekvensvurdering (TIA), og nye standardkontrakter (2021/914) gjelder.
+- Aldersgrensen «under 13 years» i tabellene for samtykke og for begrensning/protest er CNILs valg i malen. **[Merknad – ikke fra kilden]** GDPR art. 8 setter 16 år som utgangspunkt med nasjonal adgang til å senke til 13; Norge har valgt 13 år (personopplysningsloven § 5), Frankrike 15 år.
+- Overføringstabellen nevner standardkontrakter og «internal corporate regulations» (BCR). **[Merknad – ikke fra kilden]** Lovens begreper er «standard personvernbestemmelser» (art. 46 nr. 2 bokstav c) og «bindende virksomhetsregler» (art. 47), og «Country recognized as providing adequate protection» svarer til en beslutning om tilstrekkelig beskyttelsesnivå etter art. 45 (jf. [K43](K43-gdpr-kap05-overforing-av-personopplysninger-til-tredjestater.md#art-46)). Etter Schrems II (EU-domstolen C-311/18, 2020) må overføringer på standardkontrakter normalt suppleres med en overføringskonsekvensvurdering (TIA), og nye standardkontrakter (2021/914) gjelder.
+- **[Merknad – ikke fra kilden]** Samtykketabellen omtaler lokasjon som «special data». Lokasjonsdata er ikke en særlig kategori av personopplysninger etter GDPR art. 9 nr. 1; uttrykket må leses som CNILs betegnelse på spesielt personverninngripende data (jf. [K43](K43-gdpr-kap02-prinsipper.md#art-9)).
 - **[Merknad – ikke fra kilden]** CNILs PIA-programvare (åpen kildekode) implementerer i praksis samme struktur som disse malene.

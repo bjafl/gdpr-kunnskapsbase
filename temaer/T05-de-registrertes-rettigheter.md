@@ -21,10 +21,10 @@ kilder: [K07, K08, K06, K26, K25, K39, K05, K02, K11]
 
 ## Rettslig grunnlag
 
-- **GDPR art. 12** (modaliteter, frister, gebyr, identitet), **art. 15** (innsyn), **art. 16** (retting), **art. 17** (sletting), **art. 18** (begrensning), **art. 19** (underretning til mottakere), **art. 20** (dataportabilitet), **art. 21** (protest), **art. 22** (automatiserte avgjørelser), **art. 23** (nasjonale begrensninger), **art. 11** (behandling som ikke krever identifikasjon).
-- **Art. 7 nr. 3** (tilbaketrekking av samtykke) [K25 s. 21–23].
-- **Art. 28 nr. 3 bokstav e** (databehandlerens bistandsplikt) [K05 s. 5].
-- **Personopplysningsloven § 16** (særnorske unntak fra informasjon og innsyn) [K06 s. 6]. **[Merknad – ikke fra kildene]** Det finnes også andre unntak i personopplysningsloven og særlovgivning (f.eks. for forskning og arkiv); verifiser aktuelle paragrafer før bruk.
+- **GDPR [art. 12](../kilder/K43-gdpr-kap03-den-registrertes-rettigheter.md#art-12)** (modaliteter, frister, gebyr, identitet), **[art. 15](../kilder/K43-gdpr-kap03-den-registrertes-rettigheter.md#art-15)** (innsyn), **[art. 16](../kilder/K43-gdpr-kap03-den-registrertes-rettigheter.md#art-16)** (retting), **[art. 17](../kilder/K43-gdpr-kap03-den-registrertes-rettigheter.md#art-17)** (sletting), **[art. 18](../kilder/K43-gdpr-kap03-den-registrertes-rettigheter.md#art-18)** (begrensning), **[art. 19](../kilder/K43-gdpr-kap03-den-registrertes-rettigheter.md#art-19)** (underretning til mottakere), **[art. 20](../kilder/K43-gdpr-kap03-den-registrertes-rettigheter.md#art-20)** (dataportabilitet), **[art. 21](../kilder/K43-gdpr-kap03-den-registrertes-rettigheter.md#art-21)** (rett til å protestere), **[art. 22](../kilder/K43-gdpr-kap03-den-registrertes-rettigheter.md#art-22)** (automatiserte avgjørelser), **[art. 23](../kilder/K43-gdpr-kap03-den-registrertes-rettigheter.md#art-23)** (nasjonale begrensninger), **[art. 11](../kilder/K43-gdpr-kap02-prinsipper.md#art-11)** (behandling som ikke krever identifikasjon).
+- **[Art. 7](../kilder/K43-gdpr-kap02-prinsipper.md#art-7) nr. 3** (tilbaketrekking av samtykke) [K25 s. 21–23].
+- **[Art. 28](../kilder/K43-gdpr-kap04-behandlingsansvarlig-og-databehandler.md#art-28) nr. 3 bokstav e** (databehandlerens bistandsplikt) [K05 s. 5].
+- **[Personopplysningsloven § 16](../kilder/K42-personopplysningsloven.md#p16)** (særnorske unntak fra informasjon og innsyn) [K06 s. 6]. **[Merknad – ikke fra kildene]** Det finnes også andre unntak i personopplysningsloven og særlovgivning, bl.a. [popplyl. § 17](../kilder/K42-personopplysningsloven.md#p17) (unntak fra innsyn, retting og begrensning ved behandling for arkiv-, forsknings- og statistikkformål).
 - **[Merknad – ikke fra kildene]** EDPB Guidelines 01/2022 om innsynsrett gir utfyllende europeisk tolkning av art. 15.
 
 ## Utdyping
@@ -73,7 +73,7 @@ Kildene supplerer:
 - Sletting må gjennomføres **uavhengig av tekniske begrensninger** – rettigheter må tenkes inn i databasestrukturen fra start [K39 s. 48, 65].
 - Systemer og rutiner må sikre at sletting faktisk skjer [K08].
 
-**[Merknad – ikke fra kildene – art. 17 nr. 1 og 3 oppsummert]** Grunner for sletting: (a) ikke lenger nødvendig for formålet; (b) samtykke trukket tilbake og ikke annet grunnlag; (c) protest etter art. 21 nr. 1 uten tungtveiende berettigede grunner, eller protest mot direkte markedsføring (art. 21 nr. 2); (d) ulovlig behandling; (e) rettslig plikt til sletting; (f) opplysninger samlet inn i forbindelse med informasjonssamfunnstjenester til barn (art. 8). **Art. 17 nr. 2:** er opplysningene offentliggjort, skal rimelige tiltak treffes for å informere andre behandlingsansvarlige. **Unntak (nr. 3):** ytrings- og informasjonsfrihet; rettslig plikt eller offentlig oppgave; folkehelse; arkiv/forskning/statistikk når sletting vil umuliggjøre eller alvorlig hindre formålet; fastsettelse, utøvelse eller forsvar av rettskrav.
+**[Merknad – ikke fra kildene – art. 17 nr. 1 og 3 oppsummert]** Grunner for sletting: (a) ikke lenger nødvendig for formålet; (b) samtykke trukket tilbake og ikke annet grunnlag; (c) protest etter art. 21 nr. 1 uten mer tungtveiende berettigede grunner, eller protest mot direkte markedsføring (art. 21 nr. 2); (d) ulovlig behandling; (e) rettslig plikt til sletting; (f) opplysninger samlet inn i forbindelse med informasjonssamfunnstjenester til barn (art. 8). **Art. 17 nr. 2:** er opplysningene offentliggjort, skal rimelige tiltak treffes for å informere andre behandlingsansvarlige. **Unntak (nr. 3):** ytrings- og informasjonsfrihet; rettslig plikt eller offentlig oppgave; folkehelse; arkiv/forskning/statistikk når sletting vil umuliggjøre eller alvorlig hindre formålet; fastsettelse, utøvelse eller forsvar av rettskrav.
 
 ### 5. Begrensning (art. 18)
 

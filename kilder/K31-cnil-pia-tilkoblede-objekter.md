@@ -97,13 +97,13 @@ NB: Hele del 1 må leses gjennom av DPO for å sikre at den er fullstendig og sa
 
 ### Del 2 – Grunnleggende prinsipper (s. 6–19)
 
-Utføres normalt av prosjekteier og vurderes av den som har ansvar for personvern. Mål: bygge systemet som sikrer etterlevelse. Prinsippene: spesifiserte og uttrykkelige formål, lovlighet, minimering, kvalitet, begrenset lagringstid, informasjon, samtykke, innsyn, portabilitet, retting og sletting, innsigelse og begrensning, regulering av databehandlere, overføring ut av EU. Forklar og begrunn valgene; kontroller at forbedring ikke er nødvendig eller mulig; foreslå ev. tilleggstiltak.
+Utføres normalt av prosjekteier og vurderes av den som har ansvar for personvern. Mål: bygge systemet som sikrer etterlevelse. Prinsippene: spesifiserte og uttrykkelige formål, lovlighet, minimering, kvalitet, begrenset lagringstid, informasjon, samtykke, innsyn, portabilitet, retting og sletting, protest (retten til å protestere) og begrensning, regulering av databehandlere, overføring ut av EU. Forklar og begrunn valgene; kontroller at forbedring ikke er nødvendig eller mulig; foreslå ev. tilleggstiltak.
 
 **2.1.1 Formål** (art. 5 nr. 1 b) – tabell «Purposes | Legitimacy» (legitimitet: se WP29-uttalelse WP203).
 - Note: forklar formål med deling med tredjeparter, særlig reklame og «partnertilbud», og formål om tjenesteforbedring; forklar vilkår for sammenstilling.
 - NB (WP29 02/2013 om apper): pga. barns sårbarhet må formålsbegrensning etterleves enda strengere; **behandlingsansvarlige må ikke bruke barnets data til profilering (f.eks. målrettet reklame), direkte eller indirekte**, fordi barnet ikke kan forstå konsekvensene og det går utover det som er rimelig behandling (s. 7).
 
-**2.1.2 Behandlingsgrunnlag** (art. 6) – tabell med de seks grunnlagene, «Applicable | Justification» (identisk med [K29](K29-cnil-pia-maler.md)). Notes: angi rettsgrunnlag ved rettslig plikt/allmenn interesse; flere grunnlag mulig (avtale for primærbruk ved kjøp, samtykke for sekundærformål ved aktivering); forenlighetsvurdering ved viderebehandling (kobling mellom formål, kontekst, opplysningenes art, konsekvenser, garantier som kryptering/pseudonymisering).
+**2.1.2 Behandlingsgrunnlag** (art. 6) – tabell med de seks grunnlagene, «Applicable | Justification» (identisk med [K29](K29-cnil-pia-maler.md)). Notes: angi rettsgrunnlag ved rettslig plikt/allmenn interesse; flere grunnlag mulig (avtale for primærbruk ved kjøp, samtykke for sekundærformål ved aktivering); forenlighetsvurdering ved viderebehandling (kobling mellom formål, kontekst, opplysningenes art, konsekvenser, nødvendige garantier som kryptering/pseudonymisering).
 
 **2.1.3 Dataminimering** (art. 5 nr. 1 c) – reduser alvorlighet ved å begrense antall data og deretter redusere sensitiviteten (vedlegg 1). Utfylt eksempel:
 
@@ -136,13 +136,14 @@ Utføres normalt av prosjekteier og vurderes av den som har ansvar for personver
 
 **2.2.2 Samtykke** (art. 7 og 8) – behandlingsansvarlig må kunne vise samtykke; det skal være lett å trekke tilbake. Tiltak: uttrykkelig samtykke ved aktivering; segmentert per datakategori/behandlingstype; uttrykkelig samtykke før deling med andre brukere; forståelig, klart språk tilpasset brukeren (særlig barn); foreldresamtykke for barn under 13; nytt samtykke for hver ny bruker; bekreftelse etter lang inaktivitet; ikon/lys ved behandling av spesielle data (f.eks. lokasjon); samtykkeinnstillinger bevares ved bytte av enhet, reinstallasjon av app eller sletting av cookies.
 - NB (art. 8): for informasjonssamfunnstjenester direkte til mindreårige kreves samtykke fra forelder for barn **under 16 år**, med nasjonal adgang til å senke grensen, men ikke under 13; behandlingsansvarlig må gjøre rimelige anstrengelser for å verifisere foreldresamtykket; bevisbyrden ligger hos behandlingsansvarlig/databehandler.
+  - **[Merknad – ikke fra kilden]** GDPR art. 8 nr. 2 legger plikten til å treffe rimelige tiltak for å kontrollere foreldresamtykket på den behandlingsansvarlige, ikke på databehandleren (jf. [K43](K43-gdpr-kap02-prinsipper.md#art-8)).
 - NB (WP29 02/2013): der mindreårige kan samtykke selv, ta hensyn til begrenset forståelse og oppmerksomhet.
 
 **2.2.3 Innsyn og portabilitet** (art. 15, 20) – unntakstabell; tiltak: tilgang til alle brukerens data via vanlige grensesnitt; sikker visning av bruksspor; nedlasting av arkiv med alle data; portabilitet i lett gjenbrukbart format.
 
 **2.2.4 Retting og sletting** (art. 16, 17, 19) – tiltak: retting; sletting; opplysning om data som likevel lagres; retten til å bli glemt for mindreårige; klare instruksjoner for sletting før kassering av enheten; råd om tilbakestilling før salg; mulighet for sletting ved tyveri av enheten. NB: én måned til å slette eller svare, deretter klage til tilsynsmyndigheten; bruker under 18 ved publisering/kontoopprettelse kan kreve sletting uten begrunnelse (fransk lov om en digital republikk 2016).
 
-**2.2.5 Begrensning og innsigelse** (art. 18, 21) – tiltak: «Privacy»-innstillinger; oppfordring til å endre standardinnstillinger; innstillinger tilgjengelige ved aktivering og etter aktivering; foreldrekontroll for barn under 13; *system for å be om begrensning*; *tekniske midler for å låse tilgang til og bruk av data under begrensning*; *mulighet til å deaktivere funksjoner i enheten (mikrofon, nettleser m.m.)*; *alternative apper for tilgang til enheten*; *mulighet til å protestere mot at appen kjører i bakgrunnen*; etterlevelse ved sporing (cookies, reklame); ekskludering av barn under 13 fra automatisert profilering; effektiv stans av behandling når samtykke trekkes.
+**2.2.5 Begrensning og protest** (art. 18, 21) – tiltak: «Privacy»-innstillinger; oppfordring til å endre standardinnstillinger; innstillinger tilgjengelige ved aktivering og etter aktivering; foreldrekontroll for barn under 13; *system for å be om begrensning*; *tekniske midler for å låse tilgang til og bruk av data under begrensning*; *mulighet til å deaktivere funksjoner i enheten (mikrofon, nettleser m.m.)*; *alternative apper for tilgang til enheten*; *mulighet til å protestere mot at appen kjører i bakgrunnen*; etterlevelse ved sporing (cookies, reklame); ekskludering av barn under 13 fra automatisert profilering; effektiv stans av behandling når samtykke trekkes.
 
 **2.2.6 Databehandlere** (art. 28) – tabell «Processor's name | Purpose | Scope | Contract reference | Compliance with Art. 28»; avtale med alle art. 28-elementer.
 
@@ -177,7 +178,7 @@ IoT-spesifikke notater (s. 21–22):
 | Hovedrisikokilder | Ondsinnede bekjente; ondsinnet nabo; ondsinnet ansatt; autorisert tredjepartsselskap; hacker rettet mot en bruker eller ett av selskapene |
 | Hovedtrusler | Datatyveri/-innsyn på serveren; kontokapring (via smarttelefon); gjenfinning av kassert enhet |
 | Hovedkonsekvenser | Følger av avsløring av potensielt sensitiv informasjon (diskriminering, trusler, angrep, tap av arbeid, tap av tilgang til tjenester m.m.); phishing; målrettet reklame |
-| Hovedtiltak som reduserer alvorlighet og sannsynlighet | Minimering; lagringstid; logisk tilgangskontroll; strømkryptering (SSL); maskinvareautentisering; privat sky; klarering av ansatte; tilgangslogging; loggrevisjon; varsling av de registrerte ved brudd med anbefaling av forebyggende tiltak |
+| Hovedtiltak som reduserer alvorlighet og sannsynlighet | Minimering; lagringstid; logisk tilgangskontroll; strømkryptering (SSL); maskinvareautentisering; privat sky; klarering av ansatte; tilgangslogging; loggrevisjon; underretning av de registrerte ved brudd på personopplysningssikkerheten med anbefaling av forebyggende tiltak |
 | Alvorlighet | **Significant (3)** |
 | Sannsynlighet | **Maximum (4)** |
 
@@ -195,7 +196,7 @@ Residualvurdering (s. 29):
 | Hovedrisikokilder | Uaktsom eller ondsinnet bruker/familiemedlem/venn; ondsinnet nabo; uaktsom eller ondsinnet ansatt; hacker rettet mot ett av selskapene |
 | Hovedtrusler | Endring av data på serveren |
 | Hovedkonsekvenser | Identitetstyveri; svekket tjenestekvalitet |
-| Hovedtiltak | Backup av skyserveren; strømkryptering (SSL); maskinvareautentisering; privat sky; logisk tilgangskontroll; klarering av ansatte; tilgangslogging; loggrevisjon; varsling av de registrerte ved brudd med anbefaling av forebyggende tiltak |
+| Hovedtiltak | Backup av skyserveren; strømkryptering (SSL); maskinvareautentisering; privat sky; logisk tilgangskontroll; klarering av ansatte; tilgangslogging; loggrevisjon; underretning av de registrerte ved brudd med anbefaling av forebyggende tiltak |
 | Alvorlighet | **Limited (2)** |
 | Sannsynlighet | **Limited (2)** |
 
@@ -369,6 +370,6 @@ Notes: Risikoer kan generelt reduseres, overføres eller beholdes. Noen risikoer
 - Eksemplet er fiktivt og illustrativt; flere tabeller (risikovurdering for endring og forsvinning, residualnivåer) er bevisst ikke ferdig utfylt.
 - Påstanden om at mindreåriges data «overall» anses som sensitive etter GDPR er CNILs formulering. **[Merknad – ikke fra kilden]** Barns personopplysninger er ikke en særlig kategori etter GDPR art. 9, men barn er sårbare registrerte som krever særlig beskyttelse (fortalepunkt 38) og øker risikoen; dette er et kriterium i WP248.
 - Aldersgrense for foreldresamtykke: kilden gjengir GDPR art. 8 (16 år, nasjonalt ned til 13) men bruker 13 år i tiltakslistene. **[Merknad – ikke fra kilden]** Norge: 13 år (personopplysningsloven § 5).
-- Overføringstabellen bruker «France» som egen kolonne og nevner standardkontrakter/BCR. **[Merknad – ikke fra kilden]** Etter Schrems II (2020) kreves normalt TIA i tillegg; nye standardkontrakter 2021/914; EU–US Data Privacy Framework fra 2023.
+- Overføringstabellen bruker «France» som egen kolonne og nevner standardkontrakter/BCR. **[Merknad – ikke fra kilden]** Lovens begreper er «standard personvernbestemmelser» (art. 46 nr. 2 bokstav c) og «bindende virksomhetsregler» (art. 47), og «adekvat land» forutsetter en beslutning om tilstrekkelig beskyttelsesnivå (art. 45) (jf. [K43](K43-gdpr-kap05-overforing-av-personopplysninger-til-tredjestater.md#art-46)). Etter Schrems II (2020) kreves normalt TIA i tillegg; nye standardkontrakter 2021/914; EU–US Data Privacy Framework fra 2023.
 - **[Merknad – ikke fra kilden]** CNIL har et eget PIA-verktøy (åpen kildekode) som implementerer samme metodikk, og har senere publisert flere sektorspesifikke anbefalinger (bl.a. for mobilapper, 2024). EU-forordningen om cyberrobusthet (Cyber Resilience Act, 2024) og radioutstyrsdirektivets delegerte forordning stiller nå egne sikkerhetskrav til tilkoblede produkter, som er relevante i tillegg til DPIA.
 - Deler av tabellene (data, minimering, risikokilder, risikokart) er rekonstruert fra et tekstuttrekk med forskjøvne kolonner og bør kontrolleres mot PDF ved presis gjengivelse.

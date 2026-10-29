@@ -166,10 +166,12 @@ Kvalitetssikre at valgene oppfyller personvernprinsippene (legitimert og nødven
   - Dokumenteres samtykke?
   - Kan samtykke trekkes tilbake like enkelt som det gis?
   - Kontroller at samtykke ikke sammenblandes med kontrakt eller personvernerklæring.
+  - **[Merknad – ikke fra kilden]** Etter art. 4 nr. 11 skal samtykke være «frivillig, spesifikk, informert og utvetydig»; krav om *uttrykkelig* samtykke gjelder bare der forordningen sier det, f.eks. art. 9 nr. 2 bokstav a (jf. [K43](K43-gdpr-kap01-alminnelige-bestemmelser.md#art-4) og [K43](K43-gdpr-kap02-prinsipper.md#art-9)).
 - Rett til innsyn og dataportabilitet (art. 15 og 20).
 - Rett til korrigering og sletting (art. 16 og 17).
 - Rett til innsigelse og begrensning (art. 18, 19 og 21).
 - Hvordan håndheves forbudet mot automatiserte individuelle avgjørelser, herunder profilering (art. 22)?
+- **[Merknad – ikke fra kilden]** Lovens begreper er «rett til retting» (art. 16) og «rett til å protestere» (art. 21), ikke «korrigering» og «innsigelse» (jf. [K43](K43-gdpr-kap03-den-registrertes-rettigheter.md#art-21)).
 
 → Kontroller om ivaretakelsen kan forbedres; foreslå ev. tiltak.
 
@@ -268,6 +270,6 @@ Etter at minimumskravene i art. 35 nr. 7 er gjennomgått: «validere» = bedømm
 
 ## Aktualitet og begrensninger
 - Fra mai 2018; fortsatt relevant da den speiler art. 35 nr. 7.
-- **[Merknad – ikke fra kilden]** Bøtenivået som nevnes (10 mill. euro / 2 %) gjelder brudd på art. 35 og 36 etter art. 83 nr. 4. Overføringsspørsmålene bør i dag suppleres med Schrems II-kravene (TIA, K38) og EUs adekvansbeslutning for USA (2023).
+- **[Merknad – ikke fra kilden]** Nivået for overtredelsesgebyr som nevnes (10 mill. euro / 2 %) gjelder brudd på art. 35 og 36 etter art. 83 nr. 4. Overføringsspørsmålene bør i dag suppleres med Schrems II-kravene (TIA, K38) og EUs adekvansbeslutning for USA (2023).
 - **[Merknad – ikke fra kilden]** Forhåndsdrøftelse etter art. 36 kreves når DPIA viser høy restrisiko som ikke kan reduseres; sjekklistens formulering («behandlet i ledergruppen mer enn én gang») er Datatilsynets praktiske operasjonalisering.
 - Gir ingen skalaer for alvorlighetsgrad/sannsynlighet – må hentes fra virksomhetens egne kriterier (f.eks. K18) eller CNIL (K28).

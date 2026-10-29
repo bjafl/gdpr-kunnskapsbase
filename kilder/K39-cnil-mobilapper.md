@@ -77,7 +77,7 @@ Art. 82 gjelder når det skjer «any action to gain access, over an electronic c
 
 **Konsekvens** (s. 11): Informasjon og **forhåndssamtykke** kreves før lagring/tilgang, med mindre operasjonen (a) utelukkende har som formål å utføre eller lette overføring av en kommunikasjon over et elektronisk kommunikasjonsnett, eller (b) er strengt nødvendig for å levere en informasjonssamfunnstjeneste som brukeren uttrykkelig har bedt om. Den **etterfølgende behandlingen** av data hentet gjennom slike operasjoner må i tillegg ha et behandlingsgrunnlag etter GDPR.
 
-**[Merknad – ikke fra kilden]** I Norge er ePrivacy-direktivet art. 5(3) gjennomført i ekomloven (lov 2024-12-13 nr. 76 om elektronisk kommunikasjon) § 3-15 (tidligere ekomloven 2003 § 2-7 b). Tilsynsmyndighet for denne bestemmelsen er Nasjonal kommunikasjonsmyndighet (Nkom), mens Datatilsynet fører tilsyn med den etterfølgende behandlingen etter GDPR. CNILs tolkning av art. 82 er ikke bindende i Norge, men gir veiledning om et felles EU/EØS-regelverk. Kontroller gjeldende lovtekst.
+**[Merknad – ikke fra kilden]** I Norge er ePrivacy-direktivet art. 5(3) gjennomført i ekomloven (lov 2024-12-13 nr. 76 om elektronisk kommunikasjon) § 3-15 (tidligere ekomloven 2003 § 2-7 b). Tilsynsmyndighet for denne bestemmelsen er Nasjonal kommunikasjonsmyndighet (Nkom), mens Datatilsynet fører tilsyn med den etterfølgende behandlingen etter GDPR. CNILs tolkning av art. 82 er ikke bindende i Norge, men gir veiledning om et felles EU/EØS-regelverk. Lovteksten står i [K44](K44-ekomloven-3-15.md).
 
 #### 3.2 GDPR (s. 11)
 
@@ -225,7 +225,7 @@ Hvis utvikleren er databehandler og bruker en SDK-leverandør til deler av oppdr
 
 - **Dataminimering (art. 5 nr. 1 bokstav c)** (s. 30–31): kun nødvendige data (f.eks. ikke full fødselsdato hvis bare året trengs). Velg mellom tekniske data fra terminalen og data brukeren oppgir manuelt (f.eks. værapp: manuelt oppgitt sted vs. terminallokasjon). **CNIL anbefaler å foretrekke manuelt oppgitte data** når mulig; alle mottakere (også tredjeparter) bør vite at data er manuelt oppgitt (samme status som skjemadata på et nettsted). Anbefalt å la brukeren velge mellom manuell inntasting og automatisk overføring.
 - **Lagringsbegrensning (art. 5 nr. 1 bokstav e)**: strengt nødvendig periode.
-- **Sensitive data (art. 9)** (s. 31): forbudt med mindre unntak i art. 9 nr. 2 (f.eks. uttrykkelig samtykke). Kategorisering/segmentering basert på slike data for reklameprofilering er **forbudt** (DSA art. 26). Ved samtykke: på forhånd, fritt, spesifikt, informert; CNIL anbefaler advarsel/egen informasjon før samtykke eller egen avkrysningsboks for separat samtykke (jf. SAN-2023-006 avsn. 56 om helsedata).
+- **Særlige kategorier av personopplysninger («sensitive data», art. 9)** (s. 31): forbudt med mindre unntak i art. 9 nr. 2 (f.eks. uttrykkelig samtykke). Kategorisering/segmentering basert på slike data for reklameprofilering er **forbudt** (DSA art. 26). Ved samtykke: på forhånd, fritt, spesifikt, informert; CNIL anbefaler advarsel/egen informasjon før samtykke eller egen avkrysningsboks for separat samtykke (jf. SAN-2023-006 avsn. 56 om helsedata).
 - **Mindreårige** (s. 31): ikke særskilt behandlet; se CNILs arbeid om mindreåriges digitale rettigheter. Ekstra tiltak kreves. Reklame basert på profilering er **forbudt** når mottakeren er mindreårig (DSA art. 28).
 
 **3. Innebygd personvern og personvern som standard (art. 25)** (s. 31–32)
@@ -280,7 +280,7 @@ Utgiveren må, som behandlingsansvarlig, ha fullstendig oversikt over aktører o
 
 **1. Sikkerhet over tid (art. 32–34)**
 - Sikkerhetstiltak sikres via databehandleravtalen (art. 28 nr. 3 bokstav c).
-- Utgiveren **må** be databehandlere sende sikkerhetsvarsler slik at avvik kan meldes innen **72 timer** (art. 33).
+- Utgiveren **må** be databehandlere sende sikkerhetsvarsler slik at avvik (brudd på personopplysningssikkerheten) kan meldes innen **72 timer** (art. 33).
 - CNIL anbefaler: formalisere tekniske sikkerhetskrav med utvikleren (art. 32), med krav om at de også gjelder underdatabehandlere (f.eks. krav om etterlevelse av kap. 6); kontraktsfeste **oppdatering ved sårbarhet** i tredjepartskomponent eller egen kode; **skille kritiske sikkerhetsoppdateringer fra funksjonelle oppdateringer** så de kan rulles ut raskest mulig.
 
 **2. Revisjon av partneres forpliktelser** (s. 36)
@@ -373,6 +373,7 @@ Målgruppe: personvernombud i utviklingsbyrå, prosjektledere, utviklingsteam. U
 - Anbefalt å be utgiveren om **eksplisitt kvalifisering av rollen per behandling**. Ved databehandling **må** utvikleren be om instrukser i kravspesifikasjonen som definerer hvilke data som brukes; kontrakten må begrense behandlingen til instruksene (art. 28). Anbefalt **kontaktpunkt** hos utgiver (f.eks. personvernombud) for å godkjenne valg som påvirker behandlingen.
 - Utviklerens plikter som databehandler (art. 28), særlig: **åpenhet og sporbarhet** (god praksis: gjøre kildekoden tilgjengelig for utgiveren); **bistå** med rettighetsforespørsler; **sikkerhet**; **varsle** utgiveren hvis instrukser strider mot GDPR, særlig art. 25.
 - **Protokoll** over behandlinger utført for utgiveren (art. 30 nr. 3, med forbehold).
+  - **[Merknad – ikke fra kilden]** Databehandlerens protokollplikt følger av art. 30 nr. 2; nr. 3 gjelder bare at protokollene skal være skriftlige (jf. [K43](K43-gdpr-kap04-behandlingsansvarlig-og-databehandler.md#art-30)).
 - Kontroller at data som behandles samsvarer med utgiverens protokoll eller kravspesifikasjon; ellers anbefalt å varsle så dokumentet oppdateres.
 - Alltid handle etter dokumenterte instrukser; godkjenne bruk av **underdatabehandlere** etter art. 28.
 - Underleverandører som utfører lese-/skriveoperasjoner **på egne vegne** kan bli behandlingsansvarlige eller felles behandlingsansvarlige med utgiveren; bruk og kvalifisering etter GDPR og ePrivacy må godkjennes av utgiveren (s. 46).
@@ -410,7 +411,7 @@ Som databehandler må utvikleren bistå (art. 28 nr. 3 bokstav e og f) og inform
 - Uten instrukser om tillatelser må utvikleren sikre at de samsvarer med utgiverens forventninger. Anbefalt: bare nødvendige tillatelser; råd om minimering per tillatelsesnivå; frivillige alternativer ved avslag (5.5). God praksis: varsle brukeren når de mest inngripende tillatelsene er aktive.
 - Tillatelsesbruk må være forenlig med kravet om gyldig samtykke før lese-/skriveoperasjoner. Anbefalt å begrense **«install-time permissions»** og foretrekke **«runtime permissions»**.
 - God praksis: anbefale vernende løsninger – PETs (ICO-veiledning), lokal beregning fremfor fjern-API-er; analysere om instruerte data faktisk er nødvendige og foreslå å utelate data.
-- **Sensitive data (art. 9)** (s. 49): bare etter **uttrykkelig instruks** (art. 28 nr. 3 bokstav a); ellers informere utgiveren. Varsle ved irrelevant eller ulovlig bruk (f.eks. reklamemålretting – forbudt etter DSA art. 26). Ved SDK-integrasjon anbefalt å sikre at **SDK-er ikke har tilgang** til sensitive data. Anbefalt klart skille mellom sensitive og andre data i **arkitekturen**.
+- **Særlige kategorier av personopplysninger (art. 9)** (s. 49): bare etter **uttrykkelig instruks** (art. 28 nr. 3 bokstav a); ellers informere utgiveren. Varsle ved irrelevant eller ulovlig bruk (f.eks. reklamemålretting – forbudt etter DSA art. 26). Ved SDK-integrasjon anbefalt å sikre at **SDK-er ikke har tilgang** til sensitive data. Anbefalt klart skille mellom sensitive og andre data i **arkitekturen**.
 
 **3. Samtykkeinnhenting** (s. 49–52)
 - Anbefalt å varsle utgiveren når kravspesifikasjonen krever samtykke (art. 82 eller GDPR) og bidra til korrekt implementering.
@@ -527,7 +528,7 @@ SDK-leverandør: den som gjør én eller flere SDK-er tilgjengelige for integras
 **1. Plikter etter rolle** (s. 61)
 - Kvalifiser hver behandling etter kap. 4 og EDPB 07/2020 (databehandler eller felles behandlingsansvarlig m.m.). Er leverandøren behandlingsansvarlig/felles ansvarlig, gjelder også utgiverkapitlet.
 - Innsamling via SDK-en må **aldri skje uten at de registrerte vet om det**.
-- Som (felles) behandlingsansvarlig: særlig oppmerksomhet på **informasjon** og identifisering av **sensitive data** (art. 9).
+- Som (felles) behandlingsansvarlig: særlig oppmerksomhet på **informasjon** og identifisering av **særlige kategorier av personopplysninger** (art. 9).
 - Som databehandler: sikre at behandlingsansvarlig kjenner til **tredjelandsoverføringer** (kap. V) for å etablere kontraktsmessig og/eller teknisk rammeverk (jf. EDPB-anbefaling 01/2020 om supplerende tiltak).
 
 **2. Innebygd personvern og personvern som standard** (s. 62)
@@ -549,6 +550,7 @@ SDK-leverandør: den som gjør én eller flere SDK-er tilgjengelige for integras
 - Informasjonen må være oppdatert og lett tilgjengelig for alle partnere. Roller, plikter og samtykkeinnhenting **må formaliseres i kontraktsdokumentasjonen**.
 - Anbefalt at alle endringer med personvernbetydning **uttrykkelig meldes** til partnerne; som databehandler må endringene **godkjennes av behandlingsansvarlig før implementering**.
 - **Protokollformat** (s. 64): (art. 30-plikt for virksomheter med over 250 ansatte, med unntak etter nr. 5): hver behandling skilles etter formål; hvis behandlingen avhenger av innstillinger, anbefales en **dynamisk protokoll** etter SDK-konfigurasjon (ellers angi hvilke parametere som utløser hvilken behandling); dataene per behandling angis eksplisitt, gjerne i **regneark**; **behandlingsgrunnlag** og avledede plikter **må** angis per behandling; god praksis: utforme protokollen slik at partnerrelevant informasjon kan trekkes ut, med angivelse av forretningshemmeligheter.
+  - **[Merknad – ikke fra kilden]** Art. 30 nr. 5 er et unntak for foretak med færre enn 250 ansatte, og unntaket gjelder ikke dersom behandlingen sannsynligvis vil medføre en risiko for de registrertes rettigheter og friheter, ikke skjer leilighetsvis eller omfatter særlige kategorier (art. 9 nr. 1) eller opplysninger om straffedommer og lovovertredelser (art. 10). Protokollplikt kan derfor gjelde også under 250 ansatte (jf. [K43](K43-gdpr-kap04-behandlingsansvarlig-og-databehandler.md#art-30)).
 - God praksis for (felles) behandlingsansvarlig SDK-leverandør – **tabell over lese-/skriveoperasjoner**, per linje: operasjonen, tilknyttet tillatelse, formål (ev. protokollreferanse), **teknisk middel for å blokkere/aktivere** lesingen (for partnernes samtykkeverktøy); **eksempelformuleringer** for samtykkeinformasjon; **hvilke SDK-versjoner** som bruker hver linje.
 
 #### 7.3 Samtykke og rettigheter (s. 65–66)
@@ -718,6 +720,7 @@ App-butikkleverandør: den som utvikler og vedlikeholder en butikk (en app som i
 
 - Maksimal åpenhet, kommunikasjon på utgivernes språk. Ved konkurranserett/DMA: når én enhet har flere roller, må verifisering **ikke være mer komplisert for tredjepartsapper enn for egne apper** (s. 86).
 - **Grunnleggende personvernkontroll** (s. 86–87): for apper rettet mot EU-markedet kan utgiver spørres om appen behandler personopplysninger; i så fall bør butikken kontrollere at informasjonen til brukerne inneholder: identitet og kontaktinfo for behandlingsansvarlig og ev. representant (art. 13/14 nr. 1 bokstav a); formål og behandlingsgrunnlag (bokstav c); lagringstid (nr. 2 bokstav a); avhengig av grunnlag, hvordan rettigheter utøves (nr. 2 bokstav b); rett til å klage til tilsynsmyndighet (nr. 2 bokstav d). Kan f.eks. fylles inn i et skjema. **CNIL oppfordrer butikker til å avvise** apper rettet mot EU-markedet som behandler personopplysninger og ikke kan gi disse elementene. God praksis: generell påminnelse om regelverket.
+  - **[Merknad – ikke fra kilden]** Bokstavhenvisningene i nr. 2 passer for art. 13. I art. 14 står tilsvarende opplysninger i nr. 2 bokstav c (rettighetene) og nr. 2 bokstav e (klagerett) (jf. [K43](K43-gdpr-kap03-den-registrertes-rettigheter.md#art-14)).
 - **Tydelige forventninger** (innenfor DMA art. 6 nr. 12 – rettferdige, rimelige og ikke-diskriminerende vilkår): fullstendig dokumentasjon av krav; konkrete eksempler på problematisk atferd og løsninger; presis beskrivelse av valideringsprosess, steg og tidsfrister, inkl. utbedring ved avslag; proaktiv varsling av regelendringer med rimelig frist, og eksempler på utbedring hvis tidligere aksepterte løsninger nå avvises.
 - **Verktøy** (s. 87–88): finkornet tilgangsstyring til utgiverkontoer (separat tilgang til kodelager, versjonssignaturer, oppdateringsnotater, brukerinformasjon); identifiserbar kommunikasjonskanal, helst i publiseringsplattformen; ved avslag/suspensjon: varsle utgiver raskt ved oppdaget sikkerhetsbrudd (særlig hvis det kan føre til deaktivering eller varsling av brukere), transparent kommunikasjon, begrunnelse og klageadgang, generelle tilgangsvilkår med **utenrettslig tvisteløsning** (DMA art. 6 nr. 12).
 
@@ -858,5 +861,5 @@ App-butikkleverandør: den som utvikler og vedlikeholder en butikk (en app som i
 - Mindreårige er bare behandlet kort; kilden viser til CNILs eget arbeid (s. 31).
 - Eksemplene på roller er illustrative; kvalifiseringen skal skje konkret (s. 17).
 - Infografikken på s. 52 om samspill mellom CMP og tekniske tillatelser og figurene på s. 50–51 var ikke fullt lesbare i tekstuttrekket; innholdet er gjengitt ut fra omkringliggende tekst og figurtekster. Enkelte sjekkliste-ID-er var forskjøvet i uttrekket (merket «usikker»/«trolig» over).
-- **[Merknad – ikke fra kilden]** I Norge gjelder ePrivacy-regelen om lagring av og tilgang til informasjon i brukerens terminalutstyr i ekomloven § 3-15 (ny ekomlov 2024, i kraft 1.1.2025; tidligere § 2-7 b), med Nkom som tilsynsmyndighet. Norsk praksis har tradisjonelt akseptert samtykke via nettleserinnstillinger, men endringene i ny ekomlov skjerpet kravene i retning av GDPR-samtykke – kontroller gjeldende lovtekst og forarbeider før det trekkes konklusjoner om samtykkekrav for apper i Norge.
+- **[Merknad – ikke fra kilden]** I Norge gjelder ePrivacy-regelen om lagring av og tilgang til informasjon i brukerens terminalutstyr i ekomloven § 3-15 (ny ekomlov 2024, i kraft 1.1.2025; tidligere § 2-7 b), med Nkom som tilsynsmyndighet. Norsk praksis aksepterte tidligere samtykke via nettleserinnstillinger. Etter § 3-15 første ledd skal samtykket nå «oppfylle kravene til samtykke i personvernforordningen». Unntak gjelder blant annet for lagring eller tilgang som er «strengt nødvendig» for en tjeneste brukeren uttrykkelig har bedt om (annet ledd bokstav b). Lovteksten står i [K44](K44-ekomloven-3-15.md).
 - **[Merknad – ikke fra kilden]** DSA og DMA er EØS-relevante, men innlemmingen i EØS-avtalen og norsk gjennomføring bør kontrolleres før kildens henvisninger til DSA art. 26/28 og DMA brukes som rettslige krav i Norge.

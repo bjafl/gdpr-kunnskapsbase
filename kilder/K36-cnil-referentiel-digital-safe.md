@@ -150,7 +150,7 @@ Søkeren informerer brukerne på forhånd om:
 
 ## Kryssreferanser
 
-- GDPR **[Merknad – ikke fra kilden: koblingen er utledet; standarden bygger på direktiv 95/46 og fransk lov]**: art. 5 nr. 1 bokstav c og e (minimering, lagringsbegrensning – ES01, ES05); art. 9 (helseopplysninger – ES02); art. 13 (informasjon – ES08); art. 17 (sletting – ES05); art. 20 (dataportabilitet – ES07, standarden foregriper denne retten); art. 25 (innebygd personvern – ES16); art. 28 (operatør som databehandler for leverandør); art. 32 (sikkerhet – ES10–ES20); art. 33–34 (varsling – ES15 går lenger); art. 42 (sertifisering); art. 44 flg. og art. 48 (overføring, tredjelands myndighetstilgang – ES08).
+- GDPR **[Merknad – ikke fra kilden: koblingen er utledet; standarden bygger på direktiv 95/46 og fransk lov]**: art. 5 nr. 1 bokstav c og e (minimering, lagringsbegrensning – ES01, ES05); art. 9 (helseopplysninger – ES02); art. 13 (informasjon – ES08); art. 17 (sletting – ES05); art. 20 (dataportabilitet – ES07, standarden foregriper denne retten); art. 25 (innebygd personvern – ES16); art. 28 (operatør som databehandler for leverandør); art. 32 (sikkerhet – ES10–ES20); art. 33–34 (melding av brudd til tilsynsmyndigheten og underretning av de registrerte – ES15 går lenger); art. 42 (sertifisering); art. 44 flg. og art. 48 (overføring, tredjelands myndighetstilgang – ES08).
 - Andre kilder:
   - [K10](K10-dt-kryptering.md) – Datatilsynet om kryptering.
   - [K33](K33-cnil-sikkerhetsguide.md) – CNILs sikkerhetsguide (ark 21 kryptografi, ark 22 sky – «server-side encryption» gir ikke konfidensialitet overfor leverandøren).

@@ -35,29 +35,30 @@ Still disse spørsmålene (de som ikke kan besvares, noteres som «Uklart» i ra
 1. **Rolleavklaring** – avgjør om det faktisk er et databehandleroppdrag, og for hvilke behandlinger.
    - Bruk vurderingsmomentene: hvem bestemmer formål og vesentlige midler, hva går oppdraget ut på, har leverandøren egne forpliktelser, bruker den data til egne formål [K01 s. 4–6] → [T01](../temaer/T01-roller-behandlingsansvarlig-databehandler.md).
    - Bryt relasjonen ned per behandling: databehandling for kunden / felles behandlingsansvar / leverandørens egne formål (særlig ved SDK, analyse, reklame, telemetri, KI) [K39 s. 17–22].
-   - Utfall: (a) databehandler → fortsett; (b) selvstendig behandlingsansvarlig → DPA er feil verktøy; vurder grunnlag for utlevering [K01 s. 9] og gå til [A06](A06-vurdere-behandlingsgrunnlag.md); (c) felles ansvar → art. 26-ordning i tillegg; (d) blandet → DPA for databehandlingsdelen + regulering/forbud for resten.
+   - Definisjoner: [art. 4 nr. 7 og 8](../kilder/K43-gdpr-kap01-alminnelige-bestemmelser.md#art-4); databehandler som selv fastsetter formål og midler, anses som behandlingsansvarlig ([art. 28 nr. 10](../kilder/K43-gdpr-kap04-behandlingsansvarlig-og-databehandler.md#art-28)).
+   - Utfall: (a) databehandler → fortsett; (b) selvstendig behandlingsansvarlig → DPA er feil verktøy; vurder grunnlag for utlevering [K01 s. 9] og gå til [A06](A06-vurdere-behandlingsgrunnlag.md); (c) felles ansvar → [art. 26](../kilder/K43-gdpr-kap04-behandlingsansvarlig-og-databehandler.md#art-26)-ordning i tillegg; (d) blandet → DPA for databehandlingsdelen + regulering/forbud for resten.
    - Dokumenter vurderingen (M01 rad 1.1).
 
-2. **Garantivurdering (art. 28 nr. 1)** – før avtaleteksten.
+2. **Garantivurdering ([art. 28 nr. 1](../kilder/K43-gdpr-kap04-behandlingsansvarlig-og-databehandler.md#art-28))** – før avtaleteksten.
    - Kompetanse, pålitelighet, ressurser; sertifisering og scope; sikkerhetsdokumentasjon; underleverandørkjeden [K05 s. 3; K33 ark 14].
    - Notér om leverandøren tar forbehold som innebærer mulig brudd på GDPR – da kan den ikke brukes uten tiltak [K14 s. 9–10].
 
-3. **Art. 28-krav – avtaleteksten punkt for punkt** (M01 del 2–4).
-   - Behandlingsbeskrivelse: tema, art, formål, varighet, registrerte, opplysningstyper – konkret og i samsvar med protokollen [K05 s. 4; K11].
+3. **Art. 28-krav – avtaleteksten punkt for punkt** (M01 del 2–4). Ordlyd: [art. 28 nr. 3](../kilder/K43-gdpr-kap04-behandlingsansvarlig-og-databehandler.md#art-28).
+   - Behandlingsbeskrivelse: gjenstand (tema), art, formål, varighet, registrerte, opplysningstyper – konkret og i samsvar med protokollen [K05 s. 4; K11].
    - Behandlingsansvarliges rettigheter: instrukser, bestemmelsesrett, oppsigelsesrett [K05 s. 4].
    - Bokstav a–h + varsel om ulovlig instruks [K05 s. 5–6]. Marker hvert punkt OK / Mangler / Uklart.
    - Se særlig etter: bruk til egne formål, ensidig endringsrett, vage lov-/myndighetsforbehold, «reasonable efforts» uten frister, revisjon begrenset til sertifikater, sletting uten frist [T07 «Vanlige feil»](../temaer/T07-databehandleravtale-art28.md).
 
-4. **Sikkerhet (art. 32)** – sikkerhetsvedlegget og dokumentasjonen.
+4. **Sikkerhet ([art. 32](../kilder/K43-gdpr-kap04-behandlingsansvarlig-og-databehandler.md#art-32))** – sikkerhetsvedlegget og dokumentasjonen.
    - Sammenlign med risikonivået og [M09](../maler/M09-sikkerhetstiltak-sjekkliste.md): kryptering i ro og transitt, nøkkelhåndtering, tilgangsstyring og autentisering, logging, backup, fjernvedlikehold, sårbarhetshåndtering, kontinuitet [K05 s. 5; K33 ark 14–16, 22; K10].
    - For apper/SDK: TLS, nøkkellager, MASVS L1, oppdateringsplikt [K39 s. 55–56].
    - Ved behov for full risikovurdering: [A03](A03-risikovurdering-informasjonssikkerhet.md), [T08](../temaer/T08-informasjonssikkerhet-art32.md).
 
-5. **Underdatabehandlere** (M01 rader 4.d1–4.d6).
-   - Hvilken modell (særlig/generell/forbud)? Fullstendig liste med tjeneste, **lagrings- og tilgangsland** og overføringsgrunnlag? Varslingsfrist og reell innsigelsesrett? Samme forpliktelser videreført? Fullt ansvar? Hele kjeden? [K05 s. 5; K01 s. 9; K30 kap. 34.3; K39 s. 53]
+5. **Underdatabehandlere** (lovens «annen databehandler», [art. 28 nr. 2 og 4](../kilder/K43-gdpr-kap04-behandlingsansvarlig-og-databehandler.md#art-28); M01 rader 4.d1–4.d6).
+   - Hvilken modell (særlig/generell/forbud)? Fullstendig liste med tjeneste, **lagrings- og tilgangsland** og overføringsgrunnlag? Varslingsfrist og reell mulighet til å motsette seg endringer (art. 28 nr. 2)? Samme forpliktelser videreført? Fullt ansvar? Hele kjeden? [K05 s. 5; K01 s. 9; K30 kap. 34.3; K39 s. 53]
    - Kontroller samsvar med mottakerinformasjonen i personvernerklæringen [K26].
 
-6. **Overføring til tredjeland** (M01 del 5).
+6. **Overføring til tredjeland** (M01 del 5; [art. 44–49](../kilder/K43-gdpr-kap05-overforing-av-personopplysninger-til-tredjestater.md#art-44)).
    - Kartlegg alle overføringer, også fjerntilgang/support, underdatabehandlere og videreoverføringer [K14 s. 7].
    - Identifiser grunnlag per mottaker (adekvans, SCC-modul, BCR, art. 49) [K14].
    - Ved SCC/BCR eller EØS-leverandør underlagt tredjelands lov: gjennomfør eller kontroller TIA og supplerende tiltak – følg **[A04 Overføring og TIA](A04-overforing-og-tia.md)** og **[T11](../temaer/T11-overforing-tredjeland-og-tia.md)**, med [M06 TIA-mal](../maler/M06-tia-mal.md).
@@ -67,7 +68,7 @@ Still disse spørsmålene (de som ikke kan besvares, noteres som «Uklart» i ra
    - Protokoll: databehandleren, overføringer og sikkerhet registrert [K11] → [M02](../maler/M02-protokoll-art30.md).
    - DPIA: kreves eller må oppdateres? [M05](../maler/M05-dpia-terskelvurdering.md), [A02](A02-gjennomfore-dpia.md).
    - Personvernerklæring: mottaker og ev. tredjeland oppført [K06 s. 2].
-   - Avvikshåndtering: leverandørens varslingsfrist passer inn i egen 72-timersrutine → [A05](A05-avvikshandtering.md).
+   - Avvikshåndtering: leverandørens varslingsfrist (lovkrav: «uten ugrunnet opphold», [art. 33 nr. 2](../kilder/K43-gdpr-kap04-behandlingsansvarlig-og-databehandler.md#art-33)) passer inn i egen 72-timersrutine → [A05](A05-avvikshandtering.md).
 
 8. **Klassifiser funn.**
    - **Kritisk** (må rettes før signering): feil rolle; ingen instruks; bruk til egne formål uten regulering; uregulert/ulovlig overføring; ingen sletting; revisjon utelukket; ingen brudd-varsling; manglende garantier.

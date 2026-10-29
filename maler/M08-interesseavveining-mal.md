@@ -7,7 +7,7 @@ kilder: [K02, K03, K06, K09, K13, K25, K26, K39]
 
 # M08 – Interesseavveining (art. 6 nr. 1 bokstav f) – trestegstest
 
-*Bruk: Én utfylt mal per behandlingsaktivitet og formål. Har behandlingen flere aktiviteter eller formål (f.eks. både motivasjon for brukeren og oppfølging fra veileder), lag separate vurderinger [K02 s. 10]. Malen bygger på Datatilsynets tre vilkår og spørsmålsliste [K02 s. 9–10]. Bakgrunn: [T02](../temaer/T02-behandlingsgrunnlag-og-samtykke.md); arbeidsflyt: [A06](../arbeidsflyter/A06-vurdere-behandlingsgrunnlag.md).*
+*Bruk: Én utfylt mal per behandlingsaktivitet og formål. Har behandlingen flere aktiviteter eller formål (f.eks. både motivasjon for brukeren og oppfølging fra veileder), lag separate vurderinger [K02 s. 10]. Malen bygger på Datatilsynets tre vilkår og spørsmålsliste [K02 s. 9–10]. Bakgrunn: [T02](../temaer/T02-behandlingsgrunnlag-og-samtykke.md); arbeidsflyt: [A06](../arbeidsflyter/A06-vurdere-behandlingsgrunnlag.md). Lovtekst: [art. 6 nr. 1 f](../kilder/K43-gdpr-kap02-prinsipper.md#art-6), [art. 21](../kilder/K43-gdpr-kap03-den-registrertes-rettigheter.md#art-21).*
 
 *Alle tre vilkår må være oppfylt. Konklusjonen skal dokumenteres for å kunne vise etterlevelse [K02 s. 9], og informasjon om avveiningen bør kunne gis den registrerte på forespørsel [K06 s. 2; K26 vedlegg].*
 

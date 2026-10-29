@@ -38,13 +38,13 @@ kilder: [K01, K02, K03, K06, K08, K09, K11, K14, K25, K26, K39]
    - Del opp i separate formål/behandlingsaktiviteter – grunnlag vurderes per formål og per opplysning [K02 s. 1, 10].
    - Bekreft at brukeren er behandlingsansvarlig [K01].
 
-2. **Nytt formål for eksisterende data? → forenlighetsvurdering** (art. 6 nr. 4).
+2. **Nytt formål for eksisterende data? → forenlighetsvurdering** ([art. 6 nr. 4](../kilder/K43-gdpr-kap02-prinsipper.md#art-6)).
    - Vurder: kobling mellom formålene; sammenheng og forholdet til den registrerte; opplysningenes art; konsekvenser; garantier (kryptering/pseudonymisering); rimelige forventninger [K03; K09 s. 2] → [T03](../temaer/T03-grunnprinsipper-art5.md) avsnitt 3.
    - Uforenlig → bare med samtykke eller lovhjemmel (art. 23 nr. 1) [K09 s. 2]. Arkiv/forskning/statistikk med art. 89-garantier er ikke uforenlig [K03].
    - Forenlig → identifiser grunnlag for det nye formålet [K09 s. 2] og planlegg informasjon før oppstart [K26 avsn. 45–48].
    - Var opprinnelig grunnlag samtykke: nytt formål krever nytt samtykke, med mindre et annet grunnlag passer bedre [K25 s. 12].
 
-3. **Gå gjennom grunnlagene i art. 6 nr. 1 i denne rekkefølgen** og stopp ved det som passer best (ett per formål) [K02 s. 1]:
+3. **Gå gjennom grunnlagene i [art. 6 nr. 1](../kilder/K43-gdpr-kap02-prinsipper.md#art-6) i denne rekkefølgen** og stopp ved det som passer best (ett per formål) [K02 s. 1]:
    - **c) Rettslig plikt:** Finnes en klar lovplikt uten valgfrihet? Angi hjemmel [K02 s. 6].
    - **e) Offentlig oppgave/myndighet:** Har virksomheten en lovbestemt oppgave? Angi hjemmel [K02 s. 8].
    - **b) Avtale:** Er behandlingen objektivt nødvendig for å levere det den registrerte har bedt om, eller for tiltak den registrerte har bedt om før avtale? Ikke «liten skrift», ikke virksomhetens egne ønsker (kredittsjekk), ikke avtalebrudd [K02 s. 5; K25 s. 8].
@@ -54,15 +54,15 @@ kilder: [K01, K02, K03, K06, K08, K09, K11, K14, K25, K26, K39]
    - **[Merknad – ikke fra kildene]** Rekkefølgen er en praktisk arbeidsrekkefølge, ikke et rettslig hierarki; grunnlagene er likestilte i art. 6.
 
 4. **Tilleggsvilkår.**
-   - **Særlige kategorier:** Finn unntak i art. 9 nr. 2 (uttrykkelig samtykke, arbeidsrett, vitale interesser, ideelle organisasjoner, åpenbart offentliggjort, rettskrav, viktige allmenne interesser, helse, folkehelse, forskning) eller popplyl. §§ 6, 7, 9; kontroller at lovhjemmel oppfyller forordningens krav. Avtale er ikke unntak [K02 s. 2; K25 s. 19].
-   - **Straffedommer:** offentlig kontroll, popplyl. § 11 eller annen lov med garantier [K02 s. 2].
-   - **Barn:** informasjonssamfunnstjeneste + samtykke → foreldresamtykke under 13 år i Norge, forholdsmessig verifisering; sjekk andre lands grenser [K02 s. 4; K25 s. 23–27].
-   - **Automatiserte avgjørelser (art. 22):** avtale, lov eller uttrykkelig samtykke + garantier [K08; K25 s. 18].
-   - **Lesing/skriving på terminalutstyr:** samtykke etter ePrivacy (ekomloven § 3-15) med mindre unntak, i tillegg til GDPR-grunnlag for etterfølgende behandling [K39 s. 11, 30] → [T15](../temaer/T15-apper-sdk-og-sporingsteknologi.md).
-   - **Fødselsnummer:** **[Merknad – ikke fra kildene]** kontroller popplyl. § 12 (saklig behov for sikker identifisering).
+   - **Særlige kategorier:** Finn unntak i [art. 9 nr. 2](../kilder/K43-gdpr-kap02-prinsipper.md#art-9) (uttrykkelig samtykke, arbeidsrett, vitale interesser, ideelle organisasjoner, åpenbart offentliggjort, rettskrav, viktige allmenne interesser, helse, folkehelse, forskning) eller popplyl. [§ 6](../kilder/K42-personopplysningsloven.md#p6), [§ 7](../kilder/K42-personopplysningsloven.md#p7), [§ 9](../kilder/K42-personopplysningsloven.md#p9); kontroller at lovhjemmel oppfyller forordningens krav. Avtale er ikke unntak [K02 s. 2; K25 s. 19].
+   - **Straffedommer:** offentlig kontroll, [popplyl. § 11](../kilder/K42-personopplysningsloven.md#p11) eller annen lov med garantier ([art. 10](../kilder/K43-gdpr-kap02-prinsipper.md#art-10)) [K02 s. 2].
+   - **Barn:** informasjonssamfunnstjeneste + samtykke → foreldresamtykke under 13 år i Norge ([art. 8](../kilder/K43-gdpr-kap02-prinsipper.md#art-8), [popplyl. § 5](../kilder/K42-personopplysningsloven.md#p5)), forholdsmessig verifisering; sjekk andre lands grenser [K02 s. 4; K25 s. 23–27].
+   - **Automatiserte avgjørelser ([art. 22](../kilder/K43-gdpr-kap03-den-registrertes-rettigheter.md#art-22)):** avtale, lov eller uttrykkelig samtykke + garantier [K08; K25 s. 18].
+   - **Lesing/skriving på terminalutstyr:** samtykke etter ePrivacy ([ekomloven § 3-15](../kilder/K44-ekomloven-3-15.md)) med mindre unntak, i tillegg til GDPR-grunnlag for etterfølgende behandling [K39 s. 11, 30] → [T15](../temaer/T15-apper-sdk-og-sporingsteknologi.md).
+   - **Fødselsnummer:** kontroller [popplyl. § 12](../kilder/K42-personopplysningsloven.md#p12) (saklig behov for sikker identifisering, og metoden er nødvendig for å oppnå det).
    - **Overføring ut av EØS:** eget overføringsgrunnlag i tillegg [K14 s. 12] → [T11](../temaer/T11-overforing-tredjeland-og-tia.md).
 
-5. **Ved samtykke – kvalitetssikre løsningen** [K02 s. 3–4; K25]:
+5. **Ved samtykke – kvalitetssikre løsningen** [K02 s. 3–4; K25] (lovtekst: [art. 4 nr. 11](../kilder/K43-gdpr-kap01-alminnelige-bestemmelser.md#art-4), [art. 7](../kilder/K43-gdpr-kap02-prinsipper.md#art-7)):
    - Frivillig: ingen maktubalanse, ikke betingelse for tjenesten, granulært per formål, ingen ulempe ved nei/tilbaketrekking.
    - Spesifikt og informert: behandlingsansvarlig(e), formål, datatyper, tilbaketrekkingsrett, ev. art. 22 og tredjelandsrisiko; atskilt fra vilkår; klart språk.
    - Aktiv handling før behandlingen starter; ingen forhåndsavkryssing/scrolling.
@@ -105,7 +105,7 @@ Et notat per behandling med:
 ## Når skal det eskaleres til jurist/personvernombud
 
 - Særlige kategorier eller straffedommer uten klart unntak; behov for å vurdere om en lovhjemmel er tilstrekkelig [K02 s. 2].
-- Forskning, arkiv og statistikk (popplyl. § 9-vurdering krever rådføring med personvernombud) [K02 s. 2].
+- Forskning, arkiv og statistikk ([popplyl. § 9](../kilder/K42-personopplysningsloven.md#p9) annet ledd krever rådføring med personvernombud med mindre det er gjort DPIA; jf. også [§ 10](../kilder/K42-personopplysningsloven.md#p10)) [K02 s. 2].
 - Offentlig sektor som vurderer samtykke eller berettiget interesse.
 - Arbeidsforhold (kontroll/overvåking av ansatte – også annen lovgivning, f.eks. arbeidsmiljøloven).
 - Barn som målgruppe, profilering, automatiserte avgjørelser.

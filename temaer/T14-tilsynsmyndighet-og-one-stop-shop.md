@@ -18,17 +18,17 @@ kilder: [K27, K01, K06, K26, K14, K39, K13, K24]
 7. **Offentlige myndigheter behandles alltid lokalt** – ingen one-stop-shop [K27 s. 10].
 8. **En representant (art. 27) utløser ikke one-stop-shop** – virksomheter uten etablering i EØS må forholde seg til tilsynet i hvert land [K27 s. 10].
 9. **Felles behandlingsansvarlige:** WP244 åpnet for å utpeke felles hovedvirksomhet, men EDPB Guidelines 8/2022 har ifølge kildenotatet gått bort fra dette – vurder hovedvirksomhet for hver behandlingsansvarlig for seg [K27 s. 7–8 og aktualitet].
-10. **Datatilsynet forhåndsgodkjenner ikke** virksomhetenes vurderinger (f.eks. TIA); ansvarligheten ligger hos virksomheten [K14 s. 8]. Unntak: forhåndsdrøfting etter art. 36 når DPIA viser høy restrisiko.
+10. **Datatilsynet forhåndsgodkjenner ikke** virksomhetenes vurderinger (f.eks. TIA); ansvarligheten ligger hos virksomheten [K14 s. 8]. Forhåndsdrøfting etter art. 36 når DPIA viser høy restrisiko er heller ingen godkjenning; tilsynsmyndigheten gir skriftlige råd dersom den mener behandlingen vil være i strid med forordningen (art. 36 nr. 2).
 
 ## Rettslig grunnlag
 
-- **GDPR art. 4 nr. 16** (hovedvirksomhet), **nr. 22** (berørt tilsynsmyndighet), **nr. 23** (grenseoverskridende behandling) [K27].
-- **Art. 55–56** (kompetanse og ledende tilsynsmyndighet), **art. 60** (samarbeid), **art. 61** (gjensidig bistand), **art. 62** (felles operasjoner), **art. 63–65** (konsistensmekanisme, tvisteløsning i EDPB – art. 65 nr. 1 b ved uenighet om LSA) [K27 s. 8–10].
-- **Art. 3 nr. 2 og art. 27** (virksomheter utenfor EØS, representant) [K27 s. 9–10].
-- **Art. 26 og art. 82 nr. 4** (felles ansvarlige, solidarisk ansvar) [K27 s. 7–8].
-- **Fortalepunkt** 36, 79, 127, 135 [K27].
-- **[Merknad – ikke fra kildene]** Øvrige sentrale bestemmelser: art. 51–54 (uavhengige tilsynsmyndigheter), art. 57 (oppgaver), art. 58 (undersøkelses-, korrigerings- og rådgivningsmyndighet), art. 66 (hasteprosedyre), art. 77 (klage til tilsynsmyndighet), art. 78 (rettsmidler mot tilsynsmyndighet), art. 79 (rettsmidler mot behandlingsansvarlig/databehandler), art. 80 (representasjon av registrerte), art. 82 (erstatning), art. 83 (overtredelsesgebyr), art. 84 (andre sanksjoner).
-- **[Merknad – ikke fra kildene]** **Norsk rett:** Personopplysningsloven utpeker Datatilsynet som tilsynsmyndighet og Personvernnemnda som klageinstans for Datatilsynets vedtak. Kontroller paragrafhenvisninger i loven (kapittelet om tilsyn) før sitering.
+- **GDPR [art. 4](../kilder/K43-gdpr-kap01-alminnelige-bestemmelser.md#art-4) nr. 16** (hovedvirksomhet), **nr. 22** (berørt tilsynsmyndighet), **nr. 23** (grenseoverskridende behandling) [K27].
+- **[Art. 55](../kilder/K43-gdpr-kap06-uavhengige-tilsynsmyndigheter.md#art-55)–[56](../kilder/K43-gdpr-kap06-uavhengige-tilsynsmyndigheter.md#art-56)** (kompetanse og ledende tilsynsmyndighet), **[art. 60](../kilder/K43-gdpr-kap07-samarbeid-og-ensartet-anvendelse.md#art-60)** (samarbeid), **art. 61** (gjensidig bistand), **art. 62** (felles operasjoner), **[art. 63](../kilder/K43-gdpr-kap07-samarbeid-og-ensartet-anvendelse.md#art-63)–[65](../kilder/K43-gdpr-kap07-samarbeid-og-ensartet-anvendelse.md#art-65)** (konsistensmekanisme, tvisteløsning i EDPB – art. 65 nr. 1 b ved uenighet om LSA) [K27 s. 8–10].
+- **[Art. 3](../kilder/K43-gdpr-kap01-alminnelige-bestemmelser.md#art-3) nr. 2 og [art. 27](../kilder/K43-gdpr-kap04-behandlingsansvarlig-og-databehandler.md#art-27)** (virksomheter utenfor EØS, representant) [K27 s. 9–10].
+- **[Art. 26](../kilder/K43-gdpr-kap04-behandlingsansvarlig-og-databehandler.md#art-26) og [art. 82](../kilder/K43-gdpr-kap08-rettsmidler-ansvar-og-sanksjoner.md#art-82) nr. 4** (felles ansvarlige, solidarisk ansvar) [K27 s. 7–8].
+- **Fortalepunkt** [36](../kilder/K43-gdpr-fortale.md#fp-36), 79, [127](../kilder/K43-gdpr-fortale.md#fp-127), 135 [K27].
+- **[Merknad – ikke fra kildene]** Øvrige sentrale bestemmelser: art. 51–54 (uavhengige tilsynsmyndigheter), art. 57 (oppgaver), [art. 58](../kilder/K43-gdpr-kap06-uavhengige-tilsynsmyndigheter.md#art-58) (undersøkelses-, korrigerings- og rådgivningsmyndighet), art. 66 (hasteprosedyre), [art. 77](../kilder/K43-gdpr-kap08-rettsmidler-ansvar-og-sanksjoner.md#art-77) (klage til tilsynsmyndighet), art. 78 (rettsmidler mot tilsynsmyndighet), art. 79 (rettsmidler mot behandlingsansvarlig/databehandler), art. 80 (representasjon av registrerte), art. 82 (erstatning), art. 83 (overtredelsesgebyr), art. 84 (andre sanksjoner).
+- **[Merknad – ikke fra kildene]** **Norsk rett:** Personopplysningsloven utpeker Datatilsynet som tilsynsmyndighet ([popplyl. § 20](../kilder/K42-personopplysningsloven.md#p20)) og Personvernnemnda som klageinstans for Datatilsynets vedtak ([popplyl. § 22](../kilder/K42-personopplysningsloven.md#p22)). Datatilsynets vedtak etter art. 56 og kap. VII kan likevel ikke påklages til Personvernnemnda (§ 22 annet ledd).
 
 ## Utdyping
 
@@ -43,7 +43,7 @@ Fra kildene:
 - Forhåndsdrøfting (art. 36) skal rettes til riktig tilsynsmyndighet [K24; K27 s. 5–6] – se [T10](T10-dpia-art35-36.md).
 - Avviksmelding (art. 33) sendes tilsynsmyndigheten innen 72 timer – se [T12](T12-avvik-og-brudd-art33-34.md).
 
-**[Merknad – ikke fra kildene]** Tilsynsmyndighetens korrigerende myndighet etter art. 58 nr. 2 omfatter bl.a. advarsel, irettesettelse, pålegg om å etterkomme rettighetsforespørsler, pålegg om å bringe behandlingen i samsvar med forordningen, pålegg om å varsle registrerte om brudd, midlertidig eller endelig begrensning/forbud, pålegg om retting/sletting, tilbaketrekking av sertifisering, overtredelsesgebyr og stans av dataflyt til tredjeland. Gebyrrammene i art. 83 er inntil 10 mill. euro / 2 % av global årsomsetning (bl.a. art. 8, 11, 25–39) og inntil 20 mill. euro / 4 % (bl.a. art. 5, 6, 7, 9, 12–22, 44–49). Verifiser mot lovteksten før bruk.
+**[Merknad – ikke fra kildene]** Tilsynsmyndighetens korrigerende myndighet etter art. 58 nr. 2 omfatter bl.a. advarsel, irettesettelse, pålegg om å etterkomme rettighetsforespørsler, pålegg om å bringe behandlingen i samsvar med forordningen, pålegg om å underrette registrerte om brudd, midlertidig eller endelig begrensning/forbud, pålegg om retting/sletting, tilbaketrekking av sertifisering, overtredelsesgebyr og stans av dataflyt til tredjeland. Gebyrrammene i art. 83 er inntil 10 mill. euro / 2 % av global årsomsetning (bl.a. art. 8, 11, 25–39) og inntil 20 mill. euro / 4 % (bl.a. art. 5, 6, 7, 9, 12–22, 44–49), i begge tilfeller det høyeste beløpet (jf. [art. 83](../kilder/K43-gdpr-kap08-rettsmidler-ansvar-og-sanksjoner.md#art-83) nr. 4–6).
 
 ### 2. Er behandlingen grenseoverskridende?
 
@@ -122,7 +122,7 @@ Fra kildene:
 
 ### 9. ePrivacy-tilsyn
 
-**[Merknad – ikke fra kildene, basert på merknad i K39]** Regelen om lagring av og tilgang til informasjon i brukerens terminalutstyr (informasjonskapsler, SDK-er) er i Norge gjennomført i ekomloven § 3-15 med **Nkom** som tilsynsmyndighet, mens Datatilsynet fører tilsyn med den etterfølgende behandlingen av personopplysninger. One-stop-shop gjelder ikke for ePrivacy-reglene. Kontroller gjeldende lovtekst [K39 s. 10–11 med merknad]. Se [T15](T15-apper-sdk-og-sporingsteknologi.md).
+**[Merknad – ikke fra kildene, basert på merknad i K39]** Regelen om lagring av og tilgang til informasjon i brukerens terminalutstyr (informasjonskapsler, SDK-er) er i Norge gjennomført i ekomloven § 3-15 med **Nkom** som tilsynsmyndighet, mens Datatilsynet fører tilsyn med den etterfølgende behandlingen av personopplysninger. One-stop-shop gjelder ikke for ePrivacy-reglene. Lovtekst: [K44](../kilder/K44-ekomloven-3-15.md) [K39 s. 10–11 med merknad]. Se [T15](T15-apper-sdk-og-sporingsteknologi.md).
 
 ## Vanlige feil og fallgruver
 

@@ -7,7 +7,7 @@ kilder: [K20, K12, K24, K22, K40]
 
 # Mal: DPIA-terskelvurdering (screening)
 
-> **Formål.** Avgjøre og dokumentere om en planlagt eller endret behandling krever vurdering av personvernkonsekvenser (DPIA) etter art. 35. Skjemaet skal fylles ut for alle nye eller vesentlig endrede behandlinger – også når konklusjonen er at DPIA ikke kreves [K24 s. 12; K12 s. 9]. Kursiv tekst er veiledning. Fagstoff: [T10](../temaer/T10-dpia-art35-36.md). Neste steg ved «ja»: [M04](M04-dpia-mal.md) og [A02](../arbeidsflyter/A02-gjennomfore-dpia.md).
+> **Formål.** Avgjøre og dokumentere om en planlagt eller endret behandling krever vurdering av personvernkonsekvenser (DPIA) etter [art. 35](../kilder/K43-gdpr-kap04-behandlingsansvarlig-og-databehandler.md#art-35). Skjemaet skal fylles ut for alle nye eller vesentlig endrede behandlinger – også når konklusjonen er at DPIA ikke kreves [K24 s. 12; K12 s. 9]. Kursiv tekst er veiledning. Fagstoff: [T10](../temaer/T10-dpia-art35-36.md). Neste steg ved «ja»: [M04](M04-dpia-mal.md) og [A02](../arbeidsflyter/A02-gjennomfore-dpia.md).
 
 ---
 
@@ -44,7 +44,7 @@ kilder: [K20, K12, K24, K22, K40]
 | c) Art. 35 nr. 10: grunnlag i art. 6 nr. 1 c/e, spesifikt rettsgrunnlag som regulerer behandlingen, og DPIA gjort i lovarbeidet | ☐ | *Snevert unntak; DPIA fra lovarbeidet bør gjennomgås før oppstart [K12 s. 2; K24 s. 13 fn. 21; K40 § 3.1].* |
 | d) Behandlingen står på en offentlig liste over behandlinger som ikke krever DPIA (art. 35 nr. 5) og faller strengt innenfor | ☐ | *[K24 s. 13]. **[Merknad – ikke fra kildene]** Kildegrunnlaget inneholder ingen norsk liste etter art. 35 nr. 5 – verifiser på datatilsynet.no.* |
 
-*Hvis et unntak gjelder: gå til del 7 og dokumenter. Unntak a og b gjelder ikke hvis behandlingen er endret slik at risikoen er endret.*
+*Hvis et unntak gjelder: gå til del 9 og dokumenter. Unntak a og b gjelder ikke hvis behandlingen er endret slik at risikoen er endret.*
 
 ## 4. Art. 35 nr. 3 – forordningens egne tilfeller
 

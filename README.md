@@ -2,7 +2,7 @@
 
 Kunnskapsbase for en AI-agent som skal slå opp i personvernregelverket og bistå med **databehandleravtaler (DPA)**, **vurderinger av personvernkonsekvenser (DPIA)**, **risikovurderinger**, **overføringsvurderinger (TIA)**, **protokoll** og **avvikshåndtering**.
 
-Basen er bygget fra 43 dokumenter i `../ressurser/` fra Datatilsynet, Digdir, DFØ, NSM, Artikkel 29-gruppen/EDPB, CNIL og ULD Schleswig-Holstein. Alt er skrevet på norsk bokmål.
+Basen er bygget fra 43 dokumenter i `../ressurser/` fra Datatilsynet, Digdir, DFØ, NSM, Artikkel 29-gruppen/EDPB, CNIL og ULD Schleswig-Holstein, pluss ordrett lovtekst av personopplysningsloven og GDPR fra Lovdata ([K42](kilder/K42-personopplysningsloven.md), [K43](kilder/K43-gdpr.md)) og ekomloven § 3-15 om informasjonskapsler ([K44](kilder/K44-ekomloven-3-15.md)). Alt er skrevet på norsk bokmål.
 
 ---
 
@@ -12,14 +12,17 @@ Basen er bygget fra 43 dokumenter i `../ressurser/` fra Datatilsynet, Digdir, DF
 2. **Les temanotatet.** Det gir kjernereglene og peker til kildene.
 3. **Gå til kildenotatet (K)** når svaret må være presist: ordrette kriterier, tabeller, sidetall eller sitater.
 4. **Bruk malen (M)** når noe skal produseres, for eksempel en DPIA, en DPA-gjennomgang eller en risikovurdering.
-5. **Slå opp på artikkel** i [INDEKS-artikler.md](INDEKS-artikler.md) når spørsmålet gjelder en bestemt GDPR-artikkel.
-6. **Sjekk [KJENTE-MOTSTRIDER.md](KJENTE-MOTSTRIDER.md)** når kildene kan spriker, for eksempel om skalaer, frister, aldersgrenser eller utdaterte retningslinjer.
+5. **Slå opp på artikkel** i [INDEKS-artikler.md](INDEKS-artikler.md) når spørsmålet gjelder en bestemt GDPR-artikkel. **Ordlyden** i artikkelen, fortalepunktet eller paragrafen finner du i [K43](kilder/K43-gdpr.md) (GDPR) og [K42](kilder/K42-personopplysningsloven.md) (personopplysningsloven).
+6. **Kontroller mot lovteksten** når svaret bygger på hva loven sier: vilkår, frister, terskler, unntak eller definisjoner. Les ordlyden i K43 eller K42 før du svarer, og siter eller henvis til artikkel, nr. og bokstav.
+7. **Slå opp begreper** i [BEGREPSBANK.md](BEGREPSBANK.md): norsk lovbegrep, offisielt engelsk begrep (nyttig ved engelskspråklige kilder som EDPB/WP29 og CNIL), hjemmel og praksisbegreper.
+8. **Sjekk [KJENTE-MOTSTRIDER.md](KJENTE-MOTSTRIDER.md)** når kildene kan spriker, for eksempel om skalaer, frister, aldersgrenser eller utdaterte retningslinjer.
 
 Med Grep finner du raskt fram i hele basen: `grep -ril "underdatabehandler" gdpr-kunnskapsbase/`.
 
 ### Regler for svar
 
 - **Henvis alltid til kilde**, for eksempel «[K05 s. 4]» eller «[T07]». Brukeren skal kunne etterprøve svaret.
+- **Lovteksten er fasit.** [K43](kilder/K43-gdpr.md) (GDPR) og [K42](kilder/K42-personopplysningsloven.md) (personopplysningsloven) er ordrett lovtekst fra Lovdata. Avviker et notat, en veileder eller en mal fra lovteksten, gjelder lovteksten. Si fra om avviket i svaret. Bruk lovens begreper (for eksempel «brudd på personopplysningssikkerheten», «overtredelsesgebyr», «beslutning om tilstrekkelig beskyttelsesnivå») og forklar praksisbegrepene ved behov.
 - **Kildehierarki** når kildene er uenige: GDPR og lov går foran EDPB/WP29, deretter Datatilsynet (norsk praksis), andre tilsyn (CNIL, ULD) og til sist metodeverk (Digdir, NSM, SDM). Hvis en eldre kilde er erstattet, si det.
 - **Skill kilde fra egen kunnskap.** Tekst merket **[Merknad – ikke fra kilden/kildene]** er tilført av den som skrev notatet og er ikke hentet fra dokumentene. Behandle det som mindre sikkert.
 - **Aktualitet:** Kildene er fra 2011 til 2026. Status for adekvansbeslutninger (blant annet EU–US Data Privacy Framework), EDPB-retningslinjer og norsk lov kan ha endret seg. Si fra og anbefal verifisering når svaret avhenger av ferske forhold.
@@ -49,6 +52,7 @@ Med Grep finner du raskt fram i hele basen: `grep -ril "underdatabehandler" gdpr
 | **Apper, SDK-er**, sporing, cookies | [T15](temaer/T15-apper-sdk-og-sporingsteknologi.md) | – | [K39](kilder/K39-cnil-mobilapper.md), [K31](kilder/K31-cnil-pia-tilkoblede-objekter.md) |
 | **Hvilket tilsyn** har ansvaret (grenseoverskridende behandling)? | [T14](temaer/T14-tilsynsmyndighet-og-one-stop-shop.md) | – | [K27](kilder/K27-wp244-ledende-tilsynsmyndighet.md) |
 | **Revisjon** / internkontroll av personvern | [T08](temaer/T08-informasjonssikkerhet-art32.md) | [M09](maler/M09-sikkerhetstiltak-sjekkliste.md) | [K35](kilder/K35-cnil-referentiel-audit.md), [K16](kilder/K16-dfo-veileder-informasjonssikkerhet.md), [K18](kilder/K18-digdir-retningslinje-risiko.md) |
+| **Hva står det i** art. X / fortalepunkt Y / popplyl. § Z? (ordlyd, definisjoner) | [K43](kilder/K43-gdpr.md) (tabell: artikkel → fil) | – | [K43 fortale](kilder/K43-gdpr-fortale.md), [K42](kilder/K42-personopplysningsloven.md), art. 4 definisjoner i [K43 kap. I](kilder/K43-gdpr-kap01-alminnelige-bestemmelser.md#art-4) |
 
 ---
 
@@ -144,6 +148,9 @@ Med Grep finner du raskt fram i hele basen: `grep -ril "underdatabehandler" gdpr
 | [K39](kilder/K39-cnil-mobilapper.md) | Anbefaling om mobilapper (2025) | CNIL | middels |
 | [K40](kilder/K40-dpia-prosess-uld.md) | A Process for DPIA under GDPR (2016) | ULD/Fraunhofer | middels |
 | [K41](kilder/K41-dcat-ap-no.md) | DCAT-AP-NO: beskrivelse av datasett | Digdir | lav |
+| [K42](kilder/K42-personopplysningsloven.md) | Personopplysningsloven, ordrett lovtekst (§ 1–34) | Lovdata | høy |
+| [K43](kilder/K43-gdpr.md) | GDPR, ordrett norsk lovtekst: fortale + ett notat per kapittel (oversikt i K43-gdpr.md) | Lovdata | høy |
+| [K44](kilder/K44-ekomloven-3-15.md) | Ekomloven § 3-15 (informasjonskapsler), ordrett lovtekst | Lovdata | høy |
 
 Formatet for hver filtype står i [_KONVENSJONER.md](_KONVENSJONER.md).
 
@@ -151,6 +158,9 @@ Formatet for hver filtype står i [_KONVENSJONER.md](_KONVENSJONER.md).
 
 ## Vedlikehold
 
-- **Ny kilde:** Legg filen i `ressurser/` og skriv et kildenotat `kilder/K42-….md` etter formatet i `_KONVENSJONER.md`. Oppdater deretter berørte temanotater og tabellen over.
+- **Ny kilde:** Legg filen i `ressurser/` og skriv et kildenotat `kilder/K45-….md` etter formatet i `_KONVENSJONER.md`. Oppdater deretter berørte temanotater og tabellen over.
 - **Artikkelindeksen** genereres på nytt fra frontmatter (`gdpr_artikler`). Skriptet ligger i [_verktoy/build_index.py](_verktoy/build_index.py): `python _verktoy/build_index.py .`
+- **Begrepsbanken** genereres og verifiseres mot norsk og offisiell engelsk lovtekst: `python3 -I _verktoy/begrepsbank/build_begrepsbank.py`. Nye begreper legger du inn i `_verktoy/begrepsbank/begreper.py`. Skriptet stopper hvis et begrep ikke står i den angitte hjemmelen. Kjør det på nytt etter oppdatering av K42/K43.
+- **Lovteksten (K42/K43)** skal ikke redigeres for hånd. Slik oppdaterer du den fra Lovdata:
+  `curl -sL -A "Mozilla/5.0" -o /tmp/popplyl.html 'https://lovdata.no/dokument/NL/lov/2018-06-15-38/*'` (stjernen på slutten gir hele teksten), deretter `python3 -I _verktoy/lovdata/build_kilder.py /tmp/popplyl.html kilder` og til slutt `python _verktoy/build_index.py .`. Skriptet stopper med feil hvis kildeteksten i Markdown ikke er tegnlik med HTML-en. Oppdater datoen i KJENTE-MOTSTRIDER.md. Ekomloven § 3-15 (K44): hent `https://lovdata.no/dokument/NL/lov/2024-12-13-76/*` på samme måte og kjør `python3 -I _verktoy/lovdata/build_ekom.py <html> kilder`.
 - **Datatilsynet-PDF-ene** i `ressurser/Datatilsynet/` har ødelagt tekstlag (Type 3-fonter). De er derfor lest visuelt. Bruk nettadressen i frontmatter til kildenotatet hvis noe må kontrolleres.

@@ -7,7 +7,7 @@ kilder: [K12, K21, K24, K28, K29, K30, K31, K37, K40, K13, K14, K38]
 
 # Mal: Vurdering av personvernkonsekvenser (DPIA)
 
-> **Bruk av malen.** Malen oppfyller minimumsinnholdet i GDPR art. 35 nr. 7 (bokstav a–d) og kriteriene for en akseptabel DPIA i WP248 Annex 2 [K24 s. 22]. Strukturen følger Datatilsynets fire faser (beskrivelse – nødvendighet og proporsjonalitet – risiko og tiltak – ledelsens validering) [K21; K12 s. 10], med tabeller og skalaer fra CNILs PIA-maler [K29; K30; K31]. Kursiv tekst er veiledning og kan slettes. Alle felt skal fylles ut eller merkes «Ikke relevant – begrunnelse: …» – tomme felt er ikke akseptable [K29 s. 2]. Kontroller at terskelvurderingen ([M05](M05-dpia-terskelvurdering.md)) er gjort, og at lovligheten (art. 5, 6, 9) er avklart – en DPIA reparerer ikke en ulovlig behandling [K12 s. 1]. Prosess: se [A02](../arbeidsflyter/A02-gjennomfore-dpia.md). Fagstoff: [T10](../temaer/T10-dpia-art35-36.md).
+> **Bruk av malen.** Malen oppfyller minimumsinnholdet i GDPR [art. 35 nr. 7](../kilder/K43-gdpr-kap04-behandlingsansvarlig-og-databehandler.md#art-35) (bokstav a–d) og kriteriene for en akseptabel DPIA i WP248 Annex 2 [K24 s. 22]. Strukturen følger Datatilsynets fire faser (beskrivelse – nødvendighet og proporsjonalitet – risiko og tiltak – ledelsens validering) [K21; K12 s. 10], med tabeller og skalaer fra CNILs PIA-maler [K29; K30; K31]. Kursiv tekst er veiledning og kan slettes. Alle felt skal fylles ut eller merkes «Ikke relevant – begrunnelse: …» – tomme felt er ikke akseptable [K29 s. 2]. Kontroller at terskelvurderingen ([M05](M05-dpia-terskelvurdering.md)) er gjort, og at lovligheten (art. 5, 6, 9) er avklart – en DPIA reparerer ikke en ulovlig behandling [K12 s. 1]. Prosess: se [A02](../arbeidsflyter/A02-gjennomfore-dpia.md). Fagstoff: [T10](../temaer/T10-dpia-art35-36.md).
 
 ---
 
@@ -227,13 +227,13 @@ kilder: [K12, K21, K24, K28, K29, K30, K31, K37, K40, K13, K14, K38]
 | Rettighet | Hvordan ivaretas den? (løsning, rutine, frist) | Unntak som påberopes – hjemmel og begrunnelse | Vurdering |
 |---|---|---|---|
 | Informasjon (art. 12–14) – innhold, språk, lagdeling, tidspunkt | | | |
-| Samtykke (art. 7–8) – frivillig, uttrykkelig, spesifikt, dokumentert, like lett å trekke, ikke sammenblandet med avtale/erklæring; barn | | | |
+| Samtykke (art. 4 nr. 11, art. 7–8) – frivillig, spesifikt, informert, utvetydig (uttrykkelig ved art. 9 nr. 2 a), dokumentert, like lett å trekke, ikke sammenblandet med avtale/erklæring; barn | | | |
 | Innsyn (art. 15) | | | |
 | Dataportabilitet (art. 20) | | | |
 | Retting (art. 16) | | | |
 | Sletting (art. 17) | | | |
 | Begrensning (art. 18) og underretning (art. 19) | | | |
-| Innsigelse (art. 21) | | | |
+| Rett til å protestere (art. 21) | | | |
 | Automatiserte avgjørelser/profilering (art. 22) – menneskelig inngripen | | | |
 
 *[K21 s. 7; K29 s. 7–11; K24 Annex 2]. Se [T04](../temaer/T04-apenhet-og-informasjonsplikt.md), [T05](../temaer/T05-de-registrertes-rettigheter.md).*
@@ -263,7 +263,7 @@ kilder: [K12, K21, K24, K28, K29, K30, K31, K37, K40, K13, K14, K38]
 | Samtykke | | |
 | Innsyn og portabilitet | | |
 | Retting og sletting | | |
-| Begrensning og innsigelse | | |
+| Begrensning og protest | | |
 | Databehandlere: identifisert og regulert | | |
 | Overføringer: kap. V oppfylt | | |
 
@@ -488,9 +488,9 @@ kilder: [K12, K21, K24, K28, K29, K30, K31, K37, K40, K13, K14, K38]
 | PVOs råd og de registrertes syn (del 6) | |
 | Avveininger som er gjort | |
 
-*Ledelsen må forstå vurderingen, risikoene og tiltakene, og kjenne konsekvensene av manglende eller feil DPIA (gebyr opptil 10 mill. euro / 2 %) [K21 s. 10].*
+*Ledelsen må forstå vurderingen, risikoene og tiltakene, og kjenne konsekvensene av manglende eller feil DPIA (overtredelsesgebyr opptil 10 mill. euro / 2 %, [art. 83 nr. 4](../kilder/K43-gdpr-kap08-rettsmidler-ansvar-og-sanksjoner.md#art-83)) [K21 s. 10].*
 
-### 7.2 Vurdering av forhåndsdrøfting (art. 36)
+### 7.2 Vurdering av forhåndsdrøfting ([art. 36](../kilder/K43-gdpr-kap04-behandlingsansvarlig-og-databehandler.md#art-36))
 
 | Spørsmål | Svar |
 |---|---|
@@ -498,7 +498,7 @@ kilder: [K12, K21, K24, K28, K29, K30, K31, K37, K40, K13, K14, K38]
 | Kan de registrerte få betydelige eller irreversible konsekvenser de ikke kan overvinne, og/eller er det åpenbart at risikoen vil inntreffe? | *[K24 s. 19]* |
 | Har DPIA-en vært behandlet i ledelsen mer enn én gang uten at risikoen er redusert, og er viljen til å gjennomføre fortsatt stor? | *[K21 s. 10]* |
 | Krever nasjonal rett forhåndsdrøfting/forhåndstillatelse (art. 36 nr. 5)? | |
-| Konklusjon | ☐ Forhåndsdrøfting ikke nødvendig ☐ Forhåndsdrøfting nødvendig – behandlingen starter ikke før Datatilsynet har uttalt seg |
+| Konklusjon | ☐ Forhåndsdrøfting ikke nødvendig ☐ Forhåndsdrøfting nødvendig – anmodning sendes før oppstart ([art. 36 nr. 1](../kilder/K43-gdpr-kap04-behandlingsansvarlig-og-databehandler.md#art-36)). ***[Merknad – ikke fra kildene]*** Anbefalt: ikke start før Datatilsynet har svart eller fristen i art. 36 nr. 2 er ute (åtte uker, kan forlenges med seks). Tilsynet kan gripe inn også etter fristen ([fortalepunkt 94](../kilder/K43-gdpr-fortale.md#fp-94)) |
 
 *Ved forhåndsdrøfting sendes: kontaktinfo (kontaktperson, PVO, databehandler); systematisk beskrivelse med fokus på det som gir høy risiko; nødvendighet og proporsjonalitet; risikovurdering med gjennomførte og vurderte-men-ikke-gjennomførte tiltak og begrunnelse; dokumentasjon av ledelsens validering; ev. ledelsens beslutning om å be om forhåndsdrøfting [K12 s. 11]. Hele DPIA-en skal legges frem (art. 36 nr. 3 e) [K24 s. 18]. Se [A02](../arbeidsflyter/A02-gjennomfore-dpia.md) steg 12.*
 
@@ -553,7 +553,7 @@ kilder: [K12, K21, K24, K28, K29, K30, K31, K37, K40, K13, K14, K38]
 | Informasjon (art. 12–14) | 2.6 | ☐ |
 | Innsyn og portabilitet (art. 15, 20) | 2.6 | ☐ |
 | Retting og sletting (art. 16, 17, 19) | 2.6 | ☐ |
-| Innsigelse og begrensning (art. 18, 19, 21) | 2.6 | ☐ |
+| Protest og begrensning (art. 18, 19, 21) | 2.6 | ☐ |
 | Forhold til databehandlere (art. 28) | 1.6, 2.8 | ☐ |
 | Garantier ved internasjonale overføringer (kap. V) | 1.7, 2.8 | ☐ |
 | Forhåndsdrøfting (art. 36) | 7.2 | ☐ |

@@ -14,7 +14,7 @@ kilder: [K05, K01, K14, K39, K33, K30, K24, K13, K10, K07, K11, K25]
 3. **Avtalen skal være skriftlig og bindende** (kan være elektronisk), frittstående eller del av annet avtaleverk [K01 s. 9; K05 s. 2].
 4. **Avtalen må beskrive behandlingen:** tema, art, formål, varighet, typer personopplysninger og kategorier registrerte (art. 28 nr. 3 første ledd) [K05 s. 4].
 5. **Avtalen må inneholde databehandlerens forpliktelser etter art. 28 nr. 3 bokstav a–h** og varslingsplikten ved ulovlig instruks [K05 s. 5–6].
-6. **Underdatabehandlere:** forhåndsgodkjenning (særlig eller generell), varsling med innsigelsesrett, samme forpliktelser videreført, fullt ansvar for hoveddatabehandleren [K05 s. 5; K01 s. 9].
+6. **Underdatabehandlere:** forhåndsgodkjenning (særlig eller generell), varsling med rett til å motsette seg endringer (art. 28 nr. 2), samme forpliktelser videreført, fullt ansvar for hoveddatabehandleren [K05 s. 5; K01 s. 9].
 7. **Jo mer omfangsrik, inngripende eller risikofylt behandlingen er, desto mer konkret må avtalen være** – da bør Datatilsynets anbefalinger (sikkerhetsvedlegg, bistandsfrister, tilsynsprosedyre) bli avtalekrav [K05 s. 1].
 8. **Standardavtaler** (dansk standard-DPA vurdert av EDPB; EU-kommisjonens standardavtale for art. 28) kan brukes, men vedleggene må fylles ut [K05 s. 4].
 9. **Overføring ut av EØS** må være regulert i instruksen og ha gyldig overføringsgrunnlag; vage forbehold om utlevering/overføring er et rødt flagg [K14 s. 9–10]. Se [T11](T11-overforing-tredjeland-og-tia.md).
@@ -22,11 +22,11 @@ kilder: [K05, K01, K14, K39, K33, K30, K24, K13, K10, K07, K11, K25]
 
 ## Rettslig grunnlag
 
-- **GDPR art. 28 nr. 1** (garantier), **nr. 2** (underdatabehandlere – godkjenning), **nr. 3** (avtaleinnhold, bokstav a–h + siste ledd), **nr. 4** (underdatabehandleravtaler og ansvar), **nr. 5** (atferdsnormer/sertifisering som moment), **nr. 6–8** (standardavtaler), **nr. 9** (skriftlig, også elektronisk), **nr. 10** (databehandler som selv fastsetter formål og midler blir behandlingsansvarlig).
-- **Art. 29** (behandling bare etter instruks), **art. 30 nr. 2** (databehandlerens protokoll), **art. 32** (sikkerhet), **art. 33 nr. 2** (databehandlers varsling ved brudd), **art. 82** (erstatningsansvar).
-- **Art. 24, art. 4 nr. 7** (den behandlingsansvarliges ansvar og bestemmelsesrett) [K05 s. 4].
-- **Kap. V (art. 44–49)** ved overføring [K14].
-- **Standardavtaler:** EU-kommisjonens standardavtale for art. 28 og Danmarks standard-DPA [K05 s. 4]. **[Merknad – ikke fra kildene]** Kommisjonens art. 28-standardavtale er gjennomføringsbeslutning (EU) 2021/915; SCC for overføring til tredjeland (beslutning (EU) 2021/914) modul 2 og 3 dekker art. 28-kravene [K14 s. 4].
+- **GDPR [art. 28](../kilder/K43-gdpr-kap04-behandlingsansvarlig-og-databehandler.md#art-28) nr. 1** (garantier), **nr. 2** (underdatabehandlere – godkjenning), **nr. 3** (avtaleinnhold, bokstav a–h + siste ledd), **nr. 4** (underdatabehandleravtaler og ansvar), **nr. 5** (atferdsnormer/sertifisering som moment), **nr. 6–8** (standardavtalevilkår), **nr. 9** (skriftlig, også elektronisk), **nr. 10** (databehandler som selv fastsetter formål og midler blir behandlingsansvarlig).
+- **[Art. 29](../kilder/K43-gdpr-kap04-behandlingsansvarlig-og-databehandler.md#art-29)** (behandling bare etter instruks), **[art. 30](../kilder/K43-gdpr-kap04-behandlingsansvarlig-og-databehandler.md#art-30) nr. 2** (databehandlerens protokoll), **[art. 32](../kilder/K43-gdpr-kap04-behandlingsansvarlig-og-databehandler.md#art-32)** (sikkerhet), **[art. 33](../kilder/K43-gdpr-kap04-behandlingsansvarlig-og-databehandler.md#art-33) nr. 2** (databehandlerens underretning til den behandlingsansvarlige ved brudd på personopplysningssikkerheten), **[art. 82](../kilder/K43-gdpr-kap08-rettsmidler-ansvar-og-sanksjoner.md#art-82)** (erstatningsansvar).
+- **[Art. 24](../kilder/K43-gdpr-kap04-behandlingsansvarlig-og-databehandler.md#art-24), [art. 4](../kilder/K43-gdpr-kap01-alminnelige-bestemmelser.md#art-4) nr. 7** (den behandlingsansvarliges ansvar og bestemmelsesrett) [K05 s. 4].
+- **Kap. V ([art. 44](../kilder/K43-gdpr-kap05-overforing-av-personopplysninger-til-tredjestater.md#art-44)–49)** ved overføring [K14].
+- **Standardavtaler:** EU-kommisjonens standardavtale for art. 28 og Danmarks standard-DPA [K05 s. 4]. **[Merknad – ikke fra kildene]** Kommisjonens art. 28-standardavtale er gjennomføringsbeslutning (EU) 2021/915; SCC for overføring til tredjeland (standard personvernbestemmelser etter [art. 46](../kilder/K43-gdpr-kap05-overforing-av-personopplysninger-til-tredjestater.md#art-46) nr. 2 c; beslutning (EU) 2021/914) modul 2 og 3 dekker art. 28-kravene [K14 s. 4].
 - **[Merknad – ikke fra kildene]** EDPB Guidelines 07/2020 (del II om databehandleravtalen) er den mest detaljerte europeiske tolkningen og bør konsulteres ved tvil.
 
 ## Utdyping
@@ -71,7 +71,7 @@ Kan i tillegg regulere vederlag og kostnader [K05 s. 4].
 
 Nedenfor er hver bokstav med **ordlyd (oppsummert)**, **hva avtalen må inneholde** og **hva Datatilsynet/andre anbefaler**.
 
-**[Merknad – ikke fra kildene]** Ordlyden i art. 28 nr. 3 er oppsummert på norsk ut fra forordningsteksten; kontroller mot Lovdata ved sitering.
+**[Merknad – ikke fra kildene]** Ordlyden i art. 28 nr. 3 er oppsummert på norsk ut fra forordningsteksten; ordrett tekst finnes i [K43 art. 28](../kilder/K43-gdpr-kap04-behandlingsansvarlig-og-databehandler.md#art-28).
 
 #### a) Bare behandle etter dokumenterte instrukser – også om overføring
 
@@ -116,7 +116,7 @@ Se avsnitt 5 under.
 
 #### f) Bistand med art. 32–36 (sikkerhet, brudd, DPIA, forhåndsdrøfting)
 
-- **Må regulere** [K05 s. 5–6]: bistand med de av art. 32–36 som er relevante; databehandleren skal **straks** varsle brudd på personopplysningssikkerheten (art. 33 nr. 2); varselet skal inneholde det den behandlingsansvarlige trenger for å melde etter art. 33 nr. 3; ved varsling av registrerte (art. 34) skal databehandleren gi informasjonen som trengs.
+- **Må regulere** [K05 s. 5–6]: bistand med de av art. 32–36 som er relevante; databehandleren skal **straks** varsle brudd på personopplysningssikkerheten (art. 33 nr. 2); varselet skal inneholde det den behandlingsansvarlige trenger for å melde etter art. 33 nr. 3; ved underretning av de registrerte (art. 34) skal databehandleren gi informasjonen som trengs.
 - **Anbefalt** [K05 s. 6]: hva som forventes ved **DPIA** og forhåndsdrøfting, f.eks. at databehandleren bidrar til å vurdere sikkerhetstiltak.
 - WP248: databehandleren skal bistå med DPIA og gi nødvendig informasjon [K24 s. 14–15].
 - **Varslingsfrist – ulike formuleringer i kildene:** «straks» [K05], «så snart som mulig» [K33 ark 14], «umiddelbar varsling» [K30 kap. 34.1], i tide til at den behandlingsansvarlige kan overholde 72-timersfristen [K39 s. 36]. **[Merknad – ikke fra kildene]** Art. 33 nr. 2 sier «uten ugrunnet opphold». I praksis bør avtalen angi en konkret frist (f.eks. et fast antall timer etter at databehandleren ble kjent med bruddet) og et minimumsinnhold, slik at 72-timersfristen i art. 33 nr. 1 kan holdes. Se [T12](T12-avvik-og-brudd-art33-34.md).
@@ -162,7 +162,7 @@ Se avsnitt 5 under.
 - «Russiske dukker»: en SDK som trekker inn andre SDK-er må gi samme garantinivå for dem [K39 s. 53].
 - Underdatabehandlere i tredjeland eller med tilgang fra tredjeland er overføringer [K14 s. 7]. Listen bør angi **land for lagring og tilgang** [K30 kap. 34.3].
 - Underdatabehandlerlisten bør stemme med mottakerinformasjonen i personvernerklæringen [K26 praktiske sjekkpunkter].
-- **[Merknad – ikke fra kildene]** Praktiske krav ved generell godkjenning: oppdatert liste med navn, tjeneste, lokasjon og overføringsgrunnlag; varsel per e-post (ikke bare oppdatert nettside); rimelig varslingsfrist; tydelig konsekvens av innsigelse (f.eks. rett til å si opp uten kostnad hvis leverandøren likevel bruker underdatabehandleren).
+- **[Merknad – ikke fra kildene]** Praktiske krav ved generell godkjenning: oppdatert liste med navn, tjeneste, lokasjon og overføringsgrunnlag; varsel per e-post (ikke bare oppdatert nettside); rimelig varslingsfrist; tydelig konsekvens hvis den behandlingsansvarlige motsetter seg (f.eks. rett til å si opp uten kostnad hvis leverandøren likevel bruker underdatabehandleren).
 
 ### 6. Tilleggsklausuler som ofte trengs
 
@@ -221,7 +221,7 @@ Se avsnitt 5 under.
 - Generisk behandlingsbeskrivelse («alle personopplysninger kunden laster opp, for å levere tjenesten») uten konkrete kategorier og formål [K05 s. 4].
 - Instruksen mangler eller sier at leverandøren kan behandle «i samsvar med sin personvernerklæring» [K05 s. 5].
 - Leverandøren forbeholder seg bruk til egne formål (analyse, produktutvikling, KI-trening) [K39 s. 20; K01 s. 3].
-- Generell underdatabehandlergodkjenning uten varsling og reell innsigelsesrett [K05 s. 5].
+- Generell underdatabehandlergodkjenning uten varsling og reell mulighet til å motsette seg endringer (art. 28 nr. 2) [K05 s. 5].
 - «Commercially reasonable efforts» om brudd-varsling uten frist [K05 s. 5–6].
 - Revisjonsrett begrenset til leverandørens egne sertifikater uten mulighet for inspeksjon [K05 s. 6].
 - Sletting «i henhold til våre standardrutiner» uten frist, uten backup og uten bekreftelse [K05 s. 6].
@@ -241,7 +241,7 @@ Kort versjon – full punkt-for-punkt-sjekkliste i [M01](../maler/M01-databehand
 - [ ] a) Kun etter instruks, inkl. overføring; lovpålagt unntak med varsel; varsel om ulovlig instruks [K05 s. 5]
 - [ ] b) Fortrolighet/taushetsplikt, påvisbar, etter opphør [K05 s. 5]
 - [ ] c) Art. 32-tiltak; sikkerhetsvedlegg [K05 s. 5]
-- [ ] d) Underdatabehandlere: valgt modell, liste, varsling, innsigelse, flow-down, ansvar [K05 s. 5]
+- [ ] d) Underdatabehandlere: valgt modell, liste, varsling, rett til å motsette seg, flow-down, ansvar [K05 s. 5]
 - [ ] e) Bistand med rettigheter, med frister [K05 s. 5]
 - [ ] f) Bistand art. 32–36; brudd-varsling med frist og innhold; DPIA-bistand [K05 s. 5–6]
 - [ ] g) Sletting/tilbakelevering – valgt alternativ, dokumentasjon, backup [K05 s. 6]

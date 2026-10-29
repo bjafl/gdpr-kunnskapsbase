@@ -64,7 +64,7 @@ Risikonivået estimeres ut fra (s. 6):
 - **Sannsynlighet (likelihood)** = muligheten for at risikoen inntreffer; avhenger hovedsakelig av sårbarhetsnivået i støtteressursene og risikokildenes kapabilitet til å utnytte dem.
 
 **Hvordan gjennomføres en PIA (s. 7)** – etterlevelse bygger på:
-- respekt for de rettslige prinsippene (spesifisert, uttrykkelig og legitimt formål; adekvate, relevante og ikke overdrevne opplysninger; klar og fullstendig informasjon; begrenset lagringstid; rett til innsigelse, innsyn, retting og sletting osv.);
+- respekt for de rettslige prinsippene (spesifisert, uttrykkelig og legitimt formål; adekvate, relevante og ikke overdrevne opplysninger; klar og fullstendig informasjon; begrenset lagringstid; rett til å protestere, innsyn, retting og sletting osv.);
 - styring av risiko knyttet til sikkerheten for personopplysninger (DP-Act art. 34 / direktivet art. 17: ta «all useful precautions» for å hindre endring, skade eller uautorisert tilgang).
 
 Fire steg (figur 4, s. 7):
@@ -149,7 +149,7 @@ Mål: bygge systemet som sikrer etterlevelse av personvernprinsippene. Tiltak ka
 4. lagringstid: nødvendig for formålet, med mindre annen lov krever lengre tid;
 5. informasjon: den registrertes rett til informasjon;
 6. samtykke: samtykke eller annet behandlingsgrunnlag;
-7. innsigelsesrett;
+7. rett til å protestere;
 8. innsynsrett;
 9. rett til retting og sletting;
 10. overføringer ut av EU;

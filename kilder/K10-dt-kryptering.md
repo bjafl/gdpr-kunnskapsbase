@@ -100,7 +100,7 @@ Datatilsynet mener kryptering er **nødvendig** når informasjonen som overføre
 - «… og et samtykke fra kunden gjør ikke at kravene til informasjonssikkerhet kan senkes.»
 
 ## Kryssreferanser
-- GDPR: art. 5 nr. 1 f (integritet og konfidensialitet), art. 32 nr. 1 a (pseudonymisering og kryptering), art. 34 nr. 3 a (kryptering kan fjerne plikt til å varsle registrerte)
+- GDPR: art. 5 nr. 1 f (integritet og konfidensialitet), art. 32 nr. 1 a (pseudonymisering og kryptering), art. 34 nr. 3 a (kryptering kan fjerne plikten til å underrette de registrerte om brudd på personopplysningssikkerheten)
 - Andre kilder: [K32](K32-nsm-grunnprinsipper.md) – NSMs grunnprinsipper for IKT-sikkerhet; [K16](K16-dfo-veileder-informasjonssikkerhet.md) – informasjonssikkerhet; [K33](K33-cnil-sikkerhetsguide.md) og [K34](K34-cnil-cybersikkerhet-2024.md) – CNILs sikkerhetsråd; [K05](K05-dt-databehandleravtale.md) – sikkerhetsvedlegg.
 
 ## Aktualitet og begrensninger

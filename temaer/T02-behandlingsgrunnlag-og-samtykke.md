@@ -22,13 +22,13 @@ kilder: [K02, K25, K03, K06, K09, K26, K39, K11, K01]
 
 ## Rettslig grunnlag
 
-- **GDPR art. 6 nr. 1 bokstav a–f** (de seks grunnlagene), **art. 6 nr. 3** (supplerende rettsgrunnlag for bokstav c og e), **art. 6 nr. 4** (forenlig viderebehandling – se [T03](T03-grunnprinsipper-art5.md)).
-- **Art. 4 nr. 11** (definisjon av samtykke), **art. 7** (vilkår for samtykke), **art. 8** (barn), **art. 9** (særlige kategorier), **art. 10** (straffedommer).
-- **Art. 21** (protest), **art. 22** (automatiserte avgjørelser – krever uttrykkelig samtykke, avtale eller lov), **art. 49 nr. 1 a** (uttrykkelig samtykke ved overføring).
-- **Fortalepunkt** 32, 33, 38, 40, 42, 43, 47, 50, 171 [K25; K02].
-- **Personopplysningsloven:** § 5 (aldersgrense 13 år – **[Merknad – ikke fra kildene]** paragrafnummeret er oppgitt i merknader i K02 og K25), §§ 6, 7 og 9 (særlige kategorier), § 11 (straffedommer) [K02 s. 2].
-- **[Merknad – ikke fra kildene]** Personopplysningsloven § 12 regulerer bruk av **fødselsnummer** og andre entydige identifikasjonsmidler (krav om saklig behov for sikker identifisering og at metoden er nødvendig). Kontroller ordlyden før bruk.
-- **ePrivacy:** Samtykke etter ePrivacy-regelverket (informasjonskapsler og annen lagring/lesing på terminalutstyr) bruker GDPRs samtykkebegrep [K25 s. 4; K39 s. 10–11]. I Norge: ekomloven § 3-15 (se merknad i [K39]) – se [T15](T15-apper-sdk-og-sporingsteknologi.md).
+- **GDPR [art. 6](../kilder/K43-gdpr-kap02-prinsipper.md#art-6) nr. 1 bokstav a–f** (de seks grunnlagene), **art. 6 nr. 3** (supplerende rettsgrunnlag for bokstav c og e), **art. 6 nr. 4** (forenlig viderebehandling – se [T03](T03-grunnprinsipper-art5.md)).
+- **[Art. 4](../kilder/K43-gdpr-kap01-alminnelige-bestemmelser.md#art-4) nr. 11** (definisjon av samtykke), **[art. 7](../kilder/K43-gdpr-kap02-prinsipper.md#art-7)** (vilkår for samtykke), **[art. 8](../kilder/K43-gdpr-kap02-prinsipper.md#art-8)** (barn), **[art. 9](../kilder/K43-gdpr-kap02-prinsipper.md#art-9)** (særlige kategorier), **[art. 10](../kilder/K43-gdpr-kap02-prinsipper.md#art-10)** (straffedommer).
+- **[Art. 21](../kilder/K43-gdpr-kap03-den-registrertes-rettigheter.md#art-21)** (protest), **[art. 22](../kilder/K43-gdpr-kap03-den-registrertes-rettigheter.md#art-22)** (automatiserte avgjørelser – krever uttrykkelig samtykke, avtale eller lov), **[art. 49](../kilder/K43-gdpr-kap05-overforing-av-personopplysninger-til-tredjestater.md#art-49) nr. 1 a** (uttrykkelig samtykke ved overføring).
+- **Fortalepunkt** [32](../kilder/K43-gdpr-fortale.md#fp-32), [33](../kilder/K43-gdpr-fortale.md#fp-33), [38](../kilder/K43-gdpr-fortale.md#fp-38), [40](../kilder/K43-gdpr-fortale.md#fp-40), [42](../kilder/K43-gdpr-fortale.md#fp-42), [43](../kilder/K43-gdpr-fortale.md#fp-43), [47](../kilder/K43-gdpr-fortale.md#fp-47), [50](../kilder/K43-gdpr-fortale.md#fp-50), [171](../kilder/K43-gdpr-fortale.md#fp-171) [K25; K02].
+- **Personopplysningsloven:** [§ 5](../kilder/K42-personopplysningsloven.md#p5) (aldersgrense 13 år – **[Merknad – ikke fra kildene]** paragrafnummeret er oppgitt i merknader i K02 og K25 og bekreftet i [K42](../kilder/K42-personopplysningsloven.md#p5)), [§ 6](../kilder/K42-personopplysningsloven.md#p6), [§ 7](../kilder/K42-personopplysningsloven.md#p7) og [§ 9](../kilder/K42-personopplysningsloven.md#p9) (særlige kategorier), [§ 11](../kilder/K42-personopplysningsloven.md#p11) (straffedommer) [K02 s. 2].
+- **[Merknad – ikke fra kildene]** Personopplysningsloven § 12 regulerer bruk av **fødselsnummer** og andre entydige identifikasjonsmidler (krav om saklig behov for sikker identifisering og at metoden er nødvendig for å oppnå slik identifisering), jf. [K42 § 12](../kilder/K42-personopplysningsloven.md#p12).
+- **ePrivacy:** Samtykke etter ePrivacy-regelverket (informasjonskapsler og annen lagring/lesing på terminalutstyr) bruker GDPRs samtykkebegrep [K25 s. 4; K39 s. 10–11]. I Norge: ekomloven § 3-15, som krever samtykke etter GDPRs krav ([K44](../kilder/K44-ekomloven-3-15.md)) – se [T15](T15-apper-sdk-og-sporingsteknologi.md).
 - **EDPB-veiledning:** WP259 rev.01 om samtykke [K25] er ifølge kildenotatet erstattet av EDPB Guidelines 05/2020 (i hovedsak likelydende, med tillegg om «cookie walls» og scrolling). EDPB Guidelines 1/2024 om berettigede interesser er nevnt i [K02 s. 10]. **[Merknad – ikke fra kildene]** EDPB Guidelines 2/2019 om art. 6 nr. 1 b (avtale) i nettjenester gir utfyllende tolkning.
 
 ## Utdyping
@@ -138,19 +138,19 @@ Kreves for særlige kategorier (art. 9 nr. 2 a), automatiserte avgjørelser (art
 
 ### 7. Særlige kategorier (art. 9)
 
-**Kategoriene** [K02 s. 2]: rasemessig/etnisk opprinnelse, politisk oppfatning, religion, filosofisk overbevisning, fagforeningsmedlemskap, genetiske opplysninger, biometriske opplysninger (når formålet er entydig identifisering), helseopplysninger, seksuelle forhold, seksuell legning.
+**Kategoriene** [K02 s. 2]: rasemessig/etnisk opprinnelse, politisk oppfatning, religion, filosofisk overbevisning, fagforeningsmedlemskap, genetiske opplysninger, biometriske opplysninger (når formålet er entydig identifisering), helseopplysninger, seksuelle forhold, seksuell orientering.
 
 **Unntak i art. 9 nr. 2 (forenklet)** [K02 s. 2]: uttrykkelig samtykke; arbeidsrettslige/trygderettslige/sosialrettslige plikter og rettigheter (tillatt etter lov eller tariffavtale); vitale interesser når samtykke ikke kan gis; ideelle organisasjoner om egne medlemmer; åpenbart offentliggjort av den registrerte; rettskrav; viktige allmenne interesser med lovhjemmel; forebyggende medisin/arbeidsmedisin/helse- og sosialtjenester (av fagperson med taushetsplikt); folkehelse; arkiv/forskning/statistikk med lovhjemmel.
 
 - Datatilsynet understreker at det er mange forbehold og at forordningsteksten må leses; lovhjemmel må også oppfylle forordningens innholdskrav [K02 s. 2].
-- **Personopplysningsloven §§ 6, 7 og 9** åpner i tillegg for behandling ved arbeidsrettslige plikter, etter tillatelse fra Datatilsynet, og for arkiv/forskning/statistikk når samfunnsnytten klart overstiger ulempene, med tiltak og rådføring med personvernombudet [K02 s. 2].
+- **Personopplysningsloven §§ 6, 7 og 9** åpner i tillegg for behandling ved arbeidsrettslige plikter eller rettigheter, etter tillatelse fra Datatilsynet (eller forskrift) av hensyn til viktige allmenne interesser, og for arkiv/forskning/statistikk når samfunnsnytten klart overstiger ulempene, med tiltak og rådføring med personvernombudet [K02 s. 2].
 - **Ingen avtaleunntak:** Er ingen av bokstav b–j oppfylt, er uttrykkelig samtykke eneste mulighet (flyselskapets assistanse; skibriller med styrke) [K25 s. 19–20].
 - I apper: kategorisering/segmentering basert på særlige kategorier for reklame er forbudt (DSA art. 26, gjengitt i [K39 s. 31]); CNIL anbefaler eget samtykkesteg for helsedata [K39 s. 31].
 
 ### 8. Straffedommer og lovovertredelser (art. 10)
 
 Ikke særlige kategorier, men kan bare behandles [K02 s. 2]:
-- under offentlig myndighets kontroll (ved arkiv/forskning/statistikk: rådføring med personvernombudet først);
+- under offentlig myndighets kontroll (ved vitenskapelig eller historisk forskning på grunnlag av popplyl. § 8: rådføring med personvernombudet først, jf. popplyl. § 11 annet ledd og § 9 annet ledd);
 - med hjemmel i personopplysningsloven § 11; eller
 - med hjemmel i annen norsk lov med garantier for den registrertes rettigheter og friheter.
 Omfattende registre over straffedommer kan bare føres under offentlig kontroll [K02 s. 2].
@@ -170,7 +170,7 @@ Omfattende registre over straffedommer kan bare føres under offentlig kontroll 
 
 ### 10. Forholdet til formålsbegrensning
 
-Et grunnlag dekker bare det formålet det er fastsatt for. Viderebehandling for nye formål krever forenlighetsvurdering (art. 6 nr. 4) og eget grunnlag – eller samtykke/lovhjemmel dersom formålet er uforenlig [K03; K09 s. 2]. Se [T03](T03-grunnprinsipper-art5.md).
+Et grunnlag dekker bare det formålet det er fastsatt for. Viderebehandling for nye formål krever forenlighetsvurdering (art. 6 nr. 4). Er formålet uforenlig, kreves samtykke eller lovhjemmel. Er det forenlig, sier [fortalepunkt 50](../kilder/K43-gdpr-fortale.md#fp-50) at det ikke kreves et annet rettslig grunnlag enn det som tillot innsamlingen. Datatilsynet anbefaler likevel eget grunnlag [K03; K09 s. 2]. Se [KJENTE-MOTSTRIDER](../KJENTE-MOTSTRIDER.md). Se [T03](T03-grunnprinsipper-art5.md).
 
 ### 11. Forskjeller og motstrid mellom kilder
 

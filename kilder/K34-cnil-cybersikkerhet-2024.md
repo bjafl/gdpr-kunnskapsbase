@@ -30,7 +30,7 @@ En kort informasjonsbrosjyre (2 sider) fra CNIL som presenterer GDPR som et cybe
 
 - Sikkerhet har vært et grunnprinsipp i fransk personvernlov siden 1978 («enshrined in the law for more than 45 years»); GDPR har forsterket kravene og supplert med nye plikter og verktøy: melding av brudd, DPIA, atferdsnormer og sertifisering.
 - «The GDPR is the first text to impose specific cybersecurity obligations on all organisations», underlagt tilsynsmyndighetens undersøkelses- og håndhevingsmyndighet.
-- Ved manglende etterlevelse: administrativ bot på inntil **20 millioner euro eller 4 % av omsetningen**.
+- Ved manglende etterlevelse: overtredelsesgebyr (administrative fine) på inntil **20 millioner euro eller 4 % av omsetningen**.
 
 **Sikkerhetsplikter etter GDPR (s. 1):**
 
@@ -91,6 +91,8 @@ CNIL arbeider innen fire områder:
 
 **Frist:** Halvparten av meldingene sendes innen 72-timersfristen. «An out-of-delay notification constitutes a breach of the GDPR which can be sanctionned by the CNIL.»
 
+**[Merknad – ikke fra kilden]** Etter art. 33 nr. 1 skal bruddet meldes «uten ugrunnet opphold og når det er mulig, senest 72 timer» etter at den behandlingsansvarlige fikk kjennskap til det, med mindre bruddet sannsynligvis ikke vil medføre en risiko; meldes det ikke innen 72 timer, skal årsakene til forsinkelsen oppgis. Fristen er altså ikke absolutt, men forsinkelsen må begrunnes (jf. [K43](K43-gdpr-kap04-behandlingsansvarlig-og-databehandler.md#art-33)).
+
 ### Brudd: status fem år etter GDPR (mai 2018–mai 2023) (s. 2)
 
 - 17 483 meldinger om brudd; antallet har økt over årene (når meldinger med samme opphav grupperes).
@@ -130,7 +132,7 @@ CNIL arbeider innen fire områder:
 
 ## Kryssreferanser
 
-- GDPR: art. 4 nr. 12 (definisjon av brudd), art. 32 (sikkerhet), art. 33 (melding innen 72 timer; nr. 5 intern dokumentasjon), art. 34 (informasjon til registrerte ved høy risiko), art. 35 (DPIA), art. 36 (forhåndsdrøfting), art. 83 (bøter – merk at 20 mill./4 % er nivået i art. 83 nr. 5; brudd på art. 32 faller etter art. 83 nr. 4 under 10 mill./2 % **[Merknad – ikke fra kilden]**).
+- GDPR: art. 4 nr. 12 (definisjon av brudd), art. 32 (sikkerhet), art. 33 (melding innen 72 timer; nr. 5 intern dokumentasjon), art. 34 (informasjon til registrerte ved høy risiko), art. 35 (DPIA), art. 36 (forhåndsdrøfting), art. 83 (overtredelsesgebyr – merk at 20 mill./4 % er nivået i art. 83 nr. 5; brudd på art. 32 faller etter art. 83 nr. 4 under 10 mill./2 % **[Merknad – ikke fra kilden]**).
 - Andre kilder:
   - [K33](K33-cnil-sikkerhetsguide.md) – CNILs fullstendige sikkerhetsguide med sjekkliste (konkrete tiltak bak listen over vanlige feil).
   - [K15](K15-dt-digitale-angrep.md) – Datatilsynet om personvern ved digitale angrep.
@@ -140,6 +142,6 @@ CNIL arbeider innen fire områder:
 ## Aktualitet og begrensninger
 
 - Statistikken gjelder 2023 og Frankrike (CNIL); brosjyren er en kort informasjonspublikasjon, ikke en veileder med normative krav.
-- **[Merknad – ikke fra kilden]** Brosjyren angir bøtenivået «20 millioner euro eller 4 % av omsetningen» generelt; for brudd på sikkerhetsplikten (art. 32) og meldeplikten (art. 33–34) er maksimum etter art. 83 nr. 4 10 millioner euro eller 2 % av global årsomsetning. Høyeste nivå gjelder bl.a. brudd på de grunnleggende prinsippene i art. 5, som også omfatter integritet og konfidensialitet (art. 5 nr. 1 bokstav f).
+- **[Merknad – ikke fra kilden]** Brosjyren angir nivået for overtredelsesgebyr «20 millioner euro eller 4 % av omsetningen» generelt; for brudd på sikkerhetsplikten (art. 32) og meldeplikten (art. 33–34) er maksimum etter art. 83 nr. 4 10 millioner euro eller 2 % av global årsomsetning. Høyeste nivå gjelder bl.a. brudd på de grunnleggende prinsippene i art. 5, som også omfatter integritet og konfidensialitet (art. 5 nr. 1 bokstav f).
 - **[Merknad – ikke fra kilden]** I Norge er Datatilsynet tilsynsmyndighet for melding av brudd; norske tall finnes i Datatilsynets årsrapporter.
 - Tekstuttrekket inneholder noen fransk/engelsk-blandinger og en sektorfigur som ikke kan leses entydig.

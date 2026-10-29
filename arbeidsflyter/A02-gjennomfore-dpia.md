@@ -39,17 +39,17 @@ Still spørsmålene i bolker; ikke alt trengs før man kan starte. Merk hva som 
 
 ## Steg
 
-1. **Avklar lovlighet først.** Kontroller at formål og behandlingsgrunnlag (art. 6, ev. 9/10) er på plass. Mangler det, gå til [A06](A06-vurdere-behandlingsgrunnlag.md) – en DPIA reparerer ikke en ulovlig behandling [K12 s. 1; K40 § 4.2]. *(Tema: [T02](../temaer/T02-behandlingsgrunnlag-og-samtykke.md).)*
+1. **Avklar lovlighet først.** Kontroller at formål og behandlingsgrunnlag ([art. 6](../kilder/K43-gdpr-kap02-prinsipper.md#art-6), ev. [9](../kilder/K43-gdpr-kap02-prinsipper.md#art-9)/[10](../kilder/K43-gdpr-kap02-prinsipper.md#art-10)) er på plass. Mangler det, gå til [A06](A06-vurdere-behandlingsgrunnlag.md) – en DPIA reparerer ikke en ulovlig behandling [K12 s. 1; K40 § 4.2]. *(Tema: [T02](../temaer/T02-behandlingsgrunnlag-og-samtykke.md).)*
 
 2. **Terskelvurdering (screening).** Fyll ut [M05](../maler/M05-dpia-terskelvurdering.md):
    - unntak (lik behandling med DPIA, tidligere konsesjon, art. 35 nr. 10) [K24 s. 12–13; K12 s. 2];
-   - art. 35 nr. 3 a–c;
+   - art. 35 nr. 3 a–c (ordlyd: [art. 35](../kilder/K43-gdpr-kap04-behandlingsansvarlig-og-databehandler.md#art-35));
    - Datatilsynets 14 punkter (husk tilleggskriterium for pkt. 1–4, 6, 7) [K20];
    - de ni WP29-kriteriene, vurdert uavhengig av tiltak [K24 s. 9–11];
    - kalibrer mot eksempeltabellen [K22].
    Konklusjon: ≥ 2 kriterier eller listetreff → DPIA; 1 kriterium eller tvil → anbefal DPIA [K12 s. 2; K24 s. 8]. Ved «nei» tross treff: dokumenter begrunnelse og PVOs syn [K24 s. 12] – og avslutt med henvisning til art. 32-vurdering ([A03](A03-risikovurdering-informasjonssikkerhet.md)).
 
-3. **Planlegg DPIA-en.** Avklar omfang (én behandling eller flere like [K24 s. 7]), team (fagansvarlig, PVO, CISO/IT, jurist, databehandler) og RACI [K28 s. 9; K12 s. 3], tidsplan (før oppstart, tidlig i design [K24 s. 14]), metode og skalaer (standard: M04 med CNIL-skalaer; alternativt virksomhetens egne, se [T09](../temaer/T09-risikovurdering-metoder-og-skalaer.md)). Be databehandler(e) om bistand etter art. 28 nr. 3 f [K24 s. 15; K05]. Avgjør hvordan de registrertes syn skal innhentes (steg 9).
+3. **Planlegg DPIA-en.** Avklar omfang (én behandling eller flere like [K24 s. 7]), team (fagansvarlig, PVO, CISO/IT, jurist, databehandler) og RACI [K28 s. 9; K12 s. 3], tidsplan (før oppstart, tidlig i design [K24 s. 14]), metode og skalaer (standard: M04 med CNIL-skalaer; alternativt virksomhetens egne, se [T09](../temaer/T09-risikovurdering-metoder-og-skalaer.md)). Be databehandler(e) om bistand etter [art. 28 nr. 3 f](../kilder/K43-gdpr-kap04-behandlingsansvarlig-og-databehandler.md#art-28) [K24 s. 15; K05]. Avgjør hvordan de registrertes syn skal innhentes (steg 9).
 
 4. **Del 1 – Systematisk beskrivelse.** Fyll ut M04 del 1: oversikt, roller, art/omfang/formål/sammenheng, datakategorier med mottakere og lagringstid, dataflyt og støtteressurser for hele livssyklusen, databehandlere, overføringer, standarder/atferdsnormer, andre rettslige krav [K21 s. 2–5; K29 s. 4; K24 Annex 2]. Ta med data som genereres av tiltakene selv (logger, samtykkeregistrering) [K28 s. 11]. **Få PVO til å lese gjennom del 1** før dere går videre [K31 s. 5].
 
@@ -66,16 +66,16 @@ Still spørsmålene i bolker; ikke alt trengs før man kan starte. Merk hva som 
 8. **Del 4 – Tiltak og restrisiko.** Foreslå tiltak i alle fire kategorier (garantier, dataspesifikke sikkerhetstiltak, generelle sikkerhetstiltak, organisatoriske) i rekkefølgen styring → data → konsekvenser → kilder → støtteressurser [K21 s. 9; K28 s. 13]. Kontroller at tiltakene også dekker dataminimering, ikke-kobling, åpenhet og intervenerbarhet (SDM) [K37; K40]. Vurder om behandlingen bør endres i stedet for å legge på sikkerhetstiltak [K12 s. 5]. Beregn restrisiko og sammenlign med målene for risikobehandling [K31 vedlegg 6]. Tiltakskataloger: [K30](../kilder/K30-cnil-pia-kunnskapsbaser.md), [M09](../maler/M09-sikkerhetstiltak-sjekkliste.md).
 
 9. **Involver interessenter.**
-   - **De registrerte:** innhent synspunkter der det er hensiktsmessig (undersøkelse, tillitsvalgte/verneombud, brukerpanel); sørg for behandlingsgrunnlag; dokumenter hvordan de er fulgt opp, eller hvorfor de ikke er innhentet. Samtykke er ikke en tilbakemelding [K24 s. 15; K12 s. 3].
+   - **De registrerte:** innhent synspunkter dersom det er relevant (art. 35 nr. 9; undersøkelse, tillitsvalgte/verneombud, brukerpanel); sørg for behandlingsgrunnlag; dokumenter hvordan de er fulgt opp, eller hvorfor de ikke er innhentet. Samtykke er ikke en tilbakemelding [K24 s. 15; K12 s. 3].
    - **PVO:** innhent skriftlig råd på den (nesten) ferdige DPIA-en; dokumenter om rådet følges og hvorfor ikke [K24 s. 14; K29 s. 24].
 
 10. **Del 5 – Handlingsplan.** Alle korrigerende og nye tiltak med ansvarlig, kostnad, frist, vanskelighetsgrad, målekriterium og status [K21 s. 10; K31 s. 36; K40 § 4.3].
 
 11. **Del 7 – Sammenstilling og ledelsens validering.** Lag sammendrag (M04 del 1 og 7.1) med risikokart før/etter, status for prinsipper og sikkerhet, handlingsplan, PVO-råd og registrertes syn. Ledelsen beslutter: godkjent / betinget (revidert DPIA tilbake) / avvist [K21 s. 10; K31 s. 38]. Bruk valideringsteksten i M04.
 
-12. **Forhåndsdrøfting ved høy restrisiko.** Er restrisikoen fortsatt høy (betydelige/irreversible konsekvenser og/eller åpenbart at risikoen inntreffer [K24 s. 19]), eller har DPIA-en vært i ledelsen mer enn én gang uten at risikoen er redusert og viljen er stor [K21 s. 10]: ledelsen beslutter å be Datatilsynet om forhåndsdrøfting **før** behandlingen starter. Send hele DPIA-en og de fem dokumentasjonspunktene (kontaktinfo inkl. PVO; beskrivelse med fokus på høy risiko; nødvendighet/proporsjonalitet; risiko og tiltak – også vurderte men ikke gjennomførte; ledelsens validering), sikkert (TLS/PGP) [K12 s. 11]. Veiledningsønsker er ikke forhåndsdrøfting [K12 s. 11]. **[Merknad – ikke fra kildene]** Tilsynet har etter art. 36 nr. 2 inntil åtte uker (+ seks) til å gi skriftlig råd.
+12. **Forhåndsdrøfting ved høy restrisiko.** Er restrisikoen fortsatt høy (betydelige/irreversible konsekvenser og/eller åpenbart at risikoen inntreffer [K24 s. 19]), eller har DPIA-en vært i ledelsen mer enn én gang uten at risikoen er redusert og viljen er stor [K21 s. 10]: be Datatilsynet om forhåndsdrøfting **før** behandlingen starter. Viser DPIA-en høy risiko som ikke reduseres med tiltak, er dette en plikt etter [art. 36 nr. 1](../kilder/K43-gdpr-kap04-behandlingsansvarlig-og-databehandler.md#art-36), ikke et valg. Send hele DPIA-en og de fem dokumentasjonspunktene (kontaktinfo inkl. PVO; beskrivelse med fokus på høy risiko; nødvendighet/proporsjonalitet; risiko og tiltak – også vurderte men ikke gjennomførte; ledelsens validering), sikkert (TLS/PGP) [K12 s. 11]. Det lovpålagte innholdet står i [art. 36 nr. 3](../kilder/K43-gdpr-kap04-behandlingsansvarlig-og-databehandler.md#art-36) a–f. Veiledningsønsker er ikke forhåndsdrøfting [K12 s. 11]. Mener tilsynet at behandlingen vil være i strid med forordningen, har det etter [art. 36 nr. 2](../kilder/K43-gdpr-kap04-behandlingsansvarlig-og-databehandler.md#art-36) inntil åtte uker (kan forlenges med seks) til å gi skriftlig råd.
 
-13. **Oppfølging.** Registrer DPIA-en (referanse i protokollen), fastsett revisjonsdato og utløsende hendelser, følg opp handlingsplanen, og kontroller at behandlingen skjer i tråd med DPIA-en (art. 35 nr. 11) [K24 s. 14, 17; K28 s. 7]. Vurder publisering av sammendrag [K24 s. 18].
+13. **Oppfølging.** Registrer DPIA-en (referanse i protokollen), fastsett revisjonsdato og utløsende hendelser, følg opp handlingsplanen, og kontroller at behandlingen skjer i tråd med DPIA-en ([art. 35 nr. 11](../kilder/K43-gdpr-kap04-behandlingsansvarlig-og-databehandler.md#art-35)) [K24 s. 14, 17; K28 s. 7]. Vurder publisering av sammendrag [K24 s. 18].
 
 ## Output
 

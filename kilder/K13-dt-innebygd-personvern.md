@@ -135,6 +135,7 @@ Prinsippet krever at opplysninger ikke behandles urettmessig, ugunstig, diskrimi
 
 **Eksempel 2 – søkemotor:** alternativer kan ikke presenteres slik at de skyver den registrerte mot mer innsamling, gjør det vanskelig å ikke samtykke eller senere justere innstillinger. Dette er **«dark patterns»** (manipulerende design som utnytter kunnskap om menneskelig atferd) og strider mot innebygd personvern. Standardalternativer bør ikke være inngripende; samtykke/avstå presenteres som **to like synlige valg** som korrekt viser konsekvensene.
 **Eksempel 3 – strømmetjeneste med premium:** prioritert kundeservice for premium kan ikke diskriminere vanlige abonnenters utøvelse av rettigheter (art. 12 nr. 5 – svar uten unødig opphold og senest innen én måned). Alle registrerte skal ha lik og udiskriminert tilgang til rettighetene.
+**[Merknad – ikke fra kilden]** Fristen «uten ugrunnet opphold og senest én måned» står i art. 12 nr. 3; art. 12 nr. 5 gjelder at kommunikasjon og tiltak skal være gratis (jf. [K43](K43-gdpr-kap03-den-registrertes-rettigheter.md#art-12)).
 
 #### 6.3 Åpenhet – nøkkelelementer (s. 8)
 Støtter rettighetene i art. 15–22.
@@ -232,7 +233,7 @@ Beskyttelse mot uautorisert/lovstridig behandling og utilsiktet tap, ødeleggels
 | Katastrofegjenoppretting/forretningskontinuitet | Gjenopprett tilgjengelighet etter større hendelser |
 | Beskyttelse i henhold til risiko | Tiltak etter risiko; spesielt risikable data holdes atskilt |
 | Sikkerhetshendelses-responshåndtering | Rutiner, prosedyrer og ressurser for å oppdage, begrense, håndtere, rapportere og lære |
-| Hendelseshåndtering | Prosesser for brudd og hendelser, inkl. varsling til tilsynsmyndigheten og informasjon til registrerte |
+| Hendelseshåndtering | Prosesser for brudd og hendelser, inkl. melding til tilsynsmyndigheten og underretning av de registrerte (brudd på personopplysningssikkerheten, art. 33–34) |
 
 **Eksempel 10 – uttrekk fra pasientdatabase til kvalitetssikring:** tilgang begrenset til én avdeling; pseudonymisering før overføring; nettverkssegmentering og tilgangskontroll; sikkerhetsovervåking og inntrengingsdeteksjon/-forebygging isolert fra drift; automatisert revisjonssystem med varsler; riktig tilgangsnivå; ekstrakter lagres tre måneder i separate databaser med transparent kryptering og kolonnekryptering; dekrypteringsnøkler i dedikerte sikkerhetsmoduler (kan ikke hentes ut). (Kilden hopper fra eksempel 8 til 10 – eksempel 9 er ikke nummerert i utskriften; medlemsadministrasjons-eksempelet er unummerert.)
 
@@ -268,7 +269,7 @@ Datatilsynet kan føre tilsyn etter art. 58; korrigerende tiltak etter art. 58 n
 - «Ved ileggelse av overtredelsesgebyr, er vurderingen av brudd på innebygd personvern et spesielt viktig moment» (s. 14)
 
 ## Kryssreferanser
-- GDPR: art. 5, 6 nr. 4, 12 nr. 5, 12–22, 20, 22, 24, 25, 28, 32, 35, 42, 58 nr. 2; fortalepunkt 78
+- GDPR: art. 5, 6 nr. 4, 12 nr. 3, 12–22, 20, 22, 24, 25, 28, 32, 35, 42, 58 nr. 2; fortalepunkt 78
 - EDPB Guidelines 4/2019 on Article 25
 - [K09](K09-dt-grunnleggende-prinsipper.md) – personvernprinsippene
 - [K12](K12-dt-dpia-veiledning.md) – DPIA (DPIA skal skje i samsvar med art. 25)

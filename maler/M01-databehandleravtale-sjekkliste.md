@@ -13,6 +13,8 @@ kilder: [K01, K03, K04, K05, K07, K10, K11, K13, K14, K24, K30, K33, K39]
 
 *Formuleringsforslagene merket «[K05]» er Datatilsynets eksempelformuleringer [K05 s. 4–6]. Øvrige forslag er **[Merknad – ikke fra kildene]** og må tilpasses og kvalitetssikres juridisk.*
 
+*Lovtekst: [art. 28](../kilder/K43-gdpr-kap04-behandlingsansvarlig-og-databehandler.md#art-28), [art. 29](../kilder/K43-gdpr-kap04-behandlingsansvarlig-og-databehandler.md#art-29), [art. 32](../kilder/K43-gdpr-kap04-behandlingsansvarlig-og-databehandler.md#art-32), [art. 33](../kilder/K43-gdpr-kap04-behandlingsansvarlig-og-databehandler.md#art-33), [art. 44–49](../kilder/K43-gdpr-kap05-overforing-av-personopplysninger-til-tredjestater.md#art-44). I sjekklisten brukes «underdatabehandler» om det loven kaller «en annen databehandler» (art. 28 nr. 2 og 4).*
+
 ---
 
 ## Del 0 – Metadata
@@ -45,7 +47,7 @@ kilder: [K01, K03, K04, K05, K07, K10, K11, K13, K14, K24, K30, K33, K39]
 
 | # | Krav | Hjemmel | L/A | Hva man ser etter | Typiske avvik / røde flagg | Forslag | Status | Kommentar |
 |---|---|---|---|---|---|---|---|---|
-| 2.1 | Tema (hva oppdraget går ut på) | Art. 28 nr. 3 | L | Konkret tjenestebeskrivelse [K05 s. 4] | «Levering av tjenestene» uten mer | [K05]: «Behandlingen … består i å stille system X til rådighet, samt å utføre nødvendig vedlikehold av systemet.» | | |
+| 2.1 | Gjenstanden for behandlingen (hva oppdraget går ut på) | Art. 28 nr. 3 | L | Konkret tjenestebeskrivelse [K05 s. 4] | «Levering av tjenestene» uten mer | [K05]: «Behandlingen … består i å stille system X til rådighet, samt å utføre nødvendig vedlikehold av systemet.» | | |
 | 2.2 | Behandlingens art og formål | Art. 28 nr. 3 | L | Klart angitte formål; ett avsnitt per formål [K05 s. 4] | «Alle formål nødvendige for å levere og forbedre tjenesten» | Konkrete formål som speiler protokollen [K03] | | |
 | 2.3 | Varighet | Art. 28 nr. 3 | L | Periode eller «til oppsigelse» [K05 s. 4] | Mangler | «Behandlingen varer inntil avtalen sies opp av en av partene.» [K05] | | |
 | 2.4 | Kategorier registrerte | Art. 28 nr. 3 | L | Ansatte, kunder, pasienter, barn … [K05 s. 4] | «Alle personer kunden laster opp» | List kategoriene | | |
@@ -85,9 +87,9 @@ kilder: [K01, K03, K04, K05, K07, K10, K11, K13, K14, K24, K30, K33, K39]
 | 4.c6 | Ingen tilgang for egne formål «av sikkerhets- eller lovhensyn» uten kundens tillatelse | Art. 28, 29 | A | [K33 ark 22] | Vid tilgangsrett for leverandøren | Tilgang kun etter instruks | | |
 | 4.d1 | Forhåndsgodkjenning – valgt modell angitt | Art. 28 nr. 2, 3 d | L | Særlig / generell / forbud [K05 s. 5] | Uklart hvilken modell | Velg en av [K05]-formuleringene (se under) | | |
 | 4.d2 | Liste over godkjente underdatabehandlere | Art. 28 nr. 2 | L | Navn, tjeneste, **lagrings- og tilgangsland**, overføringsgrunnlag [K05 s. 5; K30 kap. 34.3] | Bare lenke til nettside som endres uten varsel; land mangler | Vedlegg med fullstendig liste | | |
-| 4.d3 | Varsling av endringer + innsigelsesrett (ved generell godkjenning) | Art. 28 nr. 2 | L | Frist i uker for varsel og innsigelse [K05 s. 5] | Varsel kun ved oppdatert nettside; ingen reell konsekvens av innsigelse | E-postvarsel min. X uker før; ved innsigelse rett til å si opp uten kostnad | | |
+| 4.d3 | Varsling av endringer + rett til å motsette seg (ved generell godkjenning) | Art. 28 nr. 2 | L | Frist i uker for varsel og for å motsette seg [K05 s. 5] | Varsel kun ved oppdatert nettside; ingen reell konsekvens av innsigelse | E-postvarsel min. X uker før; ved innsigelse rett til å si opp uten kostnad | | |
 | 4.d4 | Samme forpliktelser videreført skriftlig | Art. 28 nr. 4 | L | [K05 s. 5; K01 s. 9] | «Vesentlig tilsvarende» / «ikke mindre beskyttende i det vesentlige» uten instruks/revisjon | Samme forpliktelser, aldri dårligere beskyttelse [K01 s. 9] | | |
-| 4.d5 | Fullt ansvar for underdatabehandlere | Art. 28 nr. 4 | L/A | [K05 s. 5; K01 s. 9] | Ansvar fraskrevet | «Databehandleren har fullt ansvar overfor den behandlingsansvarlige for underdatabehandlerens oppfyllelse.» | | |
+| 4.d5 | Fullt ansvar for underdatabehandlere | Art. 28 nr. 4 | L | [K05 s. 5; K01 s. 9] | Ansvar fraskrevet | «Databehandleren har fullt ansvar overfor den behandlingsansvarlige for underdatabehandlerens oppfyllelse.» | | |
 | 4.d6 | Hele kjeden («russiske dukker») | Art. 28 nr. 4 | A | Underleverandørers underleverandører [K33 ark 14; K39 s. 53] | Ukjent kjede | Krav om innsyn i hele kjeden | | |
 | 4.e1 | Bistand med rettighetsforespørsler | Art. 28 nr. 3 e | L | [K05 s. 5] | «Kunden må selv bruke selvbetjeningsverktøyene» uten bistand ellers | Bistand så langt mulig, med egnede tiltak | | |
 | 4.e2 | Konkret bistand og frister | – | A | F.eks. videresende slettekrav innen 5 dager; samle data ved innsyn [K05 s. 5; K07] | Ingen frist; fristen gjør én-månedsfristen umulig | [K05]: «Ved innsynskrav må databehandler bistå ved å samle opplysningene som er lagret om den registrerte …» | | |
@@ -116,7 +118,7 @@ kilder: [K01, K03, K04, K05, K07, K10, K11, K13, K14, K24, K30, K33, K39]
 | # | Krav | Hjemmel | L/A | Hva man ser etter | Typiske avvik / røde flagg | Forslag | Status | Kommentar |
 |---|---|---|---|---|---|---|---|---|
 | 5.1 | Alle overføringer kartlagt – også fjerntilgang/support, underdatabehandlere, onward transfers | Art. 44 | L | [K14 s. 7] | «Follow-the-sun»-support ikke nevnt | Liste over land for lagring og tilgang | | |
-| 5.2 | Overføringsgrunnlag angitt per mottaker | Art. 45–49 | L | Adekvans / SCC (modul) / BCR / art. 49 [K14] | Grunnlag mangler; art. 49 brukt for løpende overføring | Angi grunnlag; SCC vedlagt | | |
+| 5.2 | Overføringsgrunnlag angitt per mottaker | Art. 45–49 | L | Adekvans (art. 45) / SCC – standard personvernbestemmelser (modul) (art. 46 nr. 2 c) / BCR / art. 49 [K14] | Grunnlag mangler; art. 49 brukt for løpende overføring | Angi grunnlag; SCC vedlagt | | |
 | 5.3 | TIA og supplerende tiltak der SCC/BCR brukes | Art. 46 (Schrems II) | L | [K14 s. 7–8] | Ingen vurdering | Gjennomfør TIA [M06](M06-tia-mal.md) | | |
 | 5.4 | EØS-leverandør underlagt tredjelands lov | Art. 28 nr. 1, 48 | L | Forbehold om utlevering til myndigheter [K14 s. 9–10] | Vage og vide forbehold – typisk holdepunkt for tiltak | Kryptering med kundens nøkler, pseudonymisering, kontraktsforpliktelser; ellers ikke bruk [K14 s. 9–10] | | |
 

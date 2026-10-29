@@ -15,22 +15,22 @@ kilder: [K01, K05, K39, K14, K27, K04, K11, K25, K26, K33, K30]
 4. **Rollen vurderes per behandling, ikke per leverandør.** Samme aktør kan være databehandler for én behandling og behandlingsansvarlig for en annen (f.eks. egne ansatte, eller en SDK-leverandørs egne formål) [K01 s. 3; K39 s. 17–20]. Man kan ikke være både behandlingsansvarlig og databehandler for **samme** behandling [K01 s. 3].
 5. **Felles behandlingsansvar (art. 26)** foreligger når to eller flere i fellesskap fastsetter formål og midler. Ansvaret trenger ikke være likt fordelt, og hver part må ha eget behandlingsgrunnlag [K01 s. 7–8].
 6. **Konsekvensen av rollen styrer dokumentkravene:** databehandler → databehandleravtale (art. 28); selvstendig behandlingsansvarlig mottaker → behandlingsgrunnlag for utlevering; felles behandlingsansvar → ordning etter art. 26 [K01 s. 1, 8, 9].
-7. **Underdatabehandlere krever forhåndsgodkjenning** (særlig eller generell, skriftlig), varsling ved endringer med innsigelsesrett, og videreføring av samme forpliktelser; hoveddatabehandleren er fullt ansvarlig overfor den behandlingsansvarlige [K01 s. 9; K05 s. 5].
+7. **Underdatabehandlere krever forhåndsgodkjenning** (særlig eller generell, skriftlig), varsling ved endringer med rett til å motsette seg dem (art. 28 nr. 2), og videreføring av samme forpliktelser; hoveddatabehandleren er fullt ansvarlig overfor den behandlingsansvarlige [K01 s. 9; K05 s. 5].
 8. **Den behandlingsansvarlige kan ikke fraskrive seg ansvaret** fordi behandlingen skjer hos en annen – heller ikke ved «take it or leave it»-standardavtaler [K01 s. 2–3].
 9. **Rollevurderingen skal dokumenteres** (ansvarlighet), gjerne i protokoll og DPIA [K01 s. 1; K39 s. 17].
 
 ## Rettslig grunnlag
 
-- **GDPR art. 4 nr. 7** (behandlingsansvarlig), **art. 4 nr. 8** (databehandler), **art. 4 nr. 9** (mottaker), **art. 4 nr. 10** (tredjepart).
-- **Art. 5 nr. 2 og art. 24** – ansvarlighet og den behandlingsansvarliges overordnede ansvar [K01 s. 2].
-- **Art. 26** – felles behandlingsansvarlige (gjengitt i [K01 s. 7]).
-- **Art. 27** – representant for aktører etablert utenfor EØS [K11; K27 s. 10].
-- **Art. 28** – databehandlere og underdatabehandlere (nr. 1 garantier, nr. 2 godkjenning, nr. 3 avtaleinnhold, nr. 4 underdatabehandlere) – se [T07](T07-databehandleravtale-art28.md).
-- **Art. 29** – behandling under den behandlingsansvarliges myndighet. **[Merknad – ikke fra kildene]** Art. 29 sier at databehandleren og enhver som handler under dennes eller den behandlingsansvarliges myndighet, bare kan behandle opplysningene etter instruks fra den behandlingsansvarlige, med mindre EU-/EØS-rett eller nasjonal rett krever det.
-- **Art. 30 nr. 1 og 2** – egne protokollplikter for hver rolle [K04; K11] – se [T06](T06-protokoll-art30.md).
-- **[Merknad – ikke fra kildene]** **Art. 28 nr. 10**: en databehandler som i strid med forordningen selv fastsetter formål og midler, skal anses som behandlingsansvarlig for den behandlingen. **Art. 82 nr. 2 og 4**: databehandleren er erstatningsansvarlig bare når den ikke har oppfylt plikter som spesifikt gjelder databehandlere, eller har handlet utenfor eller i strid med lovlige instrukser; der flere er involvert i samme behandling, kan de bli solidarisk ansvarlige overfor den registrerte.
-- **Personopplysningsloven** gjennomfører GDPR i norsk rett; rollebegrepene er de samme. Lov kan selv utpeke behandlingsansvarlig (art. 4 nr. 7 annet ledd), f.eks. for offentlige oppgaver [K01 s. 5].
-- **Fortalepunkt 79 og 81** (ansvarsfordeling, valg av databehandler) – **[Merknad – ikke fra kildene]**.
+- **GDPR [art. 4](../kilder/K43-gdpr-kap01-alminnelige-bestemmelser.md#art-4) nr. 7** (behandlingsansvarlig), **art. 4 nr. 8** (databehandler), **art. 4 nr. 9** (mottaker), **art. 4 nr. 10** (tredjepart).
+- **[Art. 5](../kilder/K43-gdpr-kap02-prinsipper.md#art-5) nr. 2 og [art. 24](../kilder/K43-gdpr-kap04-behandlingsansvarlig-og-databehandler.md#art-24)** – ansvarlighet og den behandlingsansvarliges overordnede ansvar [K01 s. 2].
+- **[Art. 26](../kilder/K43-gdpr-kap04-behandlingsansvarlig-og-databehandler.md#art-26)** – felles behandlingsansvarlige (gjengitt i [K01 s. 7]).
+- **[Art. 27](../kilder/K43-gdpr-kap04-behandlingsansvarlig-og-databehandler.md#art-27)** – representant for aktører etablert utenfor EØS [K11; K27 s. 10].
+- **[Art. 28](../kilder/K43-gdpr-kap04-behandlingsansvarlig-og-databehandler.md#art-28)** – databehandlere og underdatabehandlere (nr. 1 garantier, nr. 2 godkjenning, nr. 3 avtaleinnhold, nr. 4 underdatabehandlere; lovteksten bruker «en annen databehandler», ikke «underdatabehandler») – se [T07](T07-databehandleravtale-art28.md).
+- **[Art. 29](../kilder/K43-gdpr-kap04-behandlingsansvarlig-og-databehandler.md#art-29)** – behandling som utføres for den behandlingsansvarlige eller databehandleren. **[Merknad – ikke fra kildene]** Art. 29 sier at databehandleren og enhver person som handler for den behandlingsansvarlige eller databehandleren og har tilgang til personopplysninger, bare kan behandle opplysningene etter instruks fra den behandlingsansvarlige, med mindre EU-/EØS-rett eller nasjonal rett krever det.
+- **[Art. 30](../kilder/K43-gdpr-kap04-behandlingsansvarlig-og-databehandler.md#art-30) nr. 1 og 2** – egne protokollplikter for hver rolle [K04; K11] – se [T06](T06-protokoll-art30.md).
+- **[Merknad – ikke fra kildene]** **[Art. 28 nr. 10](../kilder/K43-gdpr-kap04-behandlingsansvarlig-og-databehandler.md#art-28)**: en databehandler som i strid med forordningen selv fastsetter formål og midler, skal anses som behandlingsansvarlig for den behandlingen. **[Art. 82](../kilder/K43-gdpr-kap08-rettsmidler-ansvar-og-sanksjoner.md#art-82) nr. 2 og 4**: databehandleren er erstatningsansvarlig bare når den ikke har oppfylt plikter som spesifikt gjelder databehandlere, eller har handlet utenfor eller i strid med lovlige instrukser; der flere er involvert i samme behandling, kan de bli solidarisk ansvarlige overfor den registrerte.
+- **Personopplysningsloven** gjennomfører GDPR i norsk rett; rollebegrepene er de samme. Lov kan selv utpeke behandlingsansvarlig (art. 4 nr. 7, siste del av definisjonen), f.eks. for offentlige oppgaver [K01 s. 5].
+- **[Fortalepunkt 79](../kilder/K43-gdpr-fortale.md#fp-79) og [81](../kilder/K43-gdpr-fortale.md#fp-81)** (ansvarsfordeling, valg av databehandler) – **[Merknad – ikke fra kildene]**.
 - **Utfyllende europeisk veiledning:** EDPB Guidelines 07/2020 om begrepene behandlingsansvarlig og databehandler. **[Merknad – ikke fra kildene]** Retningslinjene er ikke en del av kildegrunnlaget, men K01 og K39 viser til dem, og de bør brukes ved tvil.
 
 ## Utdyping
@@ -208,7 +208,7 @@ Rollen påvirker også hvilken tilsynsmyndighet som er ledende ved grenseoverskr
 - [ ] Ved selvstendig behandlingsansvarlig mottaker: er det behandlingsgrunnlag for utleveringen, og er de registrerte informert om mottakeren? → [T02](T02-behandlingsgrunnlag-og-samtykke.md), [T04](T04-apenhet-og-informasjonsplikt.md)
 - [ ] Ved felles ansvar: har hver part eget grunnlag, er ansvarsfordelingen tydelig (særlig art. 13–14 og rettigheter), og er hovedinnholdet tilgjengelig for de registrerte? [K01 s. 7–8]
 - [ ] Bruker leverandøren data til egne formål? Er dette i så fall regulert, informert om og lovlig? [K39 s. 18–20]
-- [ ] Er underdatabehandlere godkjent, med varslings- og innsigelsesordning, og videreført samme forpliktelser i hele kjeden? [K05 s. 5; K39 s. 53]
+- [ ] Er underdatabehandlere godkjent, med varsling og mulighet til å motsette seg endringer (art. 28 nr. 2), og videreført samme forpliktelser i hele kjeden? [K05 s. 5; K39 s. 53]
 - [ ] Er rollevurderingen dokumentert i protokoll (felles ansvarlige, databehandlere) og ev. DPIA? [K11; K39 s. 17]
 
 ## Se også

@@ -19,8 +19,8 @@ Praktisk veileder fra den franske tilsynsmyndigheten CNIL (28 sider, endelig ver
 
 ## Når skal agenten bruke denne kilden
 
-- Når en behandlingsansvarlig eller databehandler skal overføre personopplysninger til land utenfor EØS på grunnlag av et art. 46-verktøy (standardavtaler/SCC, BCR, atferdsnorm, sertifisering, ad hoc-klausuler) og trenger en TIA.
-- Når brukeren spør om TIA i det hele tatt er nødvendig (adekvansbeslutning, art. 49-unntak, intern fjerntilgang).
+- Når en behandlingsansvarlig eller databehandler skal overføre personopplysninger til land utenfor EØS på grunnlag av et art. 46-verktøy med nødvendige garantier (standard personvernbestemmelser – standardavtaler/SCC, bindende virksomhetsregler/BCR, atferdsnorm, sertifisering, ad hoc-klausuler) og trenger en TIA.
+- Når brukeren spør om TIA i det hele tatt er nødvendig (adekvansbeslutning – beslutning om tilstrekkelig beskyttelsesnivå etter art. 45 –, art. 49-unntak, intern fjerntilgang).
 - Ved gjennomgang av databehandleravtaler der leverandøren bruker underdatabehandlere utenfor EØS (hvem skal lage TIA, hva behandlingsansvarlig må kontrollere).
 - Ved valg av supplerende tiltak (pseudonymisering, kryptering, kontraktuelle forpliktelser, organisatoriske rutiner for innsynsbegjæringer fra myndigheter).
 - Ved oppfølging/revurdering av eksisterende overføringer.
@@ -407,7 +407,7 @@ Forutsetninger (2.1–2.5) → Er det overføring? → Adekvans/art. 49? (ja: in
 
 ## Kryssreferanser
 
-- GDPR: art. 4 nr. 1, 7 og 8 (definisjoner); art. 5, 6, 9, 10 (prinsipper og grunnlag); art. 13–14 (informasjon); art. 23 nr. 1 (legitime formål for begrensninger); art. 28 nr. 1 og nr. 3 bokstav h (databehandlers garantier og informasjonsplikt); art. 44 (generelt prinsipp), art. 45 (adekvans), art. 46 (garantier), art. 47 (BCR), art. 49 (unntak); art. 52–54 (uavhengighet); art. 87 (nasjonalt ID-nummer); fortalepunkt 101.
+- GDPR: art. 4 nr. 1, 7 og 8 (definisjoner); art. 5, 6, 9, 10 (prinsipper og grunnlag); art. 13–14 (informasjon); art. 23 nr. 1 (legitime formål for begrensninger); art. 28 nr. 1 og nr. 3 bokstav h (databehandlers garantier og informasjonsplikt); art. 44 (generelt prinsipp), art. 45 (beslutning om tilstrekkelig beskyttelsesnivå/adekvans), art. 46 (nødvendige garantier), art. 47 (BCR), art. 49 (unntak); art. 52–54 (uavhengighet); art. 87 (nasjonalt ID-nummer); fortalepunkt 101.
 - EDPB-dokumenter referert: Recommendations 01/2020 v2.0 (supplerende tiltak, vedlegg 2 og 3), Recommendations 02/2020 (European Essential Guarantees), Guidelines 05/2021 (art. 3 og kap. V), Guidelines 2/2018 (art. 49), Guidelines 07/2020 (roller), Opinion 22/2024 (databehandlere/underdatabehandlere), Guidelines 04/2021 og 07/2022 (atferdsnormer/sertifisering som overføringsverktøy); Kommisjonens SCC (beslutning 2021/914).
 - Andre kilder:
   - [K14](K14-dt-overforing-utenfor-eos.md) – Datatilsynets norske veiledning om overføring ut av EØS; bruk sammen med denne for norsk kontekst.

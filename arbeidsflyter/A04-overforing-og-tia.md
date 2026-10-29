@@ -32,21 +32,21 @@ Fagstoff: [T11](../temaer/T11-overforing-tredjeland-og-tia.md). Mal: [M06](../ma
 
 1. **Kartlegg dataflyten.** List alle overføringer i kjeden, inkl. fjerntilgang/support, underleverandører, videreoverføringer, nettsidetillegg og analyse-/markedsføringsverktøy [K14 s. 7; K38 s. 10]. Kontroller at de står i protokollen [K14 s. 7].
 
-2. **Er det en overføring?** Test EDPBs tre kumulative vilkår (eksportør underlagt GDPR; utlevering/tilgjengeliggjøring til annen rettslig enhet; importør i tredjeland/internasjonal organisasjon) [K14 s. 1; K38 s. 5–6]. Egen ansatt på reise = nei; konsernselskap/leverandør med fjerntilgang = ja [K38 s. 6]. Bruk M06 del A1.
+2. **Er det en overføring?** Test EDPBs tre kumulative vilkår (eksportør underlagt GDPR; utlevering/tilgjengeliggjøring til annen rettslig enhet; importør i tredjeland/internasjonal organisasjon) [K14 s. 1; K38 s. 5–6]; jf. [art. 44](../kilder/K43-gdpr-kap05-overforing-av-personopplysninger-til-tredjestater.md#art-44). Egen ansatt på reise = nei; konsernselskap/leverandør med fjerntilgang = ja [K38 s. 6]. Bruk M06 del A1.
 
-3. **Leverandør underlagt tredjelands lov med data i EØS?** Kjør Datatilsynets fire steg (kan overføring likevel skje → hvem er ansvarlig → garantier etter art. 28 nr. 1 → hva er avtalt). Se etter vage forbehold om utlevering/overføring for å oppfylle leverandørens rettslige forpliktelser – typisk holdepunkt for at tiltak trengs [K14 s. 9–10]. M06 del A6.
+3. **Leverandør underlagt tredjelands lov med data i EØS?** Kjør Datatilsynets fire steg (kan overføring likevel skje → hvem er ansvarlig → garantier etter [art. 28 nr. 1](../kilder/K43-gdpr-kap04-behandlingsansvarlig-og-databehandler.md#art-28) → hva er avtalt). Se etter vage forbehold om utlevering/overføring for å oppfylle leverandørens rettslige forpliktelser – typisk holdepunkt for at tiltak trengs [K14 s. 9–10]. M06 del A6.
 
 4. **Grunnlag for selve behandlingen.** Bekreft art. 6 (ev. 9/10), minimering, informasjon (art. 13–14) og vurder om anonymiserte data kan brukes i stedet [K38 s. 11]. Mangler → [A06](A06-vurdere-behandlingsgrunnlag.md).
 
-5. **Adekvans?** Sjekk mottakerlandet mot gjeldende liste og forbehold [K14 s. 2]:
+5. **Adekvans (beslutning om tilstrekkelig beskyttelsesnivå, [art. 45](../kilder/K43-gdpr-kap05-overforing-av-personopplysninger-til-tredjestater.md#art-45))?** Sjekk mottakerlandet mot gjeldende liste og forbehold [K14 s. 2]:
    - USA: er importøren DPF-sertifisert, og dekker sertifiseringen aktuelle data? **[Merknad – ikke fra kildene]** Verifiser aktuell status for DPF.
    - **Brasil:** K14 lister Brasil som adekvat, men et eksempel i samme kilde behandler Brasil som ikke-adekvat. Verifiser status på vurderingsdatoen før konklusjon; formuler betinget inntil verifisert.
    - Canada/Japan/Sør-Korea/Færøyene: kontroller at importøren faller inn under beslutningens omfang [K38 s. 6–7].
    Adekvans → dokumenter verifiseringen (kilde, dato) og gå til steg 11. Ingen TIA nødvendig [K38 s. 6].
 
-6. **Art. 46-grunnlag.** Velg/verifiser grunnlag: normalt SCC 2021/914 med riktig modul (1 BA→BA, 2 BA→DB, 3 DB→DB, 4 DB→BA) eller BCR [K14 s. 3–4]. Kontroller at SCC er uendret, vedleggene fylt ut, og at tilleggsklausuler ikke motsier SCC. Ved modul 2/3 dekkes art. 28 [K14 s. 4].
+6. **Art. 46-grunnlag (nødvendige garantier, [art. 46](../kilder/K43-gdpr-kap05-overforing-av-personopplysninger-til-tredjestater.md#art-46)).** Velg/verifiser grunnlag: normalt SCC 2021/914 (standard personvernbestemmelser, art. 46 nr. 2 c) med riktig modul (1 BA→BA, 2 BA→DB, 3 DB→DB, 4 DB→BA) eller BCR [K14 s. 3–4]. Kontroller at SCC er uendret, vedleggene fylt ut, og at tilleggsklausuler ikke motsier SCC. Ved modul 2/3 dekkes art. 28 [K14 s. 4].
 
-7. **Art. 49 bare som siste utvei.** Hvis verken adekvans eller art. 46 er mulig: vurder unntakene restriktivt (samtykke informert om risiko; avtale og rettskrav bare leilighetsvis; ikke samtykke/avtale for offentlig myndighetsutøvelse; annet ledd krever varsel til Datatilsynet og informasjon til de registrerte) [K14 s. 12–14]. Dokumenter vilkårene; ingen TIA.
+7. **Art. 49 bare som siste utvei ([art. 49](../kilder/K43-gdpr-kap05-overforing-av-personopplysninger-til-tredjestater.md#art-49)).** Hvis verken adekvans eller art. 46 er mulig: vurder unntakene restriktivt (uttrykkelig samtykke etter informasjon om risikoene; avtale og rettskrav bare leilighetsvis; ikke samtykke/avtale for offentlig myndighetsutøvelse; annet ledd krever varsel til Datatilsynet og informasjon til de registrerte) [K14 s. 12–14]. Dokumenter vilkårene; ingen TIA.
 
 8. **TIA – steg 1–3 (M06 del B–D).** Avklar hvem som gjør TIA-en (eksportøren; ved leverandør som eksportør: krev hele TIA-en med bevis og verifiser/komplettér) [K38 s. 8–9]. Beskriv overføringen (type tilgang, format, frekvens, kategorier, sårbarhet). Vurder lov og praksis: personvernlov og uavhengig tilsyn, rettigheter, rettsmidler, overvåkingslover/-praksis, de fem European Essential Guarantees, rettsstat, mottatte begjæringer [K38 s. 17–21]. Bruk kilder som er relevante, objektive, pålitelige, verifiserbare og tilgjengelige [K14 s. 8]. Skill inngrep fra krenkelse [K14 s. 7]. Konkluder (1) effektivt / (2) ikke effektivt / (3) ikke grunn til å tro at loven anvendes – (3) krever grundig dokumentasjon [K38 s. 21–22; K14 s. 15].
 
@@ -86,6 +86,6 @@ Fagstoff: [T11](../temaer/T11-overforing-tredjeland-og-tia.md). Mal: [M06](../ma
 - Leverandøren nekter å levere TIA-dokumentasjon, nekter SCC, eller har vide forbehold om utlevering → jurist (kan bety at leverandøren ikke kan brukes [K14 s. 10]).
 - Ønske om å endre SCC eller bruke ad hoc-klausuler/BCR → jurist (godkjenning kreves) [K14 s. 3–5].
 - Bruk av art. 49 annet ledd (krever varsel til Datatilsynet) → jurist og PVO.
-- Utleveringskrav fra utenlandsk domstol/myndighet (art. 48) → jurist umiddelbart [K14 s. 14].
+- Utleveringskrav fra utenlandsk domstol/myndighet ([art. 48](../kilder/K43-gdpr-kap05-overforing-av-personopplysninger-til-tredjestater.md#art-48)) → jurist umiddelbart [K14 s. 14].
 - Endret adekvansstatus (f.eks. DPF) som berører mange leverandører → jurist, PVO og ledelse.
 - Offentlig sektor eller helse med sektorspesifikke krav (taushetsplikt, arkiv, sikkerhetsloven) → jurist.
