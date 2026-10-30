@@ -219,6 +219,7 @@ DPIA er et «early warning system» som gir bedre beslutninger på implementerin
 ## Aktualitet og begrensninger
 
 - Skrevet i 2016, før GDPR fikk anvendelse (25.5.2018) og før WP248 (2017) og nasjonale DPIA-lister. Henvisninger til ICO- og CNIL-metoder gjelder versjonene fra 2014/2015.
+- **[Merknad – ikke fra kilden]** «Sperring» (tysk *Sperrung*, «blocking» i direktiv 95/46) tilsvarer i GDPR «rett til begrensning av behandling» ([art. 18](K43-gdpr-kap03-den-registrertes-rettigheter.md#art-18)). Bruk lovens begrep, se [BEGREPSBANK](../BEGREPSBANK.md).
 - Forskningsartikkel, ikke offisiell veiledning; standpunktene om at det ikke bør lages unntakslister etter art. 35 nr. 5, og at DPIA bør publiseres og revideres av uavhengig tredjepart, er forfatternes anbefalinger, ikke rettslige krav.
 - Tysk kontekst (ULD, AK Technik, BSI IT-Grundschutz). SDM er senere videreutviklet (se [K37](K37-sdm-standard-datavernmodell.md)).
 - Figurene (1–3) er ikke med i tekstutdraget; prosessbeskrivelsen er rekonstruert fra teksten.

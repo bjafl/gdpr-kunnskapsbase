@@ -13,7 +13,7 @@ relevans: høy
 
 # GDPR kapittel IV – Behandlingsansvarlig og databehandler (art. 24–43)
 
-[← Kap. III](K43-gdpr-kap03-den-registrertes-rettigheter.md) · [Oversikt K43](K43-gdpr.md) · [Kap. V →](K43-gdpr-kap05-overforing-av-personopplysninger-til-tredjestater.md)
+[← Kap. III](K43-gdpr-kap03-den-registrertes-rettigheter.md) · [Oversikt K43](K43-gdpr.md) · [Kap. V →](K43-gdpr-kap05-overforing-av-personopplysninger-til-tredjestater.md) · English: [K45 ch. IV](K45-gdpr-en-ch04-controller-and-processor.md)
 
 **Ordrett lovtekst:** norsk tekst av forordning (EU) 2016/679 slik den er inntatt i personopplysningsloven § 1 på Lovdata. Lenker er gjort om til ren tekst, og ordlyden er ikke endret.
 

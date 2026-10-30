@@ -13,7 +13,7 @@ relevans: høy
 
 # GDPR kapittel VIII – Rettsmidler, ansvar og sanksjoner (art. 77–84)
 
-[← Kap. VII](K43-gdpr-kap07-samarbeid-og-ensartet-anvendelse.md) · [Oversikt K43](K43-gdpr.md) · [Kap. IX →](K43-gdpr-kap09-bestemmelser-om-saerlige-behandlingssituasjoner.md)
+[← Kap. VII](K43-gdpr-kap07-samarbeid-og-ensartet-anvendelse.md) · [Oversikt K43](K43-gdpr.md) · [Kap. IX →](K43-gdpr-kap09-bestemmelser-om-saerlige-behandlingssituasjoner.md) · English: [K45 ch. VIII](K45-gdpr-en-ch08-remedies-liability-and-penalties.md)
 
 **Ordrett lovtekst:** norsk tekst av forordning (EU) 2016/679 slik den er inntatt i personopplysningsloven § 1 på Lovdata. Lenker er gjort om til ren tekst, og ordlyden er ikke endret.
 

@@ -13,7 +13,7 @@ relevans: høy
 
 # GDPR kapittel VI – Uavhengige tilsynsmyndigheter (art. 51–59)
 
-[← Kap. V](K43-gdpr-kap05-overforing-av-personopplysninger-til-tredjestater.md) · [Oversikt K43](K43-gdpr.md) · [Kap. VII →](K43-gdpr-kap07-samarbeid-og-ensartet-anvendelse.md)
+[← Kap. V](K43-gdpr-kap05-overforing-av-personopplysninger-til-tredjestater.md) · [Oversikt K43](K43-gdpr.md) · [Kap. VII →](K43-gdpr-kap07-samarbeid-og-ensartet-anvendelse.md) · English: [K45 ch. VI](K45-gdpr-en-ch06-independent-supervisory-authorities.md)
 
 **Ordrett lovtekst:** norsk tekst av forordning (EU) 2016/679 slik den er inntatt i personopplysningsloven § 1 på Lovdata. Lenker er gjort om til ren tekst, og ordlyden er ikke endret.
 

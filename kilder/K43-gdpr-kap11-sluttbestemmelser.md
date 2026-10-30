@@ -13,7 +13,7 @@ relevans: høy
 
 # GDPR kapittel XI – Sluttbestemmelser (art. 94–99)
 
-[← Kap. X](K43-gdpr-kap10-delegerte-rettsakter-og-gjennomforingsrettsakter.md) · [Oversikt K43](K43-gdpr.md)
+[← Kap. X](K43-gdpr-kap10-delegerte-rettsakter-og-gjennomforingsrettsakter.md) · [Oversikt K43](K43-gdpr.md) · English: [K45 ch. XI](K45-gdpr-en-ch11-final-provisions.md)
 
 **Ordrett lovtekst:** norsk tekst av forordning (EU) 2016/679 slik den er inntatt i personopplysningsloven § 1 på Lovdata. Lenker er gjort om til ren tekst, og ordlyden er ikke endret.
 

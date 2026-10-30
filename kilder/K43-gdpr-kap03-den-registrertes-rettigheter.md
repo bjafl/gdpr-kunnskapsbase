@@ -13,7 +13,7 @@ relevans: høy
 
 # GDPR kapittel III – Den registrertes rettigheter (art. 12–23)
 
-[← Kap. II](K43-gdpr-kap02-prinsipper.md) · [Oversikt K43](K43-gdpr.md) · [Kap. IV →](K43-gdpr-kap04-behandlingsansvarlig-og-databehandler.md)
+[← Kap. II](K43-gdpr-kap02-prinsipper.md) · [Oversikt K43](K43-gdpr.md) · [Kap. IV →](K43-gdpr-kap04-behandlingsansvarlig-og-databehandler.md) · English: [K45 ch. III](K45-gdpr-en-ch03-rights-of-the-data-subject.md)
 
 **Ordrett lovtekst:** norsk tekst av forordning (EU) 2016/679 slik den er inntatt i personopplysningsloven § 1 på Lovdata. Lenker er gjort om til ren tekst, og ordlyden er ikke endret.
 

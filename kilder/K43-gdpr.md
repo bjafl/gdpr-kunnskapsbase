@@ -27,6 +27,7 @@ Forordning (EU) 2016/679 i norsk språkdrakt, slik den gjelder som norsk lov ett
 - **Fortalepunkt N:** [K43-gdpr-fortale.md](K43-gdpr-fortale.md), anker `#fp-N` (`grep -n 'id="fp-26"' -A1 kilder/K43-gdpr-fortale.md`).
 - **Definisjoner:** artikkel 4 i [kapittel I](K43-gdpr-kap01-alminnelige-bestemmelser.md#art-4).
 - **Personopplysningsloven § N:** [K42](K42-personopplysningsloven.md), anker `#pN` (f.eks. `#p12a`).
+- **Engelsk tekst:** [K45](K45-gdpr-en.md) har samme ankre (`#art-28`, `#fp-47`). Lenke til engelsk kapittel står i navigasjonslinjen i hver fil.
 
 ## Filer per kapittel
 

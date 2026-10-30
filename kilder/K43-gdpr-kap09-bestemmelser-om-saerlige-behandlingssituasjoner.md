@@ -13,7 +13,7 @@ relevans: høy
 
 # GDPR kapittel IX – Bestemmelser om særlige behandlingssituasjoner (art. 85–91)
 
-[← Kap. VIII](K43-gdpr-kap08-rettsmidler-ansvar-og-sanksjoner.md) · [Oversikt K43](K43-gdpr.md) · [Kap. X →](K43-gdpr-kap10-delegerte-rettsakter-og-gjennomforingsrettsakter.md)
+[← Kap. VIII](K43-gdpr-kap08-rettsmidler-ansvar-og-sanksjoner.md) · [Oversikt K43](K43-gdpr.md) · [Kap. X →](K43-gdpr-kap10-delegerte-rettsakter-og-gjennomforingsrettsakter.md) · English: [K45 ch. IX](K45-gdpr-en-ch09-provisions-relating-to-specific-processing-situations.md)
 
 **Ordrett lovtekst:** norsk tekst av forordning (EU) 2016/679 slik den er inntatt i personopplysningsloven § 1 på Lovdata. Lenker er gjort om til ren tekst, og ordlyden er ikke endret.
 

@@ -2,7 +2,7 @@
 
 Kunnskapsbase for en AI-agent som skal slå opp i personvernregelverket og bistå med **databehandleravtaler (DPA)**, **vurderinger av personvernkonsekvenser (DPIA)**, **risikovurderinger**, **overføringsvurderinger (TIA)**, **protokoll** og **avvikshåndtering**.
 
-Basen er bygget fra 43 dokumenter i `../ressurser/` fra Datatilsynet, Digdir, DFØ, NSM, Artikkel 29-gruppen/EDPB, CNIL og ULD Schleswig-Holstein, pluss ordrett lovtekst av personopplysningsloven og GDPR fra Lovdata ([K42](kilder/K42-personopplysningsloven.md), [K43](kilder/K43-gdpr.md)) og ekomloven § 3-15 om informasjonskapsler ([K44](kilder/K44-ekomloven-3-15.md)). Alt er skrevet på norsk bokmål.
+Basen er bygget fra 43 dokumenter i `../ressurser/` fra Datatilsynet, Digdir, DFØ, NSM, Artikkel 29-gruppen/EDPB, CNIL og ULD Schleswig-Holstein, pluss ordrett lovtekst av personopplysningsloven og GDPR fra Lovdata ([K42](kilder/K42-personopplysningsloven.md), [K43](kilder/K43-gdpr.md)) og ekomloven § 3-15 om informasjonskapsler ([K44](kilder/K44-ekomloven-3-15.md)). Den offisielle engelske GDPR-teksten ligger i [K45](kilder/K45-gdpr-en.md). Alt er skrevet på norsk bokmål.
 
 ---
 
@@ -52,7 +52,7 @@ Med Grep finner du raskt fram i hele basen: `grep -ril "underdatabehandler" gdpr
 | **Apper, SDK-er**, sporing, cookies | [T15](temaer/T15-apper-sdk-og-sporingsteknologi.md) | – | [K39](kilder/K39-cnil-mobilapper.md), [K31](kilder/K31-cnil-pia-tilkoblede-objekter.md) |
 | **Hvilket tilsyn** har ansvaret (grenseoverskridende behandling)? | [T14](temaer/T14-tilsynsmyndighet-og-one-stop-shop.md) | – | [K27](kilder/K27-wp244-ledende-tilsynsmyndighet.md) |
 | **Revisjon** / internkontroll av personvern | [T08](temaer/T08-informasjonssikkerhet-art32.md) | [M09](maler/M09-sikkerhetstiltak-sjekkliste.md) | [K35](kilder/K35-cnil-referentiel-audit.md), [K16](kilder/K16-dfo-veileder-informasjonssikkerhet.md), [K18](kilder/K18-digdir-retningslinje-risiko.md) |
-| **Hva står det i** art. X / fortalepunkt Y / popplyl. § Z? (ordlyd, definisjoner) | [K43](kilder/K43-gdpr.md) (tabell: artikkel → fil) | – | [K43 fortale](kilder/K43-gdpr-fortale.md), [K42](kilder/K42-personopplysningsloven.md), art. 4 definisjoner i [K43 kap. I](kilder/K43-gdpr-kap01-alminnelige-bestemmelser.md#art-4) |
+| **Hva står det i** art. X / fortalepunkt Y / popplyl. § Z? (ordlyd, definisjoner) | [K43](kilder/K43-gdpr.md) (tabell: artikkel → fil) | – | [K43 fortale](kilder/K43-gdpr-fortale.md), [K42](kilder/K42-personopplysningsloven.md), art. 4 definisjoner i [K43 kap. I](kilder/K43-gdpr-kap01-alminnelige-bestemmelser.md#art-4), engelsk ordlyd i [K45](kilder/K45-gdpr-en.md) (samme ankre) |
 
 ---
 
@@ -151,6 +151,7 @@ Med Grep finner du raskt fram i hele basen: `grep -ril "underdatabehandler" gdpr
 | [K42](kilder/K42-personopplysningsloven.md) | Personopplysningsloven, ordrett lovtekst (§ 1–34) | Lovdata | høy |
 | [K43](kilder/K43-gdpr.md) | GDPR, ordrett norsk lovtekst: fortale + ett notat per kapittel (oversikt i K43-gdpr.md) | Lovdata | høy |
 | [K44](kilder/K44-ekomloven-3-15.md) | Ekomloven § 3-15 (informasjonskapsler), ordrett lovtekst | Lovdata | høy |
+| [K45](kilder/K45-gdpr-en.md) | GDPR, offisiell engelsk tekst (med rettelsen fra 2018), samme oppdeling og ankre som K43 | EUR-Lex | høy |
 
 Formatet for hver filtype står i [_KONVENSJONER.md](_KONVENSJONER.md).
 
@@ -158,9 +159,10 @@ Formatet for hver filtype står i [_KONVENSJONER.md](_KONVENSJONER.md).
 
 ## Vedlikehold
 
-- **Ny kilde:** Legg filen i `ressurser/` og skriv et kildenotat `kilder/K45-….md` etter formatet i `_KONVENSJONER.md`. Oppdater deretter berørte temanotater og tabellen over.
+- **Ny kilde:** Legg filen i `ressurser/` og skriv et kildenotat `kilder/K46-….md` etter formatet i `_KONVENSJONER.md`. Oppdater deretter berørte temanotater og tabellen over.
 - **Artikkelindeksen** genereres på nytt fra frontmatter (`gdpr_artikler`). Skriptet ligger i [_verktoy/build_index.py](_verktoy/build_index.py): `python _verktoy/build_index.py .`
 - **Begrepsbanken** genereres og verifiseres mot norsk og offisiell engelsk lovtekst: `python3 -I _verktoy/begrepsbank/build_begrepsbank.py`. Nye begreper legger du inn i `_verktoy/begrepsbank/begreper.py`. Skriptet stopper hvis et begrep ikke står i den angitte hjemmelen. Kjør det på nytt etter oppdatering av K42/K43.
-- **Lovteksten (K42/K43)** skal ikke redigeres for hånd. Slik oppdaterer du den fra Lovdata:
+- **Lovteksten (K42–K45)** skal ikke redigeres for hånd. Slik oppdaterer du den fra Lovdata:
   `curl -sL -A "Mozilla/5.0" -o /tmp/popplyl.html 'https://lovdata.no/dokument/NL/lov/2018-06-15-38/*'` (stjernen på slutten gir hele teksten), deretter `python3 -I _verktoy/lovdata/build_kilder.py /tmp/popplyl.html kilder` og til slutt `python _verktoy/build_index.py .`. Skriptet stopper med feil hvis kildeteksten i Markdown ikke er tegnlik med HTML-en. Oppdater datoen i KJENTE-MOTSTRIDER.md. Ekomloven § 3-15 (K44): hent `https://lovdata.no/dokument/NL/lov/2024-12-13-76/*` på samme måte og kjør `python3 -I _verktoy/lovdata/build_ekom.py <html> kilder`.
+- **Engelsk GDPR (K45):** lagre den konsoliderte teksten (`https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R0679-20160504`) og OJ-teksten (`…?uri=CELEX:32016R0679`) fra nettleseren (HTML eller Safari-webarkiv; EUR-Lex blokkerer automatisk nedlasting), hent rettelsen med `curl -sL -H 'Accept: application/xhtml+xml' -H 'Accept-Language: eng' -o /tmp/corr.xhtml 'https://publications.europa.eu/resource/celex/32016R0679R(02)'`, og kjør `python3 -I _verktoy/eurlex/build_gdpr_en.py <konsolidert> <oj> /tmp/corr.xhtml kilder`. Kjør deretter `build_kilder.py` på nytt (lenkene til engelsk i K43) og begrepsbanken. Ved en ny konsolidert versjon: oppdater CELEX-nummeret i skriptet.
 - **Datatilsynet-PDF-ene** i `ressurser/Datatilsynet/` har ødelagt tekstlag (Type 3-fonter). De er derfor lest visuelt. Bruk nettadressen i frontmatter til kildenotatet hvis noe må kontrolleres.

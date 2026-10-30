@@ -13,7 +13,7 @@ relevans: høy
 
 # GDPR kapittel VII – Samarbeid og ensartet anvendelse (art. 60–76)
 
-[← Kap. VI](K43-gdpr-kap06-uavhengige-tilsynsmyndigheter.md) · [Oversikt K43](K43-gdpr.md) · [Kap. VIII →](K43-gdpr-kap08-rettsmidler-ansvar-og-sanksjoner.md)
+[← Kap. VI](K43-gdpr-kap06-uavhengige-tilsynsmyndigheter.md) · [Oversikt K43](K43-gdpr.md) · [Kap. VIII →](K43-gdpr-kap08-rettsmidler-ansvar-og-sanksjoner.md) · English: [K45 ch. VII](K45-gdpr-en-ch07-cooperation-and-consistency.md)
 
 **Ordrett lovtekst:** norsk tekst av forordning (EU) 2016/679 slik den er inntatt i personopplysningsloven § 1 på Lovdata. Lenker er gjort om til ren tekst, og ordlyden er ikke endret.
 

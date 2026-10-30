@@ -152,7 +152,12 @@ def main(html_path, outdir, hentet):
         labels = ["Fortale"] + [f"Kap. {ROMAN[c[0] - 1]}" for c in chapter_info]
         prev = f"[← {labels[idx - 1]}]({names[idx - 1]})" if idx > 0 else ""
         nxt = f"[{labels[idx + 1]} →]({names[idx + 1]})" if idx + 1 < len(names) else ""
-        return " · ".join(x for x in (prev, "[Oversikt K43](K43-gdpr.md)", nxt) if x)
+        # Engelsk tekst (K45, se _verktoy/eurlex/build_gdpr_en.py) med samme ankre, hvis den finnes
+        en = (["K45-gdpr-en-recitals.md"] if (outdir / "K45-gdpr-en-recitals.md").exists() else [None]) + [
+            next(iter(sorted(outdir.glob(f"K45-gdpr-en-ch{c[0]:02d}-*.md"))), None) for c in chapter_info
+        ]
+        eng = f"English: [K45 {'recitals' if idx == 0 else 'ch. ' + ROMAN[idx - 1]}]({Path(en[idx]).name})" if en[idx] else ""
+        return " · ".join(x for x in (prev, "[Oversikt K43](K43-gdpr.md)", nxt, eng) if x)
 
     gdpr_intro_common = (
         "**Ordrett lovtekst:** norsk tekst av forordning (EU) 2016/679 slik den er inntatt i "
@@ -251,6 +256,7 @@ Forordning (EU) 2016/679 i norsk språkdrakt, slik den gjelder som norsk lov ett
 - **Fortalepunkt N:** [K43-gdpr-fortale.md](K43-gdpr-fortale.md), anker `#fp-N` (`grep -n 'id="fp-26"' -A1 kilder/K43-gdpr-fortale.md`).
 - **Definisjoner:** artikkel 4 i [kapittel I]({chapter_info[0][2]}#art-4).
 - **Personopplysningsloven § N:** [K42](K42-personopplysningsloven.md), anker `#pN` (f.eks. `#p12a`).
+- **Engelsk tekst:** [K45](K45-gdpr-en.md) har samme ankre (`#art-28`, `#fp-47`). Lenke til engelsk kapittel står i navigasjonslinjen i hver fil.
 
 ## Filer per kapittel
 

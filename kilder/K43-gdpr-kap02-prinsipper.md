@@ -13,7 +13,7 @@ relevans: høy
 
 # GDPR kapittel II – Prinsipper (art. 5–11)
 
-[← Kap. I](K43-gdpr-kap01-alminnelige-bestemmelser.md) · [Oversikt K43](K43-gdpr.md) · [Kap. III →](K43-gdpr-kap03-den-registrertes-rettigheter.md)
+[← Kap. I](K43-gdpr-kap01-alminnelige-bestemmelser.md) · [Oversikt K43](K43-gdpr.md) · [Kap. III →](K43-gdpr-kap03-den-registrertes-rettigheter.md) · English: [K45 ch. II](K45-gdpr-en-ch02-principles.md)
 
 **Ordrett lovtekst:** norsk tekst av forordning (EU) 2016/679 slik den er inntatt i personopplysningsloven § 1 på Lovdata. Lenker er gjort om til ren tekst, og ordlyden er ikke endret.
 

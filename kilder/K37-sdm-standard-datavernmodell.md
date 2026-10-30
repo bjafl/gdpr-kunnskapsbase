@@ -290,6 +290,7 @@ Katalogen skal bli en integrert del av SDM, men revideres i kortere sykluser i t
 ## Aktualitet og begrensninger
 
 - **[Merknad – ikke fra kilden]** Versjon 1.0 (prøveversjon, 2016; engelsk 2017) er **erstattet av nyere versjoner**: SDM v2.0 (2019/2020, tilpasset GDPR) og **v3.0 (2022)** og senere oppdateringer (v3.1), med publisert **referansetiltakskatalog i moduler (Bausteine)**, bl.a. for sletting, logging, dokumentasjon, separasjon, planlegging/spesifikasjon, rettigheter for registrerte m.m. Ved praktisk bruk bør gjeldende versjon på datenschutzzentrum.de / datenschutzkonferenz-online.de benyttes. Nyere versjoner har også en mer GDPR-basert risikomodell i stedet for primært «inngrepsintensitet».
+- **[Merknad – ikke fra kilden]** «Sperring» (tysk *Sperrung*, «blocking» i direktiv 95/46) tilsvarer i GDPR «rett til begrensning av behandling» ([art. 18](K43-gdpr-kap03-den-registrertes-rettigheter.md#art-18)). Bruk lovens begrep, se [BEGREPSBANK](../BEGREPSBANK.md).
 - Mange henvisninger gjelder **tysk rett før 2018** (gamle BDSG §§ 3a, 4, 9 med vedlegg, delstatslover, tabell 1–2) og direktiv 95/46; disse er historiske.
 - Beskyttelsesnivåene (normal/høy/svært høy) bygger på BSI IT-Grundschutz' kategorier. **[Merknad – ikke fra kilden]** GDPR og EDPB bruker i stedet risikovurdering (sannsynlighet × alvorlighet for de registrerte) og terskelen «høy risiko» for DPIA; SDM-nivåene kan brukes som støtte, men erstatter ikke GDPR-risikovurderingen.
 - Selve referansetiltakskatalogen (kap. 12) er ikke med i dette dokumentet; tiltakene i kap. 7 er generiske.

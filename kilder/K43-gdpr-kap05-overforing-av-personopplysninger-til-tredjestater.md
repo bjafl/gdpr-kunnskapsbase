@@ -13,7 +13,7 @@ relevans: høy
 
 # GDPR kapittel V – Overføring av personopplysninger til tredjestater eller internasjonale organisasjoner (art. 44–50)
 
-[← Kap. IV](K43-gdpr-kap04-behandlingsansvarlig-og-databehandler.md) · [Oversikt K43](K43-gdpr.md) · [Kap. VI →](K43-gdpr-kap06-uavhengige-tilsynsmyndigheter.md)
+[← Kap. IV](K43-gdpr-kap04-behandlingsansvarlig-og-databehandler.md) · [Oversikt K43](K43-gdpr.md) · [Kap. VI →](K43-gdpr-kap06-uavhengige-tilsynsmyndigheter.md) · English: [K45 ch. V](K45-gdpr-en-ch05-transfers-of-personal-data-to-third-countries-or-international-organisations.md)
 
 **Ordrett lovtekst:** norsk tekst av forordning (EU) 2016/679 slik den er inntatt i personopplysningsloven § 1 på Lovdata. Lenker er gjort om til ren tekst, og ordlyden er ikke endret.
 

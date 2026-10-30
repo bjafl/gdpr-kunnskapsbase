@@ -5,7 +5,7 @@ Autoritativ ordliste over personvernbegreper. Hvert begrep er knyttet til hjemme
 **Kilder**
 
 - Norsk: GDPR slik den er inntatt i personopplysningsloven § 1, og personopplysningsloven, begge fra Lovdata (se K42/K43).
-- Engelsk: Regulation (EU) 2016/679, OJ L 119, 4.5.2016, s. 1–88 (ELI: <http://data.europa.eu/eli/reg/2016/679/oj>), hentet fra EUs publikasjonskontor (Cellar, CELEX 32016R0679) 2026-10-29. Rettelsen i OJ L 127, 23.5.2018, er ikke innarbeidet i denne utgaven.
+- Engelsk: Regulation (EU) 2016/679, OJ L 119, 4.5.2016 (ELI: <http://data.europa.eu/eli/reg/2016/679/oj>), med rettelsen i OJ L 127, 23.5.2018, slik den står i [K45](kilder/K45-gdpr-en.md) (artikler fra EUR-Lex' konsoliderte tekst, fortale fra EU-tidende). Den norske teksten på Lovdata følger også den rettede ordlyden.
 - Personopplysningsloven har ingen offisiell engelsk tekst. Norske lovbegreper står derfor uten engelsk motsvar.
 
 **Bruk**
@@ -156,11 +156,13 @@ Definisjonene er ordrett fra [art. 4](kilder/K43-gdpr-kap01-alminnelige-bestemme
 | **høy risiko** | high risk | [art. 35 nr. 1](kilder/K43-gdpr-kap04-behandlingsansvarlig-og-databehandler.md#art-35) |  |
 | **systematisk overvåking** | systematic monitoring | [art. 35 nr. 3 bokstav c](kilder/K43-gdpr-kap04-behandlingsansvarlig-og-databehandler.md#art-35) |  |
 | **forhåndsdrøftinger** | prior consultation | [art. 36](kilder/K43-gdpr-kap04-behandlingsansvarlig-og-databehandler.md#art-36) |  |
-| **personvernombud** | data protection officer | [art. 37](kilder/K43-gdpr-kap04-behandlingsansvarlig-og-databehandler.md#art-37) | Praksis: DPO. |
+| **personvernombud** | data protection officer | [art. 37](kilder/K43-gdpr-kap04-behandlingsansvarlig-og-databehandler.md#art-37) | Praksis: DPO. Art. 37 nr. 1 bokstav c har «eller» (engelsk «or», rettet fra «and» ved OJ L 127, 23.5.2018). |
 | **atferdsnormer** | codes of conduct | [art. 40](kilder/K43-gdpr-kap04-behandlingsansvarlig-og-databehandler.md#art-40) |  |
 | **sertifisering** | certification | [art. 42](kilder/K43-gdpr-kap04-behandlingsansvarlig-og-databehandler.md#art-42) |  |
 | **personvernsegl og -merker** | data protection seals and marks | [art. 42 nr. 1](kilder/K43-gdpr-kap04-behandlingsansvarlig-og-databehandler.md#art-42) |  |
 | **sertifiseringsorganer** | certification bodies | [art. 43](kilder/K43-gdpr-kap04-behandlingsansvarlig-og-databehandler.md#art-43) |  |
+| **kriterier for sertifisering** | criteria for the certification | [art. 42 nr. 7](kilder/K43-gdpr-kap04-behandlingsansvarlig-og-databehandler.md#art-42) | Gjelder sertifiseringen (art. 42 nr. 5). Ikke bland med krav for akkreditering. Engelsk tekst rettet ved OJ L 127, 23.5.2018. |
+| **krav for akkreditering** | requirements for accreditation | [art. 41 nr. 3](kilder/K43-gdpr-kap04-behandlingsansvarlig-og-databehandler.md#art-41) | Gjelder organet som akkrediteres (art. 41 og 43). Engelsk «criteria» rettet til «requirements» ved OJ L 127, 23.5.2018. Norsk tekst følger rettelsen. |
 
 ### 2.8 Overføring til tredjestater (art. 44–50)
 
@@ -233,20 +235,25 @@ Begreper som er vanlige i veiledere og praksis, men som ikke er lovens ord, elle
 | DPIA, personvernkonsekvensvurdering | **vurdering av personvernkonsekvenser** | data protection impact assessment | [art. 35](kilder/K43-gdpr-kap04-behandlingsansvarlig-og-databehandler.md#art-35) |
 | DPO | **personvernombud** | data protection officer | [art. 37](kilder/K43-gdpr-kap04-behandlingsansvarlig-og-databehandler.md#art-37) |
 | databehandleravtale (DPA) | **avtale eller et annet rettslig dokument** | contract or other legal act | [art. 28 nr. 3](kilder/K43-gdpr-kap04-behandlingsansvarlig-og-databehandler.md#art-28) |
-| underdatabehandler | **annen databehandler** | another processor | [art. 28 nr. 2](kilder/K43-gdpr-kap04-behandlingsansvarlig-og-databehandler.md#art-28) |
+| underdatabehandler, underleverandør (om databehandler) | **annen databehandler** | another processor | [art. 28 nr. 2](kilder/K43-gdpr-kap04-behandlingsansvarlig-og-databehandler.md#art-28) |
+| innsigelse(srett) mot ny underdatabehandler | **motsette seg** | object to such changes | [art. 28 nr. 2](kilder/K43-gdpr-kap04-behandlingsansvarlig-og-databehandler.md#art-28) |
 | adekvansbeslutning | **beslutning om tilstrekkelig beskyttelsesnivå** | adequacy decision | [art. 45](kilder/K43-gdpr-kap05-overforing-av-personopplysninger-til-tredjestater.md#art-45) |
 | tredjeland | **tredjestat** | third country | [art. 44](kilder/K43-gdpr-kap05-overforing-av-personopplysninger-til-tredjestater.md#art-44) |
 | SCC, standardkontraktsklausuler, standardavtaler | **standard personvernbestemmelser** | standard data protection clauses | [art. 46 nr. 2 bokstav c](kilder/K43-gdpr-kap05-overforing-av-personopplysninger-til-tredjestater.md#art-46) |
 | BCR | **bindende virksomhetsregler** | binding corporate rules | [art. 47](kilder/K43-gdpr-kap05-overforing-av-personopplysninger-til-tredjestater.md#art-47) |
 | sensitive personopplysninger | **særlige kategorier av personopplysninger** | special categories of personal data | [art. 9](kilder/K43-gdpr-kap02-prinsipper.md#art-9) |
 | behandlingsgrunnlag | **behandlingens lovlighet** | lawfulness of processing | [art. 6](kilder/K43-gdpr-kap02-prinsipper.md#art-6) |
-| berettiget interesse | **berettigede interesser** | legitimate interests | [art. 6 nr. 1 bokstav f](kilder/K43-gdpr-kap02-prinsipper.md#art-6) |
+| berettiget interesse, legitim interesse | **berettigede interesser** | legitimate interests | [art. 6 nr. 1 bokstav f](kilder/K43-gdpr-kap02-prinsipper.md#art-6) |
+| legitime formål | **berettigede formål** | legitimate purposes | [art. 5 nr. 1 bokstav b](kilder/K43-gdpr-kap02-prinsipper.md#art-5) |
+| ansvarlighet, ansvarlighetsprinsippet | **ansvar** | accountability | [art. 5 nr. 2](kilder/K43-gdpr-kap02-prinsipper.md#art-5) |
 | protest, innsigelse (om art. 21) | **rett til å protestere** | right to object | [art. 21](kilder/K43-gdpr-kap03-den-registrertes-rettigheter.md#art-21) |
 | bot, bøter | **overtredelsesgebyr** | administrative fines | [art. 83](kilder/K43-gdpr-kap08-rettsmidler-ansvar-og-sanksjoner.md#art-83) |
 | personvern som standard | **personvern som standardinnstilling** | data protection by default | [art. 25 nr. 2](kilder/K43-gdpr-kap04-behandlingsansvarlig-og-databehandler.md#art-25) |
 | forhåndskonsultasjon | **forhåndsdrøftinger** | prior consultation | [art. 36](kilder/K43-gdpr-kap04-behandlingsansvarlig-og-databehandler.md#art-36) |
 | behandlingsprotokoll, protokoll | **protokoller over behandlingsaktiviteter** | records of processing activities | [art. 30](kilder/K43-gdpr-kap04-behandlingsansvarlig-og-databehandler.md#art-30) |
 | EDPB | **Det europeiske personvernråd** | European Data Protection Board | [art. 68](kilder/K43-gdpr-kap07-samarbeid-og-ensartet-anvendelse.md#art-68) |
+| bransjenorm | **atferdsnormer** | codes of conduct | [art. 40](kilder/K43-gdpr-kap04-behandlingsansvarlig-og-databehandler.md#art-40) |
+| sperring (eldre begrep fra direktiv 95/46 og tysk rett) | **begrensning av behandling** | restriction of processing | [art. 18](kilder/K43-gdpr-kap03-den-registrertes-rettigheter.md#art-18) |
 | informasjonsplikt, personvernerklæring | **informasjon som skal gis** | information to be provided | [art. 13](kilder/K43-gdpr-kap03-den-registrertes-rettigheter.md#art-13) |
 | one-stop-shop | **ledende tilsynsmyndighet (jf. «ettstedsmekanismen», fortalepunkt 127)** | lead supervisory authority | [art. 56](kilder/K43-gdpr-kap06-uavhengige-tilsynsmyndigheter.md#art-56) |
 
@@ -282,6 +289,7 @@ Begreper som er vanlige i veiledere og praksis, men som ikke er lovens ord, elle
 | controller | behandlingsansvarlig |
 | cookie identifiers | informasjonskapsler |
 | cooperation with the supervisory authority | samarbeid med tilsynsmyndigheten |
+| criteria for the certification | kriterier for sertifisering |
 | cross-border processing | grenseoverskridende behandling |
 | data concerning health | helseopplysninger |
 | data minimisation | dataminimering |
@@ -351,6 +359,7 @@ Begreper som er vanlige i veiledere og praksis, men som ikke er lovens ord, elle
 | relevant and reasoned objection | relevant og begrunnet innsigelse |
 | representation of data subjects | representasjon av registrerte |
 | representative | representant |
+| requirements for accreditation | krav for akkreditering |
 | responsibility of the controller | den behandlingsansvarliges ansvar |
 | restriction of processing | begrensning av behandling |
 | restrictions | begrensninger |

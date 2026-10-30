@@ -13,7 +13,7 @@ relevans: høy
 
 # GDPR – innledning og fortale
 
-[Oversikt K43](K43-gdpr.md) · [Kap. I →](K43-gdpr-kap01-alminnelige-bestemmelser.md)
+[Oversikt K43](K43-gdpr.md) · [Kap. I →](K43-gdpr-kap01-alminnelige-bestemmelser.md) · English: [K45 recitals](K45-gdpr-en-recitals.md)
 
 **Ordrett lovtekst:** norsk tekst av forordning (EU) 2016/679 slik den er inntatt i personopplysningsloven § 1 på Lovdata. Lenker er gjort om til ren tekst, og ordlyden er ikke endret.
 

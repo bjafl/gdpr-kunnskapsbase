@@ -6,7 +6,7 @@ Denne filen beskriver hvordan kunnskapsbasen er bygget opp og hvordan nye notate
 
 | Mappe | Innhold |
 |---|---|
-| `kilder/` | Ett notat per kildedokument i `ressurser/`. Tro mot kilden, detaljert, med sidehenvisninger. ID `K01`–`K44`. Unntak: K42–K44 er ordrett lovtekst (se under). |
+| `kilder/` | Ett notat per kildedokument i `ressurser/`. Tro mot kilden, detaljert, med sidehenvisninger. ID `K01`–`K45`. Unntak: K42–K45 er ordrett lovtekst (se under). |
 | `temaer/` | Tematiske synteser på tvers av kilder (f.eks. behandlingsgrunnlag, DPIA, overføring). Viser til `K`-notater. |
 | `maler/` | Utfyllbare maler og sjekklister (DPIA, databehandleravtale, TIA, risikovurdering, protokoll). |
 | `arbeidsflyter/` | Steg-for-steg prosedyrer for agenten (hvordan gjennomføre/kvalitetssikre en DPIA, DPA-gjennomgang osv.). |
@@ -63,15 +63,15 @@ Er kilden utdatert/erstattet? Bygger den på direktiv 95/46? Gjelder den bare Fr
 Egne tilføyelser som ikke står i kilden markeres: **[Merknad – ikke fra kilden]**.
 ```
 
-## Lovtekst (`type: lov`, K42–K44)
+## Lovtekst (`type: lov`, K42–K45)
 
-K42, K43 og K44 er ikke notater, men **ordrett lovtekst** fra Lovdata. De følger ikke notatformatet over.
+K42, K43 og K44 er ikke notater, men **ordrett lovtekst** fra Lovdata. K45 er den offisielle engelske GDPR-teksten, ordrett fra EUR-Lex. De følger ikke notatformatet over.
 
 - Alt mellom `<!-- KILDETEKST START … -->` og `<!-- KILDETEKST SLUTT -->` er ordrett kildetekst. **Teksten der skal ikke redigeres for hånd.** Bare formateringen er endret: overskrifter, lister, fotnoter og lenker gjort om til ren tekst.
 - Over markøren står frontmatter, navigasjon og oppslagshjelp, som er redaksjonelt.
-- Ankre: `#p12a` (popplyl. § 12 a), `#p3-15` (ekomloven § 3-15 i K44), `#art-28` (GDPR art. 28) og `#fp-26` (fortalepunkt 26).
+- Ankre: `#p12a` (popplyl. § 12 a), `#p3-15` (ekomloven § 3-15 i K44), `#art-28` (GDPR art. 28) og `#fp-26` (fortalepunkt 26). K45 har de samme `#art-`/`#fp-`-ankrene som K43.
 - GDPR er delt i én fil per kapittel. Hver fil har `gdpr_artikler` i frontmatter, slik at [INDEKS-artikler.md](INDEKS-artikler.md) lenker hver artikkel til riktig fil.
-- Henvis slik: «GDPR art. 28 nr. 3 bokstav a [K43]», «popplyl. § 16 [K42]», «ekomloven § 3-15 [K44]».
+- Henvis slik: «GDPR art. 28 nr. 3 bokstav a [K43]», «popplyl. § 16 [K42]», «ekomloven § 3-15 [K44]», «GDPR art. 28(3)(a) (EN) [K45]».
 
 ## Format for temanotater (`temaer/Txx-*.md`)
 
@@ -164,3 +164,4 @@ Kildehierarki ved motstrid: GDPR/lov > EDPB/WP29-retningslinjer > Datatilsynet (
 | K42 | K42-personopplysningsloven.md | https://lovdata.no/dokument/NL/lov/2018-06-15-38/* (norsk del) |
 | K43 | K43-gdpr.md (oversikt), K43-gdpr-fortale.md, K43-gdpr-kap01…kap11-*.md | https://lovdata.no/dokument/NL/lov/2018-06-15-38/* (forordningen) |
 | K44 | K44-ekomloven-3-15.md | https://lovdata.no/dokument/NL/lov/2024-12-13-76/* (kun § 3-15) |
+| K45 | K45-gdpr-en.md (oversikt), K45-gdpr-en-recitals.md, K45-gdpr-en-ch01…ch11-*.md | EUR-Lex CELEX 02016R0679-20160504 (artikler, med rettelse OJ L 127/2018) og 32016R0679 (fortale) |

@@ -13,7 +13,7 @@ relevans: høy
 
 # GDPR kapittel I – Alminnelige bestemmelser (art. 1–4)
 
-[← Fortale](K43-gdpr-fortale.md) · [Oversikt K43](K43-gdpr.md) · [Kap. II →](K43-gdpr-kap02-prinsipper.md)
+[← Fortale](K43-gdpr-fortale.md) · [Oversikt K43](K43-gdpr.md) · [Kap. II →](K43-gdpr-kap02-prinsipper.md) · English: [K45 ch. I](K45-gdpr-en-ch01-general-provisions.md)
 
 **Ordrett lovtekst:** norsk tekst av forordning (EU) 2016/679 slik den er inntatt i personopplysningsloven § 1 på Lovdata. Lenker er gjort om til ren tekst, og ordlyden er ikke endret.
 

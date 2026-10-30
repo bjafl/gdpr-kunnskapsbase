@@ -1,11 +1,11 @@
 #!/usr/bin/env python3
 """Bygg BEGREPSBANK.md og verifiser hvert begrep mot lovteksten.
 
-    python3 -I _verktoy/begrepsbank/build_begrepsbank.py [gdpr-en.xhtml]
+    python3 -I _verktoy/begrepsbank/build_begrepsbank.py
 
 Norsk tekst: kilder/K43-*.md (GDPR) og kilder/K42-*.md (personopplysningsloven).
-Engelsk tekst: offisiell utgave av forordning (EU) 2016/679 fra EUs publikasjonskontor
-(Cellar, CELEX 32016R0679). Hentes automatisk hvis fil ikke oppgis.
+Engelsk tekst: kilder/K45-gdpr-en-*.md, offisiell engelsk tekst fra EUR-Lex med rettelsen
+i OJ L 127, 23.5.2018 (se _verktoy/eurlex/build_gdpr_en.py).
 
 Hvert norsk begrep må stå i angitt artikkel/fortalepunkt/paragraf i K43/K42, og
 hvert engelske begrep i SAMME enhet i den engelske teksten. Ellers stopper skriptet.
@@ -13,18 +13,13 @@ Definisjonene i art. 4 hentes punkt for punkt fra begge tekstene.
 """
 import re
 import sys
-import urllib.request
-from datetime import date
 from pathlib import Path
-
-from bs4 import BeautifulSoup
 
 sys.path.insert(0, str(Path(__file__).parent))
 from begreper import KATEGORIER, PRAKSIS  # noqa: E402
 
 ROOT = Path(__file__).resolve().parents[2]
 KILDER = ROOT / "kilder"
-CELLAR = "https://publications.europa.eu/resource/celex/32016R0679"
 ELI = "http://data.europa.eu/eli/reg/2016/679/oj"
 
 
@@ -54,14 +49,19 @@ NB_FP = _units((KILDER / "K43-gdpr-fortale.md").read_text(encoding="utf-8"), "fp
 NB_PAR = _units((KILDER / "K42-personopplysningsloven.md").read_text(encoding="utf-8"), "p")
 
 
-# --- Engelsk tekst (EU-tidende) -------------------------------------------
+# --- Engelsk tekst (K45) --------------------------------------------------
 
-def load_en(path):
-    if path:
-        return Path(path).read_text(encoding="utf-8")
-    req = urllib.request.Request(CELLAR, headers={"Accept": "application/xhtml+xml", "Accept-Language": "eng"})
-    with urllib.request.urlopen(req, timeout=60) as r:
-        return r.read().decode("utf-8")
+EN_ART = {}
+for f in sorted(KILDER.glob("K45-gdpr-en-ch*.md")):
+    EN_ART.update(_units(f.read_text(encoding="utf-8"), "art-"))
+EN_FP = _units((KILDER / "K45-gdpr-en-recitals.md").read_text(encoding="utf-8"), "fp-")
+
+
+def en_clean(s):
+    """Fjern rettelsesmarkører (►C1 … ◄, *▼C1*), rettelsesblokker og fotnotehenvisninger."""
+    s = re.sub(r"^> \*\*\[Rettelse.*$", "", s, flags=re.M)
+    s = re.sub(r"\*?▼C1\*?|►C1|◄", " ", s)
+    return re.sub(r"\[\^\d+\]", "", s)
 
 
 # --- Hjemmel ---------------------------------------------------------------
@@ -97,10 +97,9 @@ def check(term, text, where, errors, soft):
     return alts[0]
 
 
-def main(en_path=None):
-    soup = BeautifulSoup(load_en(en_path), "html.parser")
-    en_art = lambda n: soup.find(id=f"art_{n}").get_text(" ")  # noqa: E731
-    en_fp = lambda n: soup.find(id=f"rct_{n}").get_text(" ")  # noqa: E731
+def main():
+    en_art = lambda n: en_clean(EN_ART[str(n)])  # noqa: E731
+    en_fp = lambda n: en_clean(EN_FP[str(n)])  # noqa: E731
     errors, soft = [], []
 
     # 1. Art. 4-definisjoner, punkt for punkt
@@ -174,8 +173,8 @@ def write(defs, cats, praksis):
         "**Kilder**",
         "",
         "- Norsk: GDPR slik den er inntatt i personopplysningsloven § 1, og personopplysningsloven, begge fra Lovdata (se K42/K43).",
-        f"- Engelsk: Regulation (EU) 2016/679, OJ L 119, 4.5.2016, s. 1–88 (ELI: <{ELI}>), hentet fra EUs publikasjonskontor (Cellar, CELEX 32016R0679) {date.today().isoformat()}. "
-        "Rettelsen i OJ L 127, 23.5.2018, er ikke innarbeidet i denne utgaven.",
+        f"- Engelsk: Regulation (EU) 2016/679, OJ L 119, 4.5.2016 (ELI: <{ELI}>), med rettelsen i OJ L 127, 23.5.2018, slik den står i [K45](kilder/K45-gdpr-en.md) "
+        "(artikler fra EUR-Lex' konsoliderte tekst, fortale fra EU-tidende). Den norske teksten på Lovdata følger også den rettede ordlyden.",
         "- Personopplysningsloven har ingen offisiell engelsk tekst. Norske lovbegreper står derfor uten engelsk motsvar.",
         "",
         "**Bruk**",
@@ -218,4 +217,4 @@ def write(defs, cats, praksis):
 
 
 if __name__ == "__main__":
-    main(sys.argv[1] if len(sys.argv) > 1 else None)
+    main()

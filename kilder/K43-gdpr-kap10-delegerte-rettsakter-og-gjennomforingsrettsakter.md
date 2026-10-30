@@ -13,7 +13,7 @@ relevans: høy
 
 # GDPR kapittel X – Delegerte rettsakter og gjennomføringsrettsakter (art. 92–93)
 
-[← Kap. IX](K43-gdpr-kap09-bestemmelser-om-saerlige-behandlingssituasjoner.md) · [Oversikt K43](K43-gdpr.md) · [Kap. XI →](K43-gdpr-kap11-sluttbestemmelser.md)
+[← Kap. IX](K43-gdpr-kap09-bestemmelser-om-saerlige-behandlingssituasjoner.md) · [Oversikt K43](K43-gdpr.md) · [Kap. XI →](K43-gdpr-kap11-sluttbestemmelser.md) · English: [K45 ch. X](K45-gdpr-en-ch10-delegated-acts-and-implementing-acts.md)
 
 **Ordrett lovtekst:** norsk tekst av forordning (EU) 2016/679 slik den er inntatt i personopplysningsloven § 1 på Lovdata. Lenker er gjort om til ren tekst, og ordlyden er ikke endret.
 
